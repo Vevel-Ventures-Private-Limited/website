@@ -1337,7 +1337,7 @@
                     <div class="thumbnails">
                         ${gallery.slice(1, 6).map(img => `
                             <img src="${img}" alt="${product.name}" 
-                            onclick="document.getElementById('detailMainImg').src=this.src.replace('-140x140', '-800x1000').replace('-300x300', '-800x1000')"
+                            onclick="const highRes = this.src.replace('-140x140', '-800x1000').replace('-300x300', '-800x1000'); document.getElementById('detailMainImg').src = highRes; if (document.getElementById('detailMainImg').naturalWidth < 100) document.getElementById('detailMainImg').src = this.src;"
                                  onerror="this.style.display='none'">
                         `).join('')}
                     </div>
