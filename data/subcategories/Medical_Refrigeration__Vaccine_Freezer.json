@@ -1,0 +1,29 @@
+{
+  "name": "Vaccine Freezer",
+  "category": "Medical Refrigeration",
+  "products": [
+    {
+      "name": "VFW140H-HC",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/03/VFW140HC.403-copy-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "142 L",
+        "Vaccine Capacity": "68 L",
+        "Dimensions (mm) WxDxH": "710(W) X 720(D) X 955(H)",
+        "Safe Temperature Range": "-15°C to -25°C",
+        "No. of Baskets": "4 Nos.",
+        "Temperature Range": "-15°C"
+      }
+    },
+    {
+      "name": "VFW310H-HC",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/VFW310HC.406-copy-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "317 L",
+        "Vaccine Capacity": "166 L",
+        "Dimensions (mm) WxDxH": "1230(W) X 720(D) X 965(H)",
+        "Temperature Range": "-15°C to -25°C",
+        "No. of Baskets": "8 Nos."
+      }
+    }
+  ]
+}

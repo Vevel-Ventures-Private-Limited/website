@@ -1,0 +1,79 @@
+{
+  "name": "WOI-125H",
+  "category": "Western Ice Machine",
+  "categoryPath": "Ice Machine → Western Ice Machine",
+  "link": "https://westernequipments.com/product/ice-machine/western-ice-machine/woi-125/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/04/3.125-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/04/3.125-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/04/3.125-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Left-Angle-5-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Front-angle-open-door-with-ice-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Non-Steel-Ice-Machine-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimensions (mm): 660 (W) x 708 (D) x 1232 (H) MM\nIce Shape: Rhombic Cube\nNo. of cubes/cycle: 126 NOS/cycle\nCapacity:\n Minimum: 57 Kg\n Maximum: 117 Kg\nStorage Capacity: 43.6 Kg\nPower Supply: 230V AC/50Hz",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "External Dimensions (mm)": "660 (W) x 708 (D) x 1232 (H) MM",
+    "Ice Shape": "Rhombic Cube",
+    "Capacity": "",
+    "Storage Capacity": "43.6 Kg"
+  },
+  "differentiatingSpecs": [
+    "Production Capacity",
+    "Ice Shape"
+  ],
+  "variations": {
+    "capacity": [
+      "WOI-45H",
+      "WOI-80H",
+      "WOI-30H"
+    ],
+    "addons": [
+      "Bubble Top",
+      "Storage Bin",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "WOI-45H",
+        "keySpecs": {
+          "External Dimensions (mm)": "500 (W) x 596 (D) x 897 (H)",
+          "Ice Shape": "Rhombic Cube",
+          "Capacity": "",
+          "Storage Capacity": "15 Kg"
+        }
+      },
+      {
+        "name": "WOI-80H",
+        "keySpecs": {
+          "External Dimensions (mm)": "660 (W) x 708 (D) x 1084 (H)",
+          "Ice Shape": "Rhombic Cube",
+          "Capacity": "",
+          "Storage Capacity": "32 Kg"
+        }
+      },
+      {
+        "name": "WOI-125H",
+        "keySpecs": {
+          "External Dimensions (mm)": "660 (W) x 708 (D) x 1232 (H) MM",
+          "Ice Shape": "Rhombic Cube",
+          "Capacity": "",
+          "Storage Capacity": "43.6 Kg"
+        }
+      },
+      {
+        "name": "WOI-30H",
+        "keySpecs": {
+          "External Dimensions (mm)": "415 (W) x 467 (D) x 768 (H – with 25mm leg)",
+          "Ice Shape": "Rhombic Cube",
+          "Capacity": ""
+        }
+      }
+    ]
+  }
+}

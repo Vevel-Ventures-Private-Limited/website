@@ -1,0 +1,57 @@
+{
+  "name": "RBWH135",
+  "category": "Back Bar",
+  "categoryPath": "Back Bar",
+  "link": "https://westernequipments.com/product/back-bar/rbwh135/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/Back-Bar-135-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/Back-Bar-135-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Back-Bar-135-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Front-Angle-10-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Left-Angle-11-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/06/Backbar-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/06/Backbar-2-140x140.png"
+  ],
+  "description": "Gross Volume: 349 Litres\nExternal dimensions: 1350(W)X561(D)X900(H)\nTemperature Range: 0° to 10° C\nNo. Of Shelves: 6",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "349 Litres",
+    "Temperature Range": "0° to 10° C",
+    "No. Of Shelves": "6"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "RBWH95"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Lock"
+    ],
+    "familyProducts": [
+      {
+        "name": "RBWH95",
+        "keySpecs": {
+          "Gross Volume": "226 Litres",
+          "Temperature Range": "0° to 10° C",
+          "No. Of Shelves": "4"
+        }
+      },
+      {
+        "name": "RBWH135",
+        "keySpecs": {
+          "Gross Volume": "349 Litres",
+          "Temperature Range": "0° to 10° C",
+          "No. Of Shelves": "6"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "name": "KM-100S-HC1",
+  "category": "Ice Makers",
+  "categoryPath": "Ice Machine → Hoshizaki Ice Machine → Ice Makers",
+  "link": "https://westernequipments.com/product/ice-machine/hoshizaki-ice-machine/ice-makers/km-100s-hc1/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-Right-Side-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-Open-Bin-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-Right-Side-Open-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-Front-Facing-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-Front-Opening-Bin-140x140.png"
+  ],
+  "description": "Product Specification:\n\n\n\nDimension (mm): 605 (W) x 712 (D) x 933 (H)\nIce Shape: Crescent Cube\nProduction Capacity (A.T. 21°C W.T.15°C): 90 kgs/day\nStorage Capacity:34",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Ice Shape": "Crescent Cube",
+    "Production Capacity (A.T. 21°C W.T.15°C)": "90 kgs/day",
+    "Storage Capacity": "34"
+  },
+  "differentiatingSpecs": [
+    "Production Capacity",
+    "Ice Shape"
+  ],
+  "variations": {
+    "capacity": [
+      "KM 40B",
+      "KM 55B",
+      "KM 80B",
+      "KM-1301SAH E",
+      "KM-40C",
+      "KM-60C",
+      "KM-80C",
+      "KM-130C",
+      "KM140B",
+      "KM-470AJ-S"
+    ],
+    "addons": [
+      "Bubble Top",
+      "Storage Bin",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "KM 40B",
+        "keySpecs": {
+          "Ice Shape": "Crescent Type",
+          "Production Capacity": "43 kgs/day"
+        }
+      },
+      {
+        "name": "KM 55B",
+        "keySpecs": {
+          "Dimensions (mm)": "37 (W)x 30 (D) x 13 (H)",
+          "Ice Shape": "Crescent",
+          "Production Capacity": "53 kgs/day"
+        }
+      },
+      {
+        "name": "KM 80B",
+        "keySpecs": {
+          "Dimensions (mm)": "605(W) x 719(D) x 842(H)",
+          "Ice Shape": "Crescent",
+          "Production Capacity": "79 kgs/day"
+        }
+      },
+      {
+        "name": "KM-1301SAH E",
+        "keySpecs": {
+          "Dimensions (mm)": "560 (W) x 625 (D) x 610 (H)",
+          "Ice Shape": "Crescent",
+          "Production Capacity": "505 kgs/day"
+        }
+      },
+      {
+        "name": "KM-40C",
+        "keySpecs": {
+          "Ice Shape": "Crescent",
+          "Capacity": "27 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "16Kg"
+        }
+      },
+      {
+        "name": "KM-60C",
+        "keySpecs": {
+          "Ice Shape": "Crescent",
+          "Capacity": "60 kgs/day",
+          "Bin Capacity": "26Kg"
+        }
+      },
+      {
+        "name": "KM-100S-HC1",
+        "keySpecs": {
+          "Ice Shape": "Crescent Cube",
+          "Production Capacity (A.T. 21°C W.T.15°C)": "90 kgs/day",
+          "Storage Capacity": "34"
+        }
+      },
+      {
+        "name": "KM-80C",
+        "keySpecs": {
+          "Ice Shape": "Crescent",
+          "Production Capacity": "75 kgs/day",
+          "Bin Capacity": "34"
+        }
+      },
+      {
+        "name": "KM-130C",
+        "keySpecs": {
+          "Ice Shape": "Crescent",
+          "Production Capacity": "130 kgs/day",
+          "Bin Capacity": "55"
+        }
+      },
+      {
+        "name": "KM140B",
+        "keySpecs": {
+          "Dimensions (mm)": "762(W) x 712(D) x 840(H)",
+          "Ice Shape": "Crescent",
+          "Production Capacity": "138 kgs/day"
+        }
+      },
+      {
+        "name": "KM-470AJ-S",
+        "keySpecs": {
+          "Dimensions (mm)": "762(W) x 695(D) x 825(H)",
+          "Ice Shape": "Crescent",
+          "Production Capacity": "495 kgs/day"
+        }
+      }
+    ]
+  }
+}

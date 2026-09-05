@@ -1,0 +1,26 @@
+{
+  "name": "Hatched Top Eutectic",
+  "category": "Deep Freezer",
+  "products": [
+    {
+      "name": "E425D220",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/Dual-Door-Eutectic-Freezer-E425D220-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "351L",
+        "Net Volume": "329L",
+        "No. Of Baskets": "2",
+        "Temperature Range": "<- 17.0°C"
+      }
+    },
+    {
+      "name": "E525D320",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/Hatched-Door-Eutectic-Freezer-E525D320-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "440L",
+        "Net Volume": "406L",
+        "No. Of Baskets": "NA",
+        "Temperature Range": "<- 17.0°C"
+      }
+    }
+  ]
+}

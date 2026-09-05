@@ -1,0 +1,95 @@
+{
+  "name": "B525H220",
+  "category": "Combination Freezers",
+  "categoryPath": "Deep Freezer → Combination Freezers",
+  "link": "https://westernequipments.com/product/deep-freezer/combination/b525h220/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/10/B525H220-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/10/B525H220-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/10/B525H220-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/06/B525H220-Key-Features-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/10/B325H220-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 1610 (W) x 695 (D) x 840 (H)\nGross Volume :\nFreezer Application:                                            215 Liters\nCooler Application :                                            258 Liters\nTemperature range (°C):\nFreezer Application:                                        <- 17.0°C\nCooler Application :                                         < 10.0°C\nNo. of  Baskets: 1 in Freezer Cabinet",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "",
+    "Temperature range (°C)": "",
+    "No. of  Baskets": "1 in Freezer Cabinet",
+    "Temperature Range": ""
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "B301SA",
+      "B501SA",
+      "B801SA",
+      "B325H220",
+      "B425H220"
+    ],
+    "addons": [
+      "Castors (Wheels)",
+      "LED Lighting",
+      "Digital Display",
+      "Lock",
+      "Convertible Technology",
+      "Glass Top",
+      "Baskets"
+    ],
+    "familyProducts": [
+      {
+        "name": "B301SA",
+        "keySpecs": {
+          "Dimensions (mm)": "820 (D) x 1016 (H)",
+          "Capacity": "144 Kgs"
+        }
+      },
+      {
+        "name": "B501SA",
+        "keySpecs": {
+          "Dimensions (mm)": "820 (D) x 1016 (H)",
+          "Capacity": "217 Kgs"
+        }
+      },
+      {
+        "name": "B801SA",
+        "keySpecs": {
+          "Dimensions (mm)": "820 (D) x 1016 (H)",
+          "Capacity": "348 Kgs"
+        }
+      },
+      {
+        "name": "B325H220",
+        "keySpecs": {
+          "Gross Volume": "",
+          "Temperature range (°C)": "",
+          "No. of  Baskets": "1",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "B425H220",
+        "keySpecs": {
+          "Gross Volume": "",
+          "Temperature range (°C)": "",
+          "No. of  Baskets": "1 in Freezer Cabinet",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "B525H220",
+        "keySpecs": {
+          "Gross Volume": "",
+          "Temperature range (°C)": "",
+          "No. of  Baskets": "1 in Freezer Cabinet",
+          "Temperature Range": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Under Counter Freezer",
+  "category": "Stainless Steel Refrigerators",
+  "products": [
+    {
+      "name": "FTWH70MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/RTw-Ftw-70-5.png",
+      "keySpecs": {
+        "Gross Volume": "171 Liters",
+        "Temperature Range": "-7° to 23° C",
+        "No. of Shelves": "2"
+      }
+    },
+    {
+      "name": "FTWH120MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-1.png",
+      "keySpecs": {
+        "Gross Volume": "306 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "4"
+      }
+    },
+    {
+      "name": "FTWP127LS3-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2025/07/Western-SUS-Undercounter-Unit-RTWP127LS3-GN.png",
+      "keySpecs": {
+        "Gross Volume": "282 Liters",
+        "Temperature Range": "-7°C to -23°C",
+        "No. of Shelves": "4 nos. of GN rail (with shelves)"
+      }
+    },
+    {
+      "name": "FTWH126MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-1.png",
+      "keySpecs": {
+        "Gross Volume": "233 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "4"
+      }
+    },
+    {
+      "name": "FTWH150MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw150-156-closed-door.png",
+      "keySpecs": {
+        "Gross Volume": "418 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "4"
+      }
+    },
+    {
+      "name": "FTWH156MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw150-156-closed-door.png",
+      "keySpecs": {
+        "Gross Volume": "318 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "4"
+      }
+    },
+    {
+      "name": "FTWH127MS4-GN/LS4-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-1.png",
+      "keySpecs": {
+        "Gross Volume": "282 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "4"
+      }
+    },
+    {
+      "name": "FTWH177MS4-GN/LS4-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw177-180-186-closesd-door.png",
+      "keySpecs": {
+        "Gross Volume": "436 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "6"
+      }
+    },
+    {
+      "name": "FTWP177LS3-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2025/07/Undercounter-SUS-Units-RTWP177LS3-GN.png",
+      "keySpecs": {
+        "Gross Volume": "436 Liters",
+        "Temperature Range": "-7°C to -23°C",
+        "No. of Shelves": "6"
+      }
+    },
+    {
+      "name": "FTWH180MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw177-180-186-closesd-door.png",
+      "keySpecs": {
+        "Gross Volume": "526 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "6"
+      }
+    },
+    {
+      "name": "FTWH186MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw177-180-186-closesd-door.png",
+      "keySpecs": {
+        "Gross Volume": "400 Liters",
+        "Temperature Range": "-7° to -23° C",
+        "No. of Shelves": "6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "name": "FM1000AKE",
+  "category": "Ice Flakers",
+  "categoryPath": "Ice Machine → Hoshizaki Ice Machine → Ice Flakers",
+  "link": "https://westernequipments.com/product/ice-machine/hoshizaki-ice-machine/hoshizaki-ice-flakers/fm-1000ake-n/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-1000AKE-N-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/06/FM-1000AKE-N-800x1000.png"
+  ],
+  "description": "Product Specification:\n\n\n\nDimension (mm): 762 (W) x 700 (D) x 780 (H)\nIce Shape: Flakes\nCapacity:860 kgs/day\nA.T. 10°C W.T.10°C: 860 kgs/day\nProduction Capacity:\nA.T. 21°C W.T.15°C:730\nA.T. 32°C W.T. 21°C:590\nBin Capacity:Various\nShipping weight (kgs):156",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Ice Shape": "Flakes",
+    "Capacity": "860 kgs/day",
+    "Production Capacity": "",
+    "Bin Capacity": "Various"
+  },
+  "differentiatingSpecs": [
+    "Production Capacity",
+    "Ice Shape"
+  ],
+  "variations": {
+    "capacity": [
+      "FM-80KE",
+      "FM150KE",
+      "FM300AKE/N",
+      "FM80KE/N",
+      "FM150KE/N",
+      "FM300AKE/N",
+      "FM480AKE",
+      "FM600AKE",
+      "FM750AKE"
+    ],
+    "addons": [
+      "Bubble Top",
+      "Storage Bin",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "FM-80KE",
+        "keySpecs": {
+          "Ice Shape": "Flakes",
+          "Capacity": "65 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "32"
+        }
+      },
+      {
+        "name": "FM150KE",
+        "keySpecs": {
+          "Ice Shape": "Flakes",
+          "Capacity": "65 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "32"
+        }
+      },
+      {
+        "name": "FM300AKE/N",
+        "keySpecs": {
+          "Ice Shape": "Nuggets",
+          "Capacity": "270 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      },
+      {
+        "name": "FM80KE/N",
+        "keySpecs": {
+          "Ice Shape": "Nuggets",
+          "Capacity": "65 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "32"
+        }
+      },
+      {
+        "name": "FM150KE/N",
+        "keySpecs": {
+          "Ice Shape": "Flakes/Nuggets",
+          "Capacity": "65 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "32"
+        }
+      },
+      {
+        "name": "FM300AKE/N",
+        "keySpecs": {
+          "Ice Shape": "Flakes/Nuggets",
+          "Capacity": "270 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      },
+      {
+        "name": "FM480AKE",
+        "keySpecs": {
+          "Ice Shape": "Nuggets",
+          "Capacity": "500 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      },
+      {
+        "name": "FM600AKE",
+        "keySpecs": {
+          "Ice Shape": "Flakes",
+          "Capacity": "600 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      },
+      {
+        "name": "FM750AKE",
+        "keySpecs": {
+          "Ice Shape": "Flakes",
+          "Capacity": "590 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      },
+      {
+        "name": "FM1000AKE",
+        "keySpecs": {
+          "Ice Shape": "Flakes",
+          "Capacity": "860 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      }
+    ]
+  }
+}

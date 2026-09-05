@@ -1,0 +1,106 @@
+{
+  "name": "Ice Flakers",
+  "category": "Ice Machine",
+  "products": [
+    {
+      "name": "FM-80KE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-80-KE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Flakes",
+        "Capacity": "65 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "32"
+      }
+    },
+    {
+      "name": "FM150KE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-150KE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Flakes",
+        "Capacity": "65 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "32"
+      }
+    },
+    {
+      "name": "FM300AKE/N",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-300AKE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Nuggets",
+        "Capacity": "270 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "Various"
+      }
+    },
+    {
+      "name": "FM80KE/N",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-80-KE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Nuggets",
+        "Capacity": "65 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "32"
+      }
+    },
+    {
+      "name": "FM150KE/N",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-150KE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Flakes/Nuggets",
+        "Capacity": "65 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "32"
+      }
+    },
+    {
+      "name": "FM300AKE/N",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-300AKE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Flakes/Nuggets",
+        "Capacity": "270 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "Various"
+      }
+    },
+    {
+      "name": "FM480AKE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-480AKE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Nuggets",
+        "Capacity": "500 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "Various"
+      }
+    },
+    {
+      "name": "FM600AKE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-600AKE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Flakes",
+        "Capacity": "600 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "Various"
+      }
+    },
+    {
+      "name": "FM750AKE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-750AKE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Flakes",
+        "Capacity": "590 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "Various"
+      }
+    },
+    {
+      "name": "FM1000AKE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/FM-1000AKE-N-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Flakes",
+        "Capacity": "860 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "Various"
+      }
+    }
+  ]
+}

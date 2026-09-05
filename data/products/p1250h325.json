@@ -1,0 +1,62 @@
+{
+  "name": "P1250H325",
+  "category": "Hard Top Deep Freezers",
+  "categoryPath": "Deep Freezer → Hard Top Deep Freezers",
+  "link": "https://westernequipments.com/product/deep-freezer/hard-top/p1250h325/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/05/P1250H325-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/05/P1250H325-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/05/P1250H325-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/P1250H325-Right-Facing-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/P1250H325-Front-Facing-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 2193 (W) x 918 (D) x 932 (H)\nGross volume: 988 Liters\nTemperature range (°C):\n\nFreezer Application: < – 17.0°C\nCooler Application:  10°C\n\n\nNo. of Baskets: 2\nEnergy Star Rating : 5 Star",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Temperature range (°C)": "",
+    "No. of Baskets": "2",
+    "Energy Star Rating": "5 Star",
+    "Temperature Range": ""
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Energy Star Ratings",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "P650H325"
+    ],
+    "addons": [
+      "Castors (Wheels)",
+      "LED Lighting",
+      "Digital Display",
+      "Lock",
+      "Convertible Technology",
+      "Glass Top",
+      "Baskets"
+    ],
+    "familyProducts": [
+      {
+        "name": "P1250H325",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "2",
+          "Energy Star Rating": "5 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "P650H325",
+        "keySpecs": {
+          "Temperature range (°C)": "< – 17.0°C",
+          "No. of Baskets": "2",
+          "Energy Star Rating": "5 Star",
+          "Temperature Range": ""
+        }
+      }
+    ]
+  }
+}

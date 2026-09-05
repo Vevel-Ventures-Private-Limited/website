@@ -1,0 +1,55 @@
+{
+  "name": "RTDW187MS4-333",
+  "category": "Under Counter Drawer",
+  "categoryPath": "Stainless Steel Refrigerators → Under Counter Product → Under Counter Drawer",
+  "link": "https://westernequipments.com/product/stainless-steel/under-counter-product/drawers/rtdw187ms4-333/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/RTDW187-333-RTDW187MS4-333_Left-Angle_-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/RTDW187-333-RTDW187MS4-333_Left-Angle_-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/RTDW187-333-RTDW187MS4-333_Left-Angle_-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-Drawer-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-Drawer-2-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-Drawer-3-140x140.png"
+  ],
+  "description": "Product Specification:\n\nGross Volume: 461 Liters\nExternal dimensions : 1765 (W) x 700 (D) x 850 (H)\nPower Supply: 230V AC/50 Hz\nTemperature Range: -2° to 12° C\nNo. of Drawers: 9",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "461 Liters",
+    "Temperature Range": "-2° to 12° C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "RTDW137MS4-33"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "RTDW137MS4-33",
+        "keySpecs": {
+          "Gross Volume": "305 Liters",
+          "Temperature Range": "-2° to 12° C"
+        }
+      },
+      {
+        "name": "RTDW187MS4-333",
+        "keySpecs": {
+          "Gross Volume": "461 Liters",
+          "Temperature Range": "-2° to 12° C"
+        }
+      }
+    ]
+  }
+}

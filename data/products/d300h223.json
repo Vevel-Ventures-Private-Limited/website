@@ -1,0 +1,182 @@
+{
+  "name": "D300H223",
+  "category": "Hard Top Deep Freezers",
+  "categoryPath": "Deep Freezer → Hard Top Deep Freezers",
+  "link": "https://westernequipments.com/product/deep-freezer/hard-top/d300h223/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/05/D300H223-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/05/D300H223-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/05/D300H223-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/D300H223-Front-Facing-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/D300H223-Open-Door-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 933 (W) x 612 (D) x 890 (H)\nGross volume: 224 Liters\nTemperature range (°C):\nFreezer Application:                                        < – 17.0°C\nCooler Application :                                         < 10.0°C\nNo. of Baskets: 1\nEnergy Star Ratings : 3 Star\nFreezer Cum Cooler Convertible Technology",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Temperature range (°C)": "",
+    "No. of Baskets": "1",
+    "Energy Star Ratings": "3 Star",
+    "Temperature Range": ""
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Energy Star Ratings",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "D70H161",
+      "D150H163",
+      "D225H121",
+      "D340H222",
+      "D350H224",
+      "D475H223",
+      "D525H223",
+      "D550H224",
+      "D300H123",
+      "D300H222",
+      "D375H265",
+      "D625H225",
+      "D875H324"
+    ],
+    "addons": [
+      "Castors (Wheels)",
+      "LED Lighting",
+      "Digital Display",
+      "Lock",
+      "Convertible Technology",
+      "Glass Top",
+      "Baskets"
+    ],
+    "familyProducts": [
+      {
+        "name": "D70H161",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "1 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D150H163",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "3 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D225H121",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "2 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D300H223",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "3 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D340H222",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "2 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D350H224",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "4 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D475H223",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "2",
+          "Energy Star Ratings": "3 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D525H223",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "4 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D550H224",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "2",
+          "Energy Star Ratings": "4 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D300H123",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "3",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D300H222",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "2",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D375H265",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "5 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D625H225",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "2",
+          "Energy Star Ratings": "5 Star",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "D875H324",
+        "keySpecs": {
+          "Temperature range (°C)": "",
+          "No. of Baskets": "1",
+          "Energy Star Ratings": "4 Star",
+          "Temperature Range": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "PTW12HC",
+  "category": "Pastry Cabinet",
+  "categoryPath": "Pastry Cabinet",
+  "link": "https://westernequipments.com/product/pastry-cabinet/ptw12/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/Right-Angle-With-Stock-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/Right-Angle-With-Stock-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Right-Angle-With-Stock-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Right-Angle-2-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Front-Angle-7-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Left-Angle-8-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/PTW-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm) : 1200 (W) X 665 (D) X 1235 (H)\nGross Volume: 500 Liters\nTemperature Range: 2° to 10° C\nNo. Of Shelves: Base + 3 Shelves",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "500 Liters",
+    "Temperature Range": "2° to 10° C",
+    "No. Of Shelves": "Base + 3 Shelves"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range",
+    "No. of Shelves"
+  ],
+  "variations": {
+    "capacity": [
+      "PTW06HC",
+      "PTW09HC",
+      "PTW12HC-GD",
+      "PTW15HC",
+      "PTW15PHC-SBX"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Castors",
+      "Lock",
+      "Adjustable Shelves"
+    ],
+    "familyProducts": [
+      {
+        "name": "PTW06HC",
+        "keySpecs": {
+          "Gross Volume": "232",
+          "Temperature Range": "2° to 10° C",
+          "No. Of Shelves": "Base + 3 Shelves"
+        }
+      },
+      {
+        "name": "PTW09HC",
+        "keySpecs": {
+          "Gross Volume": "360 Liters",
+          "Temperature Range": "2° to 10° C",
+          "No. Of Shelves": "Base + 3 Shelves"
+        }
+      },
+      {
+        "name": "PTW12HC",
+        "keySpecs": {
+          "Gross Volume": "500 Liters",
+          "Temperature Range": "2° to 10° C",
+          "No. Of Shelves": "Base + 3 Shelves"
+        }
+      },
+      {
+        "name": "PTW12HC-GD",
+        "keySpecs": {
+          "Gross Volume": "660 litre",
+          "Temperature Range": "2° to 10° C",
+          "No. of Shelves": "Base + 3 Shelves"
+        }
+      },
+      {
+        "name": "PTW15HC",
+        "keySpecs": {
+          "Gross Volume": "660",
+          "Temperature Range": "2° to 10° C",
+          "No. Of Shelves": "Base + 3 Shelves"
+        }
+      },
+      {
+        "name": "PTW15PHC-SBX",
+        "keySpecs": {
+          "Gross Volume": "",
+          "Shelves": "",
+          "Temperature Range": "2°C to 5°C"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "HRW-187MS4/LS4",
+  "category": "Upright Chiller",
+  "categoryPath": "Stainless Steel Refrigerators → Upright Product → Upright Chiller",
+  "link": "https://westernequipments.com/product/stainless-steel/upright-product/upright-chiller/hrwh-187ms4/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFW-187-HRW-187MS4_left-Angle-1-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFW-187-HRW-187MS4_left-Angle-1-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFW-187-HRW-187MS4_left-Angle-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Upright-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Upright-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions : 1800 (W) x 818 (D) x 1990 (H)\nGross Volume: 1720 Litres\nPower Supply: 230V AC / 50Hz\nNo. of Shelves: 12\nTemperature Range: -2° to 12° C",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "1720 Litres",
+    "No. of Shelves": "12",
+    "Temperature Range": "-2° to 12° C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "HRW-126MS4",
+      "HRW-76MS4"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "HRW-126MS4",
+        "keySpecs": {
+          "Gross Volume": "988 Liter",
+          "No. of Shelves": "08",
+          "Temperature Range": "-2° to 12° C"
+        }
+      },
+      {
+        "name": "HRW-76MS4",
+        "keySpecs": {
+          "Gross Volume": "507 Litres",
+          "No. of Shelves": "04",
+          "Temperature Range": "-2° to 12° C"
+        }
+      },
+      {
+        "name": "HRW-187MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "1720 Litres",
+          "No. of Shelves": "12",
+          "Temperature Range": "-2° to 12° C"
+        }
+      }
+    ]
+  }
+}

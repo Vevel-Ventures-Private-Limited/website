@@ -1,0 +1,16 @@
+{
+  "name": "Vending Machine",
+  "category": "Vending Machine",
+  "products": [
+    {
+      "name": "VMW1000",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/VMW1000-Vending-Machine-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "1150 L",
+        "Net Volume": "1110 L",
+        "Temperature Range": "0°C to 10°C.",
+        "No. of Shelves": "6"
+      }
+    }
+  ]
+}

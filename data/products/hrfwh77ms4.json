@@ -1,0 +1,60 @@
+{
+  "name": "HRFWH77MS4",
+  "category": "Upright Combination",
+  "categoryPath": "Stainless Steel Refrigerators → Upright Product → Upright Combination",
+  "link": "https://westernequipments.com/product/stainless-steel/upright-product/upright-combination/hrfwh-77ms4/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRFWH-77_Left-View-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/HRFWH-77_Left-View-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/HRFWH-77_Left-View-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Upright-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Upright-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimensions (90mm Leg) : 700 (W) x 818 (D) x 1990 (H)\nGross Volume:\n Freezer: 305 Liters\n Chiller:  305 Liters\nTemperature Range:\n Freezer: -16°C to -25°C\n Chiller: -2°C TO 12°C\nPower Supply: 230V AC / 50Hz\nNo. of Shelves: 04\nProduct Variations:",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "External Dimensions (90mm Leg)": "700 (W) x 818 (D) x 1990 (H)",
+    "Gross Volume": "",
+    "Temperature Range": "",
+    "No. of Shelves": "04"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "HRFWH127MS4"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "HRFWH77MS4",
+        "keySpecs": {
+          "External Dimensions (90mm Leg)": "700 (W) x 818 (D) x 1990 (H)",
+          "Gross Volume": "",
+          "Temperature Range": "",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "HRFWH127MS4",
+        "keySpecs": {
+          "External Dimensions (90mm Leg)": "1200 (W) x 818 (D) x 1990 (H)",
+          "Gross Volume": "",
+          "Temperature Range": "",
+          "No. of Shelves": "08"
+        }
+      }
+    ]
+  }
+}

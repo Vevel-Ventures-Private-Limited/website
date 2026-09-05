@@ -1,0 +1,123 @@
+{
+  "name": "Single Door",
+  "category": "Visi Cooler",
+  "products": [
+    {
+      "name": "SRC200HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC200HC-GL.png",
+      "keySpecs": {
+        "Gross Volume": "167 Liters",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "03"
+      }
+    },
+    {
+      "name": "SRC201HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC201HC-GL-Front-View-With-Product-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "167 Liters",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "03"
+      }
+    },
+    {
+      "name": "SRC250HC1-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC250HC1-GL-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "216 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "SRC280HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC280HC-GL-Front-Angle-With-Stock-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "216 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "SRC281HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC281HC-GL-Front-View.png",
+      "keySpecs": {
+        "Gross Volume": "216 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "SRC360HCF-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC360HCF-GL-Front-Angle-with-stock-closed-door-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "302 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "05"
+      }
+    },
+    {
+      "name": "SRC380HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC380HC-GL-Front-Angle-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "340 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "05"
+      }
+    },
+    {
+      "name": "SRC381HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC381HC-GL-Front-View-1-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "340 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "05"
+      }
+    },
+    {
+      "name": "SRC501HCF-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC501HCF-GL-Front-View-1-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "405 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "06"
+      }
+    },
+    {
+      "name": "SRC502HC-GLGY",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC502HC-GLGY-Front-View.png",
+      "keySpecs": {
+        "Gross Volume": "460 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "06"
+      }
+    },
+    {
+      "name": "SRC505HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC505HC-GL-Front-View.png",
+      "keySpecs": {
+        "Gross Volume": "458 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "06"
+      }
+    },
+    {
+      "name": "SRC572HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC572HC-Front-Angle-With-Stock-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "510 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "06"
+      }
+    },
+    {
+      "name": "SRC752HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC752HC-Front-Angle-With-Stock-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "585 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "06"
+      }
+    }
+  ]
+}

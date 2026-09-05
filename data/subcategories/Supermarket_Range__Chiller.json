@@ -1,0 +1,44 @@
+{
+  "name": "Chiller",
+  "category": "Supermarket Range",
+  "products": [
+    {
+      "name": "WOSC04WH",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-17-800x1000.png",
+      "keySpecs": {
+        "Net Volume": "610 Liters",
+        "Temperature Range": "1°C to 10°C",
+        "No. of Shelves": "04",
+        "Capacity": "610 Liters"
+      }
+    },
+    {
+      "name": "WOSC06WH",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-18-800x1000.png",
+      "keySpecs": {
+        "Net Volume": "920 Liters",
+        "Temperature Range": "1°C to 10°C",
+        "No. of Shelves": "04",
+        "Capacity": "920 Liters"
+      }
+    },
+    {
+      "name": "SMR12-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SMR12-GL-Left-Angle-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "935 Liters",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "10"
+      }
+    },
+    {
+      "name": "SMR18-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SMR18-Left-Angle-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "1454 litres",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "15"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "KMD270AA",
+  "category": "Ice Makers",
+  "categoryPath": "Ice Machine → Hoshizaki Ice Machine → Ice Makers",
+  "link": "https://westernequipments.com/product/ice-machine/hoshizaki-ice-machine/ice-makers/kmd-270aa/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/09/KMD-270AA.webp",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/09/KMD-270AA.webp"
+  ],
+  "description": "Product Specification:\n\n\n\nDimension (mm): 398 (W) x 510 (D) x 695 (H)\nIce Shape: Square\nCapacity: 265 kgs/day\nA.T. 10°C W.T.10°C: 265\nProduction Capacity:\nA.T. 21°C W.T.15°C:248\nA.T. 32°C W.T. 21°C:221\nBin Capacity:Various\nShipping weight (kgs):73",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Ice Shape": "Square",
+    "Capacity": "265 kgs/day",
+    "Production Capacity": "",
+    "Bin Capacity": "Various"
+  },
+  "differentiatingSpecs": [
+    "Production Capacity",
+    "Ice Shape"
+  ],
+  "variations": {
+    "capacity": [
+      "KMD201AA"
+    ],
+    "addons": [
+      "Bubble Top",
+      "Storage Bin",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "KMD201AA",
+        "keySpecs": {
+          "Ice Shape": "Crescent",
+          "Capacity": "",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      },
+      {
+        "name": "KMD270AA",
+        "keySpecs": {
+          "Ice Shape": "Square",
+          "Capacity": "265 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "Various"
+        }
+      }
+    ]
+  }
+}

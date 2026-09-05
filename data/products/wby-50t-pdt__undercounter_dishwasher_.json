@@ -1,0 +1,56 @@
+{
+  "name": "WBY-50T-PDT (Undercounter Dishwasher)",
+  "category": "Dishwasher",
+  "categoryPath": "Dishwasher",
+  "link": "https://westernequipments.com/product/dishwasher/wby-50t-pdt/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/WBY-50T-PDT-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/WBY-50T-PDT-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/WBY-50T-PDT-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/03/Dishwasher-4-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/03/Dishwasher-2-1-140x140.png"
+  ],
+  "description": "Dimensions (mm): 595(W) x 645(D) (661 with handle) x 830(H)\nWeight (kg): 70 (+/- 5)\nWashing Capacity (Basket/Hr): 35/27/23/20/18\nWashing Tank Capacity: 27 Liters\nBoiler Tank Capacity: 6 Liters\nWater consumption: 2.8 ltr. per cycle\nWashing Pump Power: 0.66 kW\nRinsing Pump Power: 0.25 kW\nMax Noise: 70dBA",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Dimensions (mm)": "595(W) x 645(D) (661 with handle) x 830(H)",
+    "Washing Capacity (Basket/Hr)": "35/27/23/20/18",
+    "Washing Tank Capacity": "27 Liters",
+    "Boiler Tank Capacity": "6 Liters",
+    "Capacity": "27 Liters"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "WBY-40T-PDT"
+    ],
+    "addons": [],
+    "familyProducts": [
+      {
+        "name": "WBY-50T-PDT (Undercounter Dishwasher)",
+        "keySpecs": {
+          "Dimensions (mm)": "595(W) x 645(D) (661 with handle) x 830(H)",
+          "Washing Capacity (Basket/Hr)": "35/27/23/20/18",
+          "Washing Tank Capacity": "27 Liters",
+          "Boiler Tank Capacity": "6 Liters",
+          "Capacity": "27 Liters"
+        }
+      },
+      {
+        "name": "WBY-40T-PDT",
+        "keySpecs": {
+          "Dimensions (mm)": "475(W) x 540(D) (558 with handle) x 765(H)",
+          "Washing Capacity (Basket / Hr)": "33/26/18",
+          "Washing Tank Capacity": "18.4 Liters",
+          "Boiler Tank Capacity": "2.8 Liters",
+          "Capacity": "18.4 Liters"
+        }
+      }
+    ]
+  }
+}

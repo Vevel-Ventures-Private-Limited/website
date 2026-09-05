@@ -1,0 +1,24 @@
+{
+  "name": "Ice Dispenser",
+  "category": "Ice Dispenser",
+  "products": [
+    {
+      "name": "DCM-60KE",
+      "image": "https://westernequipments.com/wp-content/uploads/2023/10/DCM-60KE-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "350 (W) x 585 (D) x 645 (H)",
+        "Ice Shape": "Cube let",
+        "Production capacity": "110 Cups/Hour"
+      }
+    },
+    {
+      "name": "DCM-120KE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/DCM-120KE-1-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "350(W) x 585(D) x 765(H)",
+        "Ice Shape": "Cube Let",
+        "Production capacity": "230 cups/hour"
+      }
+    }
+  ]
+}

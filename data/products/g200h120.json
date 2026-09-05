@@ -1,0 +1,67 @@
+{
+  "name": "G200H120",
+  "category": "Freezer on Wheels",
+  "categoryPath": "Deep Freezer → Freezer on Wheels",
+  "link": "https://westernequipments.com/product/deep-freezer/freezer-on-wheels/g200h120/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/G200H120-1-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/G200H120-1-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/G200H120-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/G200H120-2-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/G200H120-3-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/G200H120-4-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 940 (W) x 640 (D) x 785 (H)\nGross volume: 117 Liters\nTemperature range (°C): < – 17.0°C\nNo. of Baskets: N/A",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Temperature range (°C)": "< – 17.0°C",
+    "No. of Baskets": "N/A",
+    "Temperature Range": ""
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "G250H120",
+      "G300H220"
+    ],
+    "addons": [
+      "Castors (Wheels)",
+      "LED Lighting",
+      "Digital Display",
+      "Lock",
+      "Convertible Technology",
+      "Glass Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "G200H120",
+        "keySpecs": {
+          "Temperature range (°C)": "< – 17.0°C",
+          "No. of Baskets": "N/A",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "G250H120",
+        "keySpecs": {
+          "Temperature range (°C)": "< – 17.0°C",
+          "No. of Baskets": "N/A",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "G300H220",
+        "keySpecs": {
+          "Temperature Range": "< – 17.0°C",
+          "No. of Baskets": "N/A"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Precoated Water Cooler",
+  "category": "Storage Water Cooler",
+  "products": [
+    {
+      "name": "PWC4080HC",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/PWC-40806080-1-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "80 litre",
+        "Cooling Capacity Rating": "40 litre per hour"
+      }
+    },
+    {
+      "name": "PWC6080",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/PWC-40806080-1-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "80 litre",
+        "Cooling Capacity Rating": "60 litre per Hour"
+      }
+    },
+    {
+      "name": "PWC80120",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/PWC80120-1-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "120 litre",
+        "Cooling Capacity Rating": "80 litre per Hour"
+      }
+    },
+    {
+      "name": "PWC150150",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/10/PWC-150150-Right-Angle-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "150 litre",
+        "Cooling Capacity Rating": "150 litre per Hour"
+      }
+    }
+  ]
+}

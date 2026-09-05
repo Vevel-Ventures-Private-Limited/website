@@ -1,0 +1,15 @@
+{
+  "name": "Glass Top Eutectic",
+  "category": "Deep Freezer",
+  "products": [
+    {
+      "name": "E425GT20",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/10/E425GT20-3-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "< – 17.0°C",
+        "No. of Baskets": "2",
+        "Temperature Range": ""
+      }
+    }
+  ]
+}

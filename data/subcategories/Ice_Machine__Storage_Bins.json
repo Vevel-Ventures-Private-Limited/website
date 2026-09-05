@@ -1,0 +1,30 @@
+{
+  "name": "Storage Bins",
+  "category": "Ice Machine",
+  "products": [
+    {
+      "name": "B301SA",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/1-1-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "820 (D) x 1016 (H)",
+        "Capacity": "144 Kgs"
+      }
+    },
+    {
+      "name": "B501SA",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/2-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "820 (D) x 1016 (H)",
+        "Capacity": "217 Kgs"
+      }
+    },
+    {
+      "name": "B801SA",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/3-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "820 (D) x 1016 (H)",
+        "Capacity": "348 Kgs"
+      }
+    }
+  ]
+}

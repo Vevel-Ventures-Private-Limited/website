@@ -1,0 +1,176 @@
+{
+  "name": "Hard Top Deep Freezers",
+  "category": "Deep Freezer",
+  "products": [
+    {
+      "name": "D70H161",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/Deep-Freezer-D70H161-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "1 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D150H163",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D151H163-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "3 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D225H121",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D225H121-Convertible-Unit-Deep-Freezer-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "2 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D300H223",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D300H223-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "3 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D340H222",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D340H222-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "2 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D350H224",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D350H224-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "4 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D475H223",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D475H223-Front-View-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "2",
+        "Energy Star Ratings": "3 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D525H223",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D525H223-Front-View-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "4 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D550H224",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/D550H224-Left-View-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "2",
+        "Energy Star Ratings": "4 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D300H123",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/D300H123-Single-Door-Deep-Freezer-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "3",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D300H222",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/D300H222-1-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "2",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D375H265",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/D375H265-Left-view-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "5 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D625H225",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/D625H225-Deep-Freezer-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "2",
+        "Energy Star Ratings": "5 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "D875H324",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/D875H324-Deep-Freezer-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1",
+        "Energy Star Ratings": "4 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "F325H223",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/F325H223-1-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "1 (Freezer Only)",
+        "Energy Star Ratings": "3 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "P1250H325",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/P1250H325-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "",
+        "No. of Baskets": "2",
+        "Energy Star Rating": "5 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "P650H325",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/05/P650H325-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "< – 17.0°C",
+        "No. of Baskets": "2",
+        "Energy Star Rating": "5 Star",
+        "Temperature Range": ""
+      }
+    }
+  ]
+}

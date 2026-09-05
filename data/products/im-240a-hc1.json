@@ -1,0 +1,136 @@
+{
+  "name": "IM-240A-HC1",
+  "category": "Ice Makers",
+  "categoryPath": "Ice Machine → Hoshizaki Ice Machine → Ice Makers",
+  "link": "https://westernequipments.com/product/ice-machine/hoshizaki-ice-machine/ice-makers/im-240a-hc1/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-Right-Angle-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-Right-Angle-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20720%20720'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-Right-Angle-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-Front-Facing-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-Right-Facing-Open-Bin-140x140.png"
+  ],
+  "description": "Product Specification:\n\nNet Weight: 73kg\nDimensions (mm): 560(W) x 700(D) x 880(H)\nIce Shape/Size (mm): Cube / 28x28x32\nProduction Capacity: 190 kgs/day\nRefrigerant: R-290",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Dimensions (mm)": "560(W) x 700(D) x 880(H)",
+    "Ice Shape/Size (mm)": "Cube / 28x28x32",
+    "Production Capacity": "190 kgs/day"
+  },
+  "differentiatingSpecs": [
+    "Production Capacity",
+    "Ice Shape"
+  ],
+  "variations": {
+    "capacity": [
+      "IM130NE",
+      "IM240NE",
+      "IM-30CA",
+      "IM 45CA",
+      "IM130A",
+      "IM220AA",
+      "IM-65NE-Q",
+      "IM-65NE-LM",
+      "IM-45CNE"
+    ],
+    "addons": [
+      "Bubble Top",
+      "Storage Bin",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "IM130NE",
+        "keySpecs": {
+          "Dimensions (mm)": "704(W) x 506(D) x 1200(H)",
+          "Ice Shape": "Cube",
+          "Production Capacity": "100 kgs/day"
+        }
+      },
+      {
+        "name": "IM240NE",
+        "keySpecs": {
+          "Dimensions (mm)": "704(W) x 665(D) x 1600(H)",
+          "Ice Shape": "Cube",
+          "Production Capacity": "220 kgs/day"
+        }
+      },
+      {
+        "name": "IM-30CA",
+        "keySpecs": {
+          "Ice Shape": "Square",
+          "Capacity": "27 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "12"
+        }
+      },
+      {
+        "name": "IM 45CA",
+        "keySpecs": {
+          "Ice Shape": "Square",
+          "Capacity": "45 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "12"
+        }
+      },
+      {
+        "name": "IM130A",
+        "keySpecs": {
+          "Dimensions (mm)": "60(W) x 570(D) x 1200(H)",
+          "Ice Shape": "Square",
+          "Production Capacity": "126 Kgs/Day"
+        }
+      },
+      {
+        "name": "IM220AA",
+        "keySpecs": {
+          "Dimensions (mm)": "560 (W) x D639 (D) x 775 (H)",
+          "Ice Shape": "Square",
+          "Production Capacity": "175Kg/day"
+        }
+      },
+      {
+        "name": "IM-240A-HC1",
+        "keySpecs": {
+          "Dimensions (mm)": "560(W) x 700(D) x 880(H)",
+          "Ice Shape/Size (mm)": "Cube / 28x28x32",
+          "Production Capacity": "190 kgs/day"
+        }
+      },
+      {
+        "name": "IM-65NE-Q",
+        "keySpecs": {
+          "Ice Shape": "Ball",
+          "Capacity": "26 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "17"
+        }
+      },
+      {
+        "name": "IM-65NE-LM",
+        "keySpecs": {
+          "Ice Shape": "Extra large",
+          "Capacity": "40 kgs/day",
+          "Production Capacity": "",
+          "Bin Capacity": "26"
+        }
+      },
+      {
+        "name": "IM-45CNE",
+        "keySpecs": {
+          "Dimensions (mm)": "633 (W) x 506 (D) x 690 (H)",
+          "Ice Shape": "Square",
+          "Production Capacity": "44 kgs/day",
+          "Capacity": "36 kgs/day",
+          "Bin Capacity": "15"
+        }
+      }
+    ]
+  }
+}

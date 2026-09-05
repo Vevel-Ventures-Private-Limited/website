@@ -1,0 +1,17 @@
+{
+  "name": "Glass Washer",
+  "category": "Glass Washer",
+  "products": [
+    {
+      "name": "WBY-40T-PDT",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/04/glass-whasher-800x1000.jpg",
+      "keySpecs": {
+        "Dimensions (mm)": "475(W) x 540(D) (558 with handle) x 765(H)",
+        "Washing Capacity (Basket / Hr)": "33/26/18",
+        "Washing Tank Capacity": "18.4 Liters",
+        "Boiler Tank Capacity": "2.8 Liters",
+        "Capacity": "18.4 Liters"
+      }
+    }
+  ]
+}

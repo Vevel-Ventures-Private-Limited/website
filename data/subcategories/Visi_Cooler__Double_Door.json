@@ -1,0 +1,33 @@
+{
+  "name": "Double Door",
+  "category": "Visi Cooler",
+  "products": [
+    {
+      "name": "SRC810HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC810HC-GL-Front-View-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "695 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "10"
+      }
+    },
+    {
+      "name": "SRC950HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC950-Front-Angle-With-Stock-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "807 litre",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "10"
+      }
+    },
+    {
+      "name": "SRC1050HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/SRC1050HC-GL-Front-View-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "908 Liters",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "12"
+      }
+    }
+  ]
+}

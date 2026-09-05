@@ -1,0 +1,26 @@
+{
+  "name": "Upright Combination",
+  "category": "Stainless Steel Refrigerators",
+  "products": [
+    {
+      "name": "HRFWH77MS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRFWH-77_Left-View-800x1000.png",
+      "keySpecs": {
+        "External Dimensions (90mm Leg)": "700 (W) x 818 (D) x 1990 (H)",
+        "Gross Volume": "",
+        "Temperature Range": "",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "HRFWH127MS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRFWH-127-1-800x1000.png",
+      "keySpecs": {
+        "External Dimensions (90mm Leg)": "1200 (W) x 818 (D) x 1990 (H)",
+        "Gross Volume": "",
+        "Temperature Range": "",
+        "No. of Shelves": "08"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "HRWP77LS3-GN",
+  "category": "Upright Chiller",
+  "categoryPath": "Stainless Steel Refrigerators → Upright Product → Upright Chiller",
+  "link": "https://westernequipments.com/product/stainless-steel/upright-product/upright-chiller/hrwp77ls3-gn/",
+  "image": "https://westernequipments.com/wp-content/uploads/2025/07/Western-SUS-Upright-HRWP77LS3-GN-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2025/07/Western-SUS-Upright-HRWP77LS3-GN-800x1000.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions :700 (W) x 887 (D) x 1990 (H)\nGross Volume:620 Liter\nPower Supply:230V AC / 50Hz\nNo. of Shelves:4 nos. of GN rail (with shelves)\nTemperature Range:-2° to 12° C",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "620 Liter",
+    "No. of Shelves": "4 nos. of GN rail (with shelves)",
+    "Temperature Range": "-2° to 12° C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "HRWP147LS3-GN"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "HRWP147LS3-GN",
+        "keySpecs": {
+          "Gross Volume": "1350 Liter",
+          "No. of Shelves": "8 nos. of GN rail (with shelves)",
+          "Temperature Range": "-2° to 12° C"
+        }
+      },
+      {
+        "name": "HRWP77LS3-GN",
+        "keySpecs": {
+          "Gross Volume": "620 Liter",
+          "No. of Shelves": "4 nos. of GN rail (with shelves)",
+          "Temperature Range": "-2° to 12° C"
+        }
+      }
+    ]
+  }
+}

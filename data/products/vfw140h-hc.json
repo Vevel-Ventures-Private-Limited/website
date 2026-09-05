@@ -1,0 +1,65 @@
+{
+  "name": "VFW140H-HC",
+  "category": "Vaccine Freezer",
+  "categoryPath": "Medical Refrigeration → Vaccine Freezer",
+  "link": "https://westernequipments.com/product/medical-refrigerator/vaccine-freezer-medical-refrigerator/vfw140h-hc/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/03/VFW140HC.403-copy-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/03/VFW140HC.403-copy-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/03/VFW140HC.403-copy-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/03/VFW140HC.404-copy-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Violet-vaccine-Freezer-both-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Violet-vaccine-Freezer-both-1-140x140.png"
+  ],
+  "description": "Product Specification:\n\nGross Volume: 142 L\nVaccine Capacity: 68 L\nDimensions (mm) WxDxH: 710(W) X 720(D) X 955(H)\nSafe Temperature Range: -15°C to -25°C\nOperating Condition: +5°C to +43°C\nNo. of Baskets: 4 Nos.\nRefrigerant: R-290",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "142 L",
+    "Vaccine Capacity": "68 L",
+    "Dimensions (mm) WxDxH": "710(W) X 720(D) X 955(H)",
+    "Safe Temperature Range": "-15°C to -25°C",
+    "No. of Baskets": "4 Nos.",
+    "Temperature Range": "-15°C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "VFW310H-HC"
+    ],
+    "addons": [
+      "Temperature Data Logger",
+      "Battery Backup",
+      "Lock",
+      "Audible Alarm"
+    ],
+    "familyProducts": [
+      {
+        "name": "VFW140H-HC",
+        "keySpecs": {
+          "Gross Volume": "142 L",
+          "Vaccine Capacity": "68 L",
+          "Dimensions (mm) WxDxH": "710(W) X 720(D) X 955(H)",
+          "Safe Temperature Range": "-15°C to -25°C",
+          "No. of Baskets": "4 Nos.",
+          "Temperature Range": "-15°C"
+        }
+      },
+      {
+        "name": "VFW310H-HC",
+        "keySpecs": {
+          "Gross Volume": "317 L",
+          "Vaccine Capacity": "166 L",
+          "Dimensions (mm) WxDxH": "1230(W) X 720(D) X 965(H)",
+          "Temperature Range": "-15°C to -25°C",
+          "No. of Baskets": "8 Nos."
+        }
+      }
+    ]
+  }
+}

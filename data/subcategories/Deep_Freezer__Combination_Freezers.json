@@ -1,0 +1,36 @@
+{
+  "name": "Combination Freezers",
+  "category": "Deep Freezer",
+  "products": [
+    {
+      "name": "B325H220",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/10/B325H220-1-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "",
+        "Temperature range (°C)": "",
+        "No. of  Baskets": "1",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "B425H220",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/10/B425H220-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "",
+        "Temperature range (°C)": "",
+        "No. of  Baskets": "1 in Freezer Cabinet",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "B525H220",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/10/B525H220-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "",
+        "Temperature range (°C)": "",
+        "No. of  Baskets": "1 in Freezer Cabinet",
+        "Temperature Range": ""
+      }
+    }
+  ]
+}

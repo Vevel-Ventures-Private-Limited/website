@@ -1,0 +1,121 @@
+{
+  "name": "FTWH70MS4/LS4",
+  "category": "Under Counter Freezer",
+  "categoryPath": "Stainless Steel Refrigerators → Under Counter Product → Under Counter Freezer",
+  "link": "https://westernequipments.com/product/stainless-steel/under-counter-product/under-counter-freezer/ftwh70ms4/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/RTw-Ftw-70-5.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/RTw-Ftw-70-5.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/RTw-Ftw-70-5-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-1-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-2-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-Door-3-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions : 700 (W) x 755 (D) x 850 (H)\nGross Volume: 171 Liters\nPower Supply: 230V AC/50 Hz\nTemperature Range: -7° to 23° C\nNo. of Shelves: 2\nProduct Variations:\n\t\t\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 25%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tWith Splash Back Top 150mm",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "171 Liters",
+    "Temperature Range": "-7° to 23° C",
+    "No. of Shelves": "2"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "FTWH120MS4/LS4",
+      "FTWH126MS4/LS4",
+      "FTWH150MS4/LS4",
+      "FTWH156MS4/LS4",
+      "FTWH127MS4-GN/LS4-GN",
+      "FTWH177MS4-GN/LS4-GN",
+      "FTWH180MS4/LS4",
+      "FTWH186MS4/LS4"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "FTWH70MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "171 Liters",
+          "Temperature Range": "-7° to 23° C",
+          "No. of Shelves": "2"
+        }
+      },
+      {
+        "name": "FTWH120MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "306 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH126MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "233 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH150MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "418 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH156MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "318 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH127MS4-GN/LS4-GN",
+        "keySpecs": {
+          "Gross Volume": "282 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH177MS4-GN/LS4-GN",
+        "keySpecs": {
+          "Gross Volume": "436 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "6"
+        }
+      },
+      {
+        "name": "FTWH180MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "526 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "6"
+        }
+      },
+      {
+        "name": "FTWH186MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "400 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "No. of Shelves": "6"
+        }
+      }
+    ]
+  }
+}

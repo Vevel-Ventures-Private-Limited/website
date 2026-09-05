@@ -1,0 +1,99 @@
+{
+  "name": "SRF405HC",
+  "category": "Vertical Freezer",
+  "categoryPath": "Vertical Freezer",
+  "link": "https://westernequipments.com/product/vertical-freezer/srf405hc/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/05/SRF405-Righttt-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/05/SRF405-Righttt-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/05/SRF405-Righttt-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/SRF405-Right-2-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/SRF405-Front-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/SRF405-Left-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/05/SRF405-Right-140x140.png"
+  ],
+  "description": "Product Specification:\n\nGross volume: 344 L\nNet Volume: 295 L\nExternal Dimension (mm) WxDxH: 623 x 657 x 1852\nInternal Dimension (mm) WxDxH: 503 x 513 x 1331\nProduct Display Area (m2): 0.69\nFootprint (m2): 0.42\nTemperature Range: -18°C to -24°C\nNo. of Shelves: 5\nRefrigerant: R-290",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Net Volume": "295 L",
+    "Temperature Range": "-18°C to -24°C",
+    "No. of Shelves": "5",
+    "Capacity": "295 L"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "SRF205HC",
+      "SRF295HC",
+      "SRF555HC",
+      "SRF80HC/SRF85HC",
+      "SRF825HC"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Lock"
+    ],
+    "familyProducts": [
+      {
+        "name": "SRF205HC",
+        "keySpecs": {
+          "Net Volume": "109 L",
+          "Temperature Range": "-26°C to -18°C",
+          "No. of Shelves": "3",
+          "Capacity": "109 L"
+        }
+      },
+      {
+        "name": "SRF295HC",
+        "keySpecs": {
+          "Net Volume": "136 L",
+          "Temperature Range": "-26°C to -18°C",
+          "No. of Shelves": "4",
+          "Capacity": "136 L"
+        }
+      },
+      {
+        "name": "SRF405HC",
+        "keySpecs": {
+          "Net Volume": "295 L",
+          "Temperature Range": "-18°C to -24°C",
+          "No. of Shelves": "5",
+          "Capacity": "295 L"
+        }
+      },
+      {
+        "name": "SRF555HC",
+        "keySpecs": {
+          "Net Volume": "405 L",
+          "Temperature Range": "-26°C to -18°C",
+          "No. of Shelves": "6",
+          "Capacity": "405 L"
+        }
+      },
+      {
+        "name": "SRF80HC/SRF85HC",
+        "keySpecs": {
+          "Net Volume": "68 L",
+          "Temperature Range": "-18°C to -24°C",
+          "No. of Shelves": "2",
+          "Capacity": "68 L"
+        }
+      },
+      {
+        "name": "SRF825HC",
+        "keySpecs": {
+          "Net Volume": "623 L",
+          "Temperature Range": "-28°C to -15°C",
+          "No. of Shelves": "5",
+          "Capacity": "623 L"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Ice Cuber Special Series",
+  "category": "Ice Machine",
+  "products": [
+    {
+      "name": "IM-65NE-Q",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/IM-65NEQ-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Ball",
+        "Capacity": "26 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "17"
+      }
+    },
+    {
+      "name": "IM-65NE-LM",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/IM-65NE-LM-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Extra large",
+        "Capacity": "40 kgs/day",
+        "Production Capacity": "",
+        "Bin Capacity": "26"
+      }
+    },
+    {
+      "name": "IM-45CNE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/IM-45CNE-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "633 (W) x 506 (D) x 690 (H)",
+        "Ice Shape": "Square",
+        "Production Capacity": "44 kgs/day",
+        "Capacity": "36 kgs/day",
+        "Bin Capacity": "15"
+      }
+    }
+  ]
+}

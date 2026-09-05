@@ -1,0 +1,44 @@
+{
+  "name": "WBM-1080-T           (Hood Type Dishwasher)",
+  "category": "Dishwasher",
+  "categoryPath": "Dishwasher",
+  "link": "https://westernequipments.com/product/dishwasher/wbm-1080-t/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/03/WBM-1080-T-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/03/WBM-1080-T-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/03/WBM-1080-T-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/03/Dishwasher-4-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/03/Dishwasher-2-1-140x140.png"
+  ],
+  "description": "Dimensions (mm): 700(W) x 785(D) x 1480(H)\nElectricity Consumption: 9.66 kW 380 V 3NPE 50Hz\nWashing Capacity (Basket/Hr): 69/35/27/23/18\nWashing Tank Capacity: 22 Liters\nBoiler Tank Capacity: 7 Liters\nWashing Pump Power: 0.66 kW\nRinsing Pump Power: 0.25 kW\nWashing Heat Power: 2 kW\nRinsing Heat Power: 9 kW\nMax Noise: 70dBA",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Dimensions (mm)": "700(W) x 785(D) x 1480(H)",
+    "Washing Capacity (Basket/Hr)": "69/35/27/23/18",
+    "Washing Tank Capacity": "22 Liters",
+    "Boiler Tank Capacity": "7 Liters",
+    "Capacity": "22 Liters"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [],
+    "addons": [],
+    "familyProducts": [
+      {
+        "name": "WBM-1080-T           (Hood Type Dishwasher)",
+        "keySpecs": {
+          "Dimensions (mm)": "700(W) x 785(D) x 1480(H)",
+          "Washing Capacity (Basket/Hr)": "69/35/27/23/18",
+          "Washing Tank Capacity": "22 Liters",
+          "Boiler Tank Capacity": "7 Liters",
+          "Capacity": "22 Liters"
+        }
+      }
+    ]
+  }
+}

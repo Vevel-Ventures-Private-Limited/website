@@ -1,0 +1,53 @@
+{
+  "name": "WOSC06WH",
+  "category": "Chiller",
+  "categoryPath": "Supermarket Range → Chiller",
+  "link": "https://westernequipments.com/product/super-market-freezer-smf/super-market-chiller/wosc06wh/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-18-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-18-800x1000.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 1890 W) x 750 (D) x 1930 (H)\nNet Volume: 920 Liters\nTemperature Range: 1°C to 10°C\nNo. of Shelves: 04",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Net Volume": "920 Liters",
+    "Temperature Range": "1°C to 10°C",
+    "No. of Shelves": "04",
+    "Capacity": "920 Liters"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "WOSC04WH"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "WOSC04WH",
+        "keySpecs": {
+          "Net Volume": "610 Liters",
+          "Temperature Range": "1°C to 10°C",
+          "No. of Shelves": "04",
+          "Capacity": "610 Liters"
+        }
+      },
+      {
+        "name": "WOSC06WH",
+        "keySpecs": {
+          "Net Volume": "920 Liters",
+          "Temperature Range": "1°C to 10°C",
+          "No. of Shelves": "04",
+          "Capacity": "920 Liters"
+        }
+      }
+    ]
+  }
+}

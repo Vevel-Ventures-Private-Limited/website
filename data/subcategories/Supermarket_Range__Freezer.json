@@ -1,0 +1,23 @@
+{
+  "name": "Freezer",
+  "category": "Supermarket Range",
+  "products": [
+    {
+      "name": "SMF18-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SMF18-Left-Angle-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "1454 litres",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "15"
+      }
+    },
+    {
+      "name": "SMF12",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Left-Angle-800x1000.png",
+      "keySpecs": {
+        "No. of Shelves": "10",
+        "Temperature Range": "<-18°C"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Triple Door",
+  "category": "Visi Cooler",
+  "products": [
+    {
+      "name": "SRC1800-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/src1800-gl-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "1882 Litres",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "15"
+      }
+    }
+  ]
+}

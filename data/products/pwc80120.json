@@ -1,0 +1,66 @@
+{
+  "name": "PWC80120",
+  "category": "Precoated Water Cooler",
+  "categoryPath": "Storage Water Cooler → Precoated Water Cooler",
+  "link": "https://westernequipments.com/product/water-cooler/precoated-water-cooler/pwc80120/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/PWC80120-1-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/PWC80120-1-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/PWC80120-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Water-Cooler-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Water-Cooler-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions: 670 (W) x 821 (D) x 1241 (H)\nEquipment Type : Storage Type Water Cooler\nWater Storage Capacity: 120 litre\nCooling Capacity Rating: 80 litre per Hour\nFaucet type / Qty.: Push Cock / 2 No’s.\nCold Faucet (Qty) / Normal Faucet (Qty): 2 Nos / 0 Nos.",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Water Storage Capacity": "120 litre",
+    "Cooling Capacity Rating": "80 litre per Hour"
+  },
+  "differentiatingSpecs": [
+    "Storage Capacity",
+    "Cooling Rate"
+  ],
+  "variations": {
+    "capacity": [
+      "PWC4080HC",
+      "PWC6080",
+      "PWC150150"
+    ],
+    "addons": [
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "PWC4080HC",
+        "keySpecs": {
+          "Water Storage Capacity": "80 litre",
+          "Cooling Capacity Rating": "40 litre per hour"
+        }
+      },
+      {
+        "name": "PWC6080",
+        "keySpecs": {
+          "Water Storage Capacity": "80 litre",
+          "Cooling Capacity Rating": "60 litre per Hour"
+        }
+      },
+      {
+        "name": "PWC80120",
+        "keySpecs": {
+          "Water Storage Capacity": "120 litre",
+          "Cooling Capacity Rating": "80 litre per Hour"
+        }
+      },
+      {
+        "name": "PWC150150",
+        "keySpecs": {
+          "Water Storage Capacity": "150 litre",
+          "Cooling Capacity Rating": "150 litre per Hour"
+        }
+      }
+    ]
+  }
+}

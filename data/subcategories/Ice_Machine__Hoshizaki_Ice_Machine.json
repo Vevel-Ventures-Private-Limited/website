@@ -1,0 +1,68 @@
+{
+  "name": "Hoshizaki Ice Machine",
+  "category": "Ice Machine",
+  "products": [
+    {
+      "name": "IM130NE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/IM-130NE-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "704(W) x 506(D) x 1200(H)",
+        "Ice Shape": "Cube",
+        "Production Capacity": "100 kgs/day"
+      }
+    },
+    {
+      "name": "IM240NE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/IM-240NE-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "704(W) x 665(D) x 1600(H)",
+        "Ice Shape": "Cube",
+        "Production Capacity": "220 kgs/day"
+      }
+    },
+    {
+      "name": "KM 40B",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/KM-40B-800x1000.png",
+      "keySpecs": {
+        "Ice Shape": "Crescent Type",
+        "Production Capacity": "43 kgs/day"
+      }
+    },
+    {
+      "name": "KM 55B",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/KM-55B-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "37 (W)x 30 (D) x 13 (H)",
+        "Ice Shape": "Crescent",
+        "Production Capacity": "53 kgs/day"
+      }
+    },
+    {
+      "name": "KM 80B",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/KM-80B-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "605(W) x 719(D) x 842(H)",
+        "Ice Shape": "Crescent",
+        "Production Capacity": "79 kgs/day"
+      }
+    },
+    {
+      "name": "KM-1301SAH E",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/KM-1301SAJ-E-B-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "560 (W) x 625 (D) x 610 (H)",
+        "Ice Shape": "Crescent",
+        "Production Capacity": "505 kgs/day"
+      }
+    },
+    {
+      "name": "KM140B",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/06/KM-140B-800x1000.png",
+      "keySpecs": {
+        "Dimensions (mm)": "762(W) x 712(D) x 840(H)",
+        "Ice Shape": "Crescent",
+        "Production Capacity": "138 kgs/day"
+      }
+    }
+  ]
+}

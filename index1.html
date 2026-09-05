@@ -1,0 +1,1217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vevel Ventures – Commercial Refrigeration</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <style>
+        /* ================================================================
+           CSS – Full styles with Updates
+           ================================================================ */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --navy: #0b2545;
+            --sapphire: #0f52ba;
+            --slate: #64748b;
+            --light: #f8fafc;
+            --border: #e2e8f0;
+            --shadow: 0 8px 20px rgba(11,37,69,0.08);
+        }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; background: var(--light); color: var(--navy); line-height: 1.6; }
+        
+        /* HEADER & LOGO */
+        header {
+            background: var(--navy);
+            color: white;
+            padding: 0.8rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+            flex-wrap: wrap;
+        }
+        .logo { 
+            display: flex; 
+            align-items: center; 
+            gap: 0.8rem; 
+            cursor: pointer;
+        }
+        .logo img { 
+            height: 42px; 
+            width: 42px; 
+            display: block; 
+            border-radius: 10px; /* Slightly curved edges */
+            object-fit: cover;
+            background: white; 
+            padding: 2px;
+        }
+        .logo-text {
+            font-size: 1.3rem;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            color: white;
+        }
+        nav a { color: #94a3b8; text-decoration: none; margin-left: 1.8rem; font-weight: 600; font-size: 0.95rem; transition: color 0.2s; cursor: pointer; }
+        nav a:hover { color: white; }
+        nav a.active { color: white; border-bottom: 2px solid var(--sapphire); padding-bottom: 4px; }
+        
+        /* PAGES */
+        .page { display: none; padding: 2rem 2rem 4rem; max-width: 1400px; margin: 0 auto; }
+        .page.active { display: block; }
+        
+        /* HERO */
+        .hero {
+            background: linear-gradient(135deg, var(--navy) 0%, var(--sapphire) 100%);
+            color: white;
+            padding: 4rem 3rem;
+            border-radius: 16px;
+            margin-bottom: 2.5rem;
+            text-align: center;
+            box-shadow: 0 8px 30px rgba(11,37,69,0.25);
+        }
+        .hero h1 { font-size: 3.5rem; font-weight: 900; letter-spacing: -0.5px; margin-bottom: 0.5rem; }
+        .hero p { font-size: 1.3rem; opacity: 0.9; max-width: 700px; margin: 0 auto 1.5rem; font-weight: 500; }
+        .hero .btn {
+            background: white;
+            color: var(--navy);
+            border: none;
+            padding: 0.9rem 2.4rem;
+            font-size: 1.1rem;
+            font-weight: 700;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: inline-block;
+            text-decoration: none;
+        }
+        .hero .btn:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+        
+        .section-title {
+            font-size: 2rem;
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            color: var(--navy);
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+        }
+        .section-title::after {
+            content: '';
+            flex: 1;
+            height: 3px;
+            background: linear-gradient(90deg, var(--sapphire), transparent);
+        }
+        
+        /* CAROUSEL */
+        .carousel-container {
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 2.5rem;
+            border-radius: 12px;
+            background: white;
+            box-shadow: var(--shadow);
+            padding: 1.5rem 0;
+        }
+        .carousel-track {
+            display: flex;
+            gap: 1.5rem;
+            padding: 0 2rem;
+            transition: transform 0.6s ease;
+            will-change: transform;
+        }
+        .carousel-item {
+            flex: 0 0 220px;
+            background: var(--light);
+            border-radius: 12px;
+            padding: 1rem;
+            text-align: center;
+            border: 1px solid var(--border);
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: var(--navy);
+        }
+        .carousel-item:hover { transform: translateY(-6px); box-shadow: 0 8px 25px rgba(11,37,69,0.12); }
+        .carousel-item img {
+            width: 100%;
+            height: 150px;
+            object-fit: contain;
+            background: white;
+            border-radius: 8px;
+            margin-bottom: 0.5rem;
+            border: 1px solid var(--border);
+        }
+        .carousel-item h4 { font-size: 1rem; font-weight: 700; margin: 0.3rem 0; }
+        .carousel-item p { font-size: 0.8rem; color: var(--slate); }
+        .carousel-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: white;
+            border: none;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+            cursor: pointer;
+            z-index: 2;
+            font-size: 1.2rem;
+            color: var(--navy);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+        }
+        .carousel-btn:hover { background: var(--sapphire); color: white; }
+        .carousel-btn.left { left: 0.5rem; }
+        .carousel-btn.right { right: 0.5rem; }
+        
+        /* ABOUT */
+        .about {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem 2.5rem;
+            box-shadow: var(--shadow);
+            margin-bottom: 2.5rem;
+        }
+        .about h2 { font-size: 1.8rem; font-weight: 800; margin-bottom: 0.5rem; color: var(--navy); }
+        .about p { color: var(--slate); max-width: 800px; margin-bottom: 1.2rem; }
+        .about .badges {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+        .about .badge-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: 600;
+            color: var(--navy);
+        }
+        .about .badge-item i { color: var(--sapphire); font-size: 1.3rem; }
+        
+        /* FEATURED */
+        .featured-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2.5rem;
+        }
+        .featured-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem;
+            border: 1px solid var(--border);
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: var(--navy);
+        }
+        .featured-card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+        .featured-card img {
+            width: 100%;
+            height: 160px;
+            object-fit: contain;
+            background: white;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            margin-bottom: 0.5rem;
+        }
+        .featured-card h4 { font-size: 0.95rem; font-weight: 700; }
+        .featured-card p { font-size: 0.8rem; color: var(--slate); }
+        
+        /* BREADCRUMB */
+        .breadcrumb {
+            font-size: 0.9rem;
+            color: var(--slate);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+        }
+        .breadcrumb a {
+            color: var(--navy);
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .breadcrumb a:hover { color: var(--sapphire); }
+        .breadcrumb .sep { color: var(--slate); margin: 0 0.3rem; }
+        .breadcrumb .current { color: var(--slate); font-weight: 400; }
+        
+        /* SUBCATEGORY GRID */
+        .subcategory-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2.5rem;
+        }
+        .subcategory-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem;
+            border: 1px solid var(--border);
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .subcategory-card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+        .subcategory-card img {
+            width: 100%;
+            height: 120px;
+            object-fit: contain;
+            background: white;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            margin-bottom: 0.5rem;
+        }
+        .subcategory-card h4 { font-size: 0.95rem; font-weight: 700; }
+        .subcategory-card p { font-size: 0.75rem; color: var(--slate); }
+        
+        /* PRODUCT GRID */
+        #subcategoryContent {
+            display: grid !important;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)) !important;
+            gap: 1.5rem !important;
+            width: 100% !important;
+            align-items: start;
+        }
+        .product-grid .product-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem;
+            border: 1px solid var(--border);
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: var(--navy);
+            width: 100% !important;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100%;
+        }
+        .product-grid .product-card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+        .product-grid .product-card img {
+            width: 100%;
+            height: 160px;
+            object-fit: contain;
+            background: white;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            margin-bottom: 0.5rem;
+        }
+        .product-grid .product-card h4 { font-size: 0.9rem; font-weight: 700; }
+        .product-grid .product-card .specs {
+            font-size: 0.7rem;
+            color: var(--slate);
+            margin-top: 0.3rem;
+        }
+        .product-grid .product-card .spec-hint {
+            font-size: 0.65rem;
+            color: var(--slate);
+            margin-top: 0.5rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+            justify-content: center;
+        }
+        .product-grid .product-card .spec-hint span {
+            background: var(--light);
+            padding: 0.2rem 0.6rem;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+        }
+        
+        /* DETAIL PAGE */
+        .detail-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2.5rem;
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: var(--shadow);
+        }
+        .detail-gallery { display: flex; flex-direction: column; gap: 0.8rem; }
+        .detail-gallery .main-img {
+            width: 100%;
+            height: 380px;
+            object-fit: contain;
+            background: #fafafa;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            padding: 0.5rem;
+        }
+        .detail-gallery .thumbnails { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+        .detail-gallery .thumbnails img {
+            width: 70px;
+            height: 70px;
+            object-fit: contain;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            cursor: pointer;
+            padding: 0.2rem;
+            transition: border-color 0.2s;
+        }
+        .detail-gallery .thumbnails img:hover { border-color: var(--sapphire); }
+        .detail-info h2 { font-size: 1.8rem; font-weight: 800; margin-bottom: 0.2rem; }
+        .detail-info .category-path { color: var(--slate); font-size: 0.85rem; margin-bottom: 0.5rem; }
+        .quick-summary {
+            background: var(--light);
+            padding: 0.6rem 1rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--navy);
+            border-left: 4px solid var(--sapphire);
+            margin-bottom: 0.5rem;
+        }
+        .detail-info .description {
+            color: var(--slate);
+            margin-bottom: 1.2rem;
+            line-height: 1.7;
+            white-space: pre-wrap;
+        }
+        .detail-info .description ul { list-style: disc; padding-left: 1.5rem; margin: 0.5rem 0; }
+        .detail-info .description ul li { margin-bottom: 0.3rem; }
+        .call-btn {
+            display: inline-block;
+            background: var(--sapphire);
+            color: white;
+            padding: 0.8rem 2.5rem;
+            border-radius: 50px;
+            font-weight: 700;
+            font-size: 1rem;
+            text-decoration: none;
+            margin: 0.8rem 0 0;
+            transition: background 0.2s, transform 0.2s;
+            border: none;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+        .call-btn:hover { background: var(--navy); transform: translateY(-2px); }
+        .full-specs {
+            margin-top: 1.5rem;
+            border-top: 1px solid var(--border);
+            padding-top: 1.5rem;
+        }
+        .full-specs table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+        .full-specs table td { padding: 0.5rem 0.8rem; border-bottom: 1px solid var(--border); }
+        .full-specs table td:first-child { font-weight: 600; color: var(--slate); width: 40%; }
+        .features-list { display: flex; flex-wrap: wrap; gap: 0.5rem 0.8rem; margin: 0.5rem 0 0.8rem; }
+        .features-list .feature-tag {
+            background: var(--light);
+            padding: 0.2rem 0.8rem;
+            border-radius: 30px;
+            border: 1px solid var(--border);
+            font-size: 0.8rem;
+            color: var(--navy);
+        }
+        
+        /* FOOTER */
+        footer {
+            background: var(--navy);
+            color: white;
+            padding: 3rem 2rem 2rem;
+            margin-top: 2rem;
+        }
+        footer .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 3rem;
+        }
+        footer h3 { font-size: 1.2rem; margin-bottom: 1.2rem; color: white; }
+        footer p, footer a { color: #cbd5e1; text-decoration: none; line-height: 1.8; }
+        footer a:hover { color: white; }
+        footer ul { list-style: none; padding: 0; }
+        footer ul li { margin-bottom: 0.8rem; display: flex; align-items: center; gap: 0.8rem; }
+        footer ul li i { color: var(--sapphire); font-size: 1.1rem; width: 20px; text-align: center; }
+        
+        .footer-brand {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.2rem;
+        }
+        .footer-brand img {
+            height: 48px;
+            border-radius: 12px;
+            background: white;
+            padding: 2px;
+        }
+        .footer-brand h3 {
+            margin-bottom: 0;
+            font-size: 1.3rem;
+            font-weight: 800;
+        }
+        
+        .social-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(255,255,255,0.1);
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            color: white;
+            text-decoration: none;
+            transition: background 0.3s, transform 0.2s;
+            font-weight: 600;
+        }
+        .social-btn:hover { background: var(--sapphire); color: white; transform: translateY(-2px); }
+        .social-btn i { font-size: 1.2rem; }
+        
+        .loading { text-align: center; padding: 3rem; color: var(--slate); }
+        
+        /* FILTER CONTROLS */
+        .subcategory-controls {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem 1.5rem;
+            box-shadow: var(--shadow);
+            margin-bottom: 1.5rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            align-items: center;
+        }
+        .subcategory-controls .search-box { display: flex; gap: 0.5rem; align-items: center; flex: 1 1 200px; }
+        .subcategory-controls .search-box input {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border);
+            border-radius: 30px;
+            font-size: 0.9rem;
+            width: 100%;
+            min-width: 120px;
+        }
+        .subcategory-controls .search-box button {
+            background: var(--sapphire);
+            color: white;
+            border: none;
+            padding: 0.5rem 1.2rem;
+            border-radius: 30px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+        .subcategory-controls .search-box button:hover { background: var(--navy); }
+        .subcategory-controls .filter-group { display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center; }
+        .subcategory-controls .filter-group select {
+            padding: 0.4rem 0.8rem;
+            border: 1px solid var(--border);
+            border-radius: 30px;
+            font-size: 0.85rem;
+            background: white;
+            min-width: 100px;
+        }
+        .subcategory-controls .filter-group .filter-label { font-size: 0.8rem; font-weight: 600; color: var(--slate); }
+        .subcategory-controls .action-buttons { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+        .subcategory-controls .action-buttons button {
+            padding: 0.4rem 1.2rem;
+            border-radius: 30px;
+            border: none;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.85rem;
+            transition: background 0.2s;
+        }
+        .subcategory-controls .action-buttons .apply-btn { background: var(--sapphire); color: white; }
+        .subcategory-controls .action-buttons .apply-btn:hover { background: var(--navy); }
+        .subcategory-controls .action-buttons .reset-btn { background: var(--light); color: var(--slate); border: 1px solid var(--border); }
+        .subcategory-controls .action-buttons .reset-btn:hover { background: var(--border); }
+        .subcategory-controls .product-count { font-size: 0.85rem; color: var(--slate); margin-left: auto; white-space: nowrap; }
+        .show-more-btn {
+            background: var(--light);
+            border: 1px solid var(--border);
+            padding: 0.6rem 1.5rem;
+            border-radius: 30px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+            margin-top: 1rem;
+            display: inline-block;
+        }
+        .show-more-btn:hover { background: var(--sapphire); color: white; border-color: var(--sapphire); }
+        
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.2rem; }
+            .detail-container { grid-template-columns: 1fr; }
+            .detail-gallery .main-img { height: 250px; }
+            .featured-grid { grid-template-columns: 1fr 1fr; }
+            .carousel-item { flex: 0 0 160px; }
+            header { flex-wrap: wrap; gap: 0.5rem; }
+            nav a { margin-left: 1rem; font-size: 0.8rem; }
+            .subcategory-controls { flex-direction: column; align-items: stretch; }
+            .subcategory-controls .product-count { margin-left: 0; text-align: center; }
+            .subcategory-controls .filter-group { flex-wrap: wrap; }
+        }
+        @media (max-width: 480px) {
+            .hero { padding: 2rem 1rem; }
+            .featured-grid { grid-template-columns: 1fr; }
+            .subcategory-grid { grid-template-columns: 1fr 1fr; }
+            #subcategoryContent { grid-template-columns: 1fr !important; }
+            .logo-text { font-size: 1.1rem; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ================================================================
+     HEADER
+     ================================================================ -->
+<header>
+    <div class="logo" onclick="navigateTo('home')">
+        <img src="logo.svg" alt="Vevel Ventures Logo" onerror="this.style.display='none';" />
+        <span class="logo-text">Vevel Ventures</span>
+    </div>
+    <nav>
+        <a class="active" onclick="navigateTo('home')">Home</a>
+        <a onclick="navigateTo('products')">Products</a>
+        <a href="tel:+919552230380" style="color:white; border:1px solid var(--sapphire); padding:0.3rem 1.2rem; border-radius:30px;">
+            Call Now
+        </a>
+    </nav>
+</header>
+
+<!-- ================================================================
+     HOME PAGE
+     ================================================================ -->
+<div id="page-home" class="page active">
+    <div class="hero">
+        <h1>Vevel Ventures</h1>
+        <p>Premium Commercial Refrigeration &amp; Cooling Infrastructure</p>
+        <a href="#" onclick="navigateTo('products')" class="btn">Explore Products →</a>
+    </div>
+    <div class="carousel-container">
+        <div class="carousel-track" id="categoryCarousel"></div>
+        <button class="carousel-btn left" onclick="moveCarousel(-1)">‹</button>
+        <button class="carousel-btn right" onclick="moveCarousel(1)">›</button>
+    </div>
+    <div class="about">
+        <h2>Who We Are</h2>
+        <p><strong>Vevel Ventures Private Limited</strong> is a specialized startup distributing top-tier commercial refrigeration brands like <strong>Western Equipment</strong> and <strong>Hoshizaki</strong>. Operating from our dedicated central showroom space, we prioritize clean functional design, product accuracy, and providing businesses with highly reliable cooling infrastructure.</p>
+        <div class="badges">
+            <span class="badge-item"><i class="fas fa-shield-alt"></i> 1-Year Warranty</span>
+            <span class="badge-item"><i class="fas fa-truck"></i> Pan-India Delivery</span>
+            <span class="badge-item"><i class="fas fa-hand-holding-usd"></i> Factory Direct Pricing</span>
+        </div>
+    </div>
+    <div class="section-title">⭐ Featured Products</div>
+    <div class="featured-grid" id="featuredGrid"></div>
+</div>
+
+<!-- ================================================================
+     PRODUCTS PAGE (Categories)
+     ================================================================ -->
+<div id="page-products" class="page">
+    <div class="breadcrumb">
+        <a onclick="navigateTo('home')">Home</a>
+        <span class="sep">/</span>
+        <span class="current">Products</span>
+    </div>
+    <div class="section-title">All Categories</div>
+    <div id="categoryGrid" class="subcategory-grid"></div>
+</div>
+
+<!-- ================================================================
+     SUB-CATEGORY PAGE
+     ================================================================ -->
+<div id="page-subcategory" class="page">
+    <div class="breadcrumb" id="subBreadcrumb">
+        <a onclick="navigateTo('home')">Home</a>
+        <span class="sep">/</span>
+        <a onclick="navigateTo('products')">Products</a>
+        <span class="sep">/</span>
+        <span id="subBreadcrumbCatLink" style="display:inline;"></span>
+        <span class="sep" id="subBreadcrumbSep" style="display:none;">/</span>
+        <span class="current" id="subBreadcrumbText">Sub-Category</span>
+    </div>
+
+    <div class="section-title" id="subcategoryTitle">Products</div>
+
+    <div class="subcategory-controls" id="subcategoryControls">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search by model or spec..." />
+            <button onclick="searchProducts()"><i class="fas fa-search"></i></button>
+        </div>
+        <div class="filter-group" id="filterGroup"></div>
+        <div class="action-buttons">
+            <button class="apply-btn" onclick="applyFilters()">Apply Filters</button>
+            <button class="reset-btn" onclick="resetFilters()">Reset</button>
+        </div>
+        <div class="product-count" id="productCount">Showing 0 of 0 products</div>
+    </div>
+
+    <div id="subcategoryContent" class="product-grid"></div>
+    <div id="showMoreContainer" style="text-align:center; margin-top:1rem;"></div>
+</div>
+
+<!-- ================================================================
+     DETAIL PAGE
+     ================================================================ -->
+<div id="page-detail" class="page">
+    <div class="breadcrumb" id="detailBreadcrumb">
+        <a onclick="navigateTo('home')">Home</a>
+        <span class="sep">/</span>
+        <a onclick="navigateTo('products')">Products</a>
+        <span class="sep">/</span>
+        <a onclick="goBackToSubcategory()" id="detailBreadcrumbCat">Category</a>
+        <span class="sep">/</span>
+        <span class="current" id="detailBreadcrumbProduct">Product</span>
+    </div>
+    <div id="productDetailContent"></div>
+</div>
+
+<!-- ================================================================
+     FOOTER
+     ================================================================ -->
+<footer>
+    <div class="footer-content">
+        <div>
+            <div class="footer-brand">
+                <img src="logo.svg" alt="Vevel Ventures Logo" onerror="this.style.display='none';" />
+                <h3>Vevel Ventures Pvt. Ltd.</h3>
+            </div>
+            <p>Authorized Commercial Refrigeration Distributor</p>
+            <p style="margin-top:1.2rem; color:#cbd5e1; font-size:0.95rem;">
+                📍 Rayatwari Colliery, near Neem Vatika Garden,<br />
+                Chandrapur - 442401
+            </p>
+        </div>
+        <div>
+            <h3 style="margin-bottom: 1.2rem;">Contact Us</h3>
+            <ul>
+                <li>
+                    <i class="fas fa-phone"></i>
+                    <a href="tel:+919552230380">+91 95522 30380</a>
+                </li>
+                <li>
+                    <i class="fas fa-envelope"></i>
+                    <a href="mailto:sales@vevelventures.com">sales@vevelventures.com</a>
+                </li>
+                <li>
+                    <i class="fas fa-globe"></i>
+                    <a href="https://vevelventures.com">vevelventures.com</a>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <h3 style="margin-bottom: 1.2rem;">Connect With Us</h3>
+            <div>
+                <a href="#" class="social-btn">
+                    <i class="fab fa-instagram"></i> Instagram
+                </a>
+            </div>
+            <p style="margin-top:2.5rem; font-size:0.85rem; color:#94a3b8;">&copy; 2026 Vevel Ventures Private Limited. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<!-- ================================================================
+     JAVASCRIPT
+     ================================================================ -->
+<script>
+    // GLOBALS
+    let categoriesData = [];
+    let currentCarouselIndex = 0;
+    let carouselInterval;
+    let currentSubcategoryProducts = [];
+    let currentFilteredProducts = [];
+    let currentProductName = '';
+    let currentCategoryName = '';
+    let currentSubCategoryName = '';
+    let filterSpecs = [];
+
+    // NAVIGATION
+    function navigateTo(page) {
+        document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+        document.getElementById('page-' + page).classList.add('active');
+        document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+        document.querySelectorAll('nav a').forEach(a => {
+            if (a.textContent.toLowerCase() === page) a.classList.add('active');
+            if (page === 'home' && a.textContent === 'Home') a.classList.add('active');
+            if ((page === 'products' || page === 'subcategory' || page === 'detail') &&
+                a.textContent === 'Products') a.classList.add('active');
+        });
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function goBackToSubcategory() {
+        if (currentCategoryName && currentSubCategoryName) {
+            loadSubCategoryProducts(currentCategoryName, currentSubCategoryName);
+        } else if (currentCategoryName) {
+            loadSubCategory(currentCategoryName);
+        } else {
+            navigateTo('products');
+        }
+    }
+
+    // LOAD CATEGORIES
+    async function loadCategories() {
+        try {
+            const resp = await fetch('data/categories.json');
+            categoriesData = await resp.json();
+            renderHomeCarousel();
+            renderCategoryGrid();
+            renderFeaturedProducts();
+            startAutoSlide();
+        } catch (e) {
+            console.error(e);
+            document.getElementById('categoryCarousel').innerHTML =
+                '<div class="loading">⚠️ Failed to load categories.</div>';
+        }
+    }
+
+    // CAROUSEL & GRIDS
+    function renderHomeCarousel() {
+        const container = document.getElementById('categoryCarousel');
+        const items = categoriesData.slice(0, 8);
+        const doubled = [...items, ...items];
+        container.innerHTML = doubled.map(cat =>
+            `
+            <div class="carousel-item" onclick="loadSubCategory('${cat.name.replace(/'/g, "\\'")}')">
+                <img src="${cat.image}" alt="${cat.name}" onerror="this.src='https://via.placeholder.com/150/cccccc/000000?text=${cat.name}'">
+                <h4>${cat.name}</h4>
+                <p>${cat.productCount} Products</p>
+            </div>
+        `
+        ).join('');
+    }
+
+    function startAutoSlide() {
+        const container = document.getElementById('categoryCarousel');
+        const items = container.querySelectorAll('.carousel-item');
+        if (items.length === 0) return;
+        const maxIndex = items.length / 2 - 4;
+        if (carouselInterval) clearInterval(carouselInterval);
+        carouselInterval = setInterval(() => {
+            const currentTransform = parseInt(container.style.transform.replace('translateX(-', '').replace('px)', '')) || 0;
+            const step = 220 + 24;
+            if (currentTransform >= maxIndex * step) {
+                container.style.transition = 'none';
+                container.style.transform = 'translateX(0px)';
+                setTimeout(() => {
+                    container.style.transition = 'transform 0.6s ease';
+                    container.style.transform = `translateX(-${step}px)`;
+                }, 20);
+            } else {
+                container.style.transform = `translateX(-${currentTransform + step}px)`;
+            }
+        }, 3000);
+    }
+
+    function moveCarousel(dir) {
+        const container = document.getElementById('categoryCarousel');
+        const items = container.querySelectorAll('.carousel-item');
+        if (items.length === 0) return;
+        const step = 220 + 24;
+        const maxIndex = items.length / 2 - 4;
+        const currentTransform = parseInt(container.style.transform.replace('translateX(-', '').replace('px)', '')) || 0;
+        let newIndex = Math.min(Math.max(currentTransform + dir * step, 0), maxIndex * step);
+        container.style.transition = 'transform 0.6s ease';
+        container.style.transform = `translateX(-${newIndex}px)`;
+        clearInterval(carouselInterval);
+        startAutoSlide();
+    }
+
+    function renderFeaturedProducts() {
+        const container = document.getElementById('featuredGrid');
+        container.innerHTML = categoriesData.slice(0, 8).map(cat =>
+            `
+            <div class="featured-card" onclick="loadSubCategory('${cat.name.replace(/'/g, "\\'")}')">
+                <img src="${cat.image}" alt="${cat.name}" onerror="this.src='https://via.placeholder.com/200/cccccc/000000?text=${cat.name}'">
+                <h4>${cat.name}</h4>
+                <p>${cat.productCount} Products</p>
+            </div>
+        `
+        ).join('');
+    }
+
+    function renderCategoryGrid() {
+        const container = document.getElementById('categoryGrid');
+        container.innerHTML = categoriesData.map(cat =>
+            `
+            <div class="subcategory-card" onclick="loadSubCategory('${cat.name.replace(/'/g, "\\'")}')">
+                <img src="${cat.image}" alt="${cat.name}" onerror="this.src='https://via.placeholder.com/180/cccccc/000000?text=${cat.name}'">
+                <h4>${cat.name}</h4>
+                <p>${cat.productCount} Products</p>
+            </div>
+        `
+        ).join('');
+    }
+
+    // LOAD SUB-CATEGORY
+    async function loadSubCategory(categoryName) {
+        document.getElementById('subBreadcrumbCatLink').innerHTML = '';
+        document.getElementById('subBreadcrumbSep').style.display = 'none';
+        document.getElementById('subBreadcrumbText').textContent = categoryName;
+        document.getElementById('subcategoryTitle').textContent = categoryName;
+        currentCategoryName = categoryName;
+        currentSubCategoryName = '';
+        const cat = categoriesData.find(c => c.name === categoryName);
+        if (!cat) return;
+
+        document.getElementById('searchInput').value = '';
+        document.getElementById('filterGroup').innerHTML = '';
+        document.getElementById('showMoreContainer').innerHTML = '';
+        document.querySelector('.subcategory-controls').style.display = 'flex';
+
+        const container = document.getElementById('subcategoryContent');
+
+        if (cat.subCategories && cat.subCategories.length > 0) {
+            const subCards = await Promise.all(cat.subCategories.map(async (sub) => {
+                const key = `${categoryName}__${sub}`.replace(/[^a-zA-Z0-9-_]/g, '_');
+                try {
+                    const resp = await fetch(`data/subcategories/${key}.json`);
+                    const data = await resp.json();
+                    const img = data.products && data.products.length > 0 ? data.products[0].image : cat.image;
+                    return { name: sub, image: img, count: data.products ? data.products.length : 0, key };
+                } catch (e) {
+                    return { name: sub, image: cat.image, count: 0, key: '' };
+                }
+            }));
+            
+            container.innerHTML = subCards.map(sub => `
+                <div class="subcategory-card" onclick="loadSubCategoryProducts('${categoryName.replace(/'/g, "\\'")}','${sub.name.replace(/'/g, "\\'")}')">
+                    <img src="${sub.image}" alt="${sub.name}" onerror="this.src='https://via.placeholder.com/180/cccccc/000000?text=${sub.name}'">
+                    <h4>${sub.name}</h4>
+                    <p>${sub.count} Products</p>
+                </div>
+            `).join('');
+            
+            document.querySelector('.subcategory-controls').style.display = 'none';
+            document.getElementById('showMoreContainer').innerHTML = '';
+        } else {
+            const key = `${categoryName}__Products`.replace(/[^a-zA-Z0-9-_]/g, '_');
+            try {
+                const resp = await fetch(`data/subcategories/${key}.json`);
+                const data = await resp.json();
+                currentSubcategoryProducts = data.products || [];
+                currentFilteredProducts = [...currentSubcategoryProducts];
+                await buildFiltersFromProducts(currentSubcategoryProducts);
+                renderSubcategoryProducts(currentFilteredProducts);
+            } catch (e) {
+                container.innerHTML = '<div class="loading">No products found.</div>';
+                document.querySelector('.subcategory-controls').style.display = 'none';
+            }
+        }
+        navigateTo('subcategory');
+    }
+
+    // LOAD SUB-CATEGORY PRODUCTS
+    async function loadSubCategoryProducts(categoryName, subCategoryName) {
+        const key = `${categoryName}__${subCategoryName}`.replace(/[^a-zA-Z0-9-_]/g, '_');
+        document.getElementById('subBreadcrumbCatLink').innerHTML = `<a onclick="loadSubCategory('${categoryName.replace(/'/g, "\\'")}')">${categoryName}</a>`;
+        document.getElementById('subBreadcrumbSep').style.display = 'inline';
+        document.getElementById('subBreadcrumbText').textContent = subCategoryName;
+        document.getElementById('subcategoryTitle').textContent = subCategoryName;
+        currentCategoryName = categoryName;
+        currentSubCategoryName = subCategoryName;
+
+        document.getElementById('searchInput').value = '';
+        document.getElementById('filterGroup').innerHTML = '';
+        document.getElementById('showMoreContainer').innerHTML = '';
+        document.querySelector('.subcategory-controls').style.display = 'flex';
+
+        try {
+            const resp = await fetch(`data/subcategories/${key}.json`);
+            const data = await resp.json();
+            currentSubcategoryProducts = data.products || [];
+            currentFilteredProducts = [...currentSubcategoryProducts];
+            await buildFiltersFromProducts(currentSubcategoryProducts);
+            renderSubcategoryProducts(currentFilteredProducts);
+        } catch (e) {
+            document.getElementById('subcategoryContent').innerHTML =
+                '<div class="loading">No products found.</div>';
+            document.querySelector('.subcategory-controls').style.display = 'none';
+        }
+        navigateTo('subcategory');
+    }
+
+    // BUILD FILTERS FROM PRODUCTS
+    async function buildFiltersFromProducts(products) {
+        const filterGroup = document.getElementById('filterGroup');
+        if (!products || products.length === 0) {
+            filterGroup.innerHTML = '';
+            return;
+        }
+
+        const firstProductName = products[0].name;
+        const safeName = firstProductName.replace(/[^a-zA-Z0-9-_]/g, '_').toLowerCase();
+        try {
+            const resp = await fetch(`data/products/${safeName}.json`);
+            const detailData = await resp.json();
+            const differentiatingSpecs = detailData.differentiatingSpecs || ['Gross Volume'];
+
+            const displayNames = {
+                'Gross Volume': 'Capacity',
+                'No. of Shelves': 'Shelves',
+                'Temperature Range': 'Temperature',
+                'Energy Star Ratings': 'Star Rating',
+                'Production Capacity': 'Production',
+                'Ice Shape': 'Ice Shape',
+                'Storage Capacity': 'Storage',
+                'Cooling Rate': 'Cooling Rate'
+            };
+
+            const filterSpecs = differentiatingSpecs.map(specName => {
+                const values = [];
+                products.forEach(p => {
+                    const val = p.keySpecs[specName] || '';
+                    if (val && !values.includes(val)) {
+                        values.push(val);
+                    }
+                });
+                return {
+                    name: specName,
+                    displayName: displayNames[specName] || specName,
+                    values
+                };
+            }).filter(s => s.values.length > 0);
+
+            window.filterSpecs = filterSpecs;
+
+            filterGroup.innerHTML = filterSpecs.map(spec =>
+                `
+                <div>
+                    <span class="filter-label">${spec.displayName}</span>
+                    <select data-spec="${spec.name}" id="filter-${spec.name}">
+                        <option value="">All</option>
+                        ${spec.values.map(v => `<option value="${v}">${v}</option>`).join('')}
+                    </select>
+                </div>
+            `).join('');
+
+        } catch (e) {
+            console.error('Error building filters:', e);
+            filterGroup.innerHTML = '';
+        }
+    }
+
+    // RENDER SUB-CATEGORY PRODUCTS
+    function renderSubcategoryProducts(products, showAll = false) {
+        const container = document.getElementById('subcategoryContent');
+        const showMoreContainer = document.getElementById('showMoreContainer');
+
+        if (!products || products.length === 0) {
+            container.innerHTML = '<div class="loading">No products found matching your criteria.</div>';
+            showMoreContainer.innerHTML = '';
+            document.getElementById('productCount').textContent = 'Showing 0 of 0 products';
+            return;
+        }
+
+        const total = products.length;
+        const displayCount = showAll ? total : Math.min(4, total);
+        const displayProducts = products.slice(0, displayCount);
+
+        container.innerHTML = displayProducts.map(p =>
+            `
+            <div class="product-card" onclick="loadProductDetail('${p.name}')">
+                <img src="${p.image}" alt="${p.name}" onerror="this.src='https://via.placeholder.com/200/cccccc/000000?text=${p.name}'">
+                <h4>${p.name}</h4>
+                <div class="specs">
+                    ${Object.entries(p.keySpecs || {}).slice(0, 2).map(([key, val]) =>
+                        `<span style="margin-right:0.5rem;">${key}: ${val}</span>`
+                    ).join('')}
+                </div>
+                <div class="spec-hint">
+                    ${Object.entries(p.keySpecs || {}).slice(2, 4).map(([key, val]) =>
+                        `<span>${key}: ${val}</span>`
+                    ).join('')}
+                </div>
+            </div>
+        `
+        ).join('');
+
+        document.getElementById('productCount').textContent =
+            `Showing ${displayCount} of ${total} products`;
+
+        if (total > 4 && !showAll) {
+            showMoreContainer.innerHTML =
+                `<button class="show-more-btn" onclick="showAllProducts()">
+                    Show All ${total} Products
+                </button>`;
+        } else {
+            showMoreContainer.innerHTML = '';
+        }
+    }
+
+    // SHOW ALL PRODUCTS
+    function showAllProducts() {
+        renderSubcategoryProducts(currentFilteredProducts, true);
+    }
+
+    // SEARCH PRODUCTS
+    function searchProducts() {
+        const query = document.getElementById('searchInput').value.toLowerCase().trim();
+        if (!query) {
+            currentFilteredProducts = [...currentSubcategoryProducts];
+            renderSubcategoryProducts(currentFilteredProducts);
+            return;
+        }
+
+        const filtered = currentSubcategoryProducts.filter(p => {
+            const nameMatch = p.name.toLowerCase().includes(query);
+            const specMatch = Object.values(p.keySpecs || {}).some(val =>
+                val.toLowerCase().includes(query)
+            );
+            return nameMatch || specMatch;
+        });
+
+        currentFilteredProducts = filtered;
+        renderSubcategoryProducts(filtered);
+    }
+
+    // APPLY FILTERS
+    function applyFilters() {
+        const selects = document.querySelectorAll('#filterGroup select');
+        const filters = {};
+        selects.forEach(sel => {
+            if (sel.value) {
+                filters[sel.dataset.spec] = sel.value;
+            }
+        });
+
+        const searchQuery = document.getElementById('searchInput').value.toLowerCase().trim();
+
+        let filtered = currentSubcategoryProducts.filter(p => {
+            for (const [spec, value] of Object.entries(filters)) {
+                if (p.keySpecs[spec] !== value) return false;
+            }
+            if (searchQuery) {
+                const nameMatch = p.name.toLowerCase().includes(searchQuery);
+                const specMatch = Object.values(p.keySpecs || {}).some(val =>
+                    val.toLowerCase().includes(searchQuery)
+                );
+                if (!nameMatch && !specMatch) return false;
+            }
+            return true;
+        });
+
+        currentFilteredProducts = filtered;
+        renderSubcategoryProducts(filtered);
+    }
+
+    // RESET FILTERS
+    function resetFilters() {
+        document.getElementById('searchInput').value = '';
+        document.querySelectorAll('#filterGroup select').forEach(sel => sel.value = '');
+        currentFilteredProducts = [...currentSubcategoryProducts];
+        renderSubcategoryProducts(currentFilteredProducts);
+    }
+
+    // LOAD PRODUCT DETAIL
+    async function loadProductDetail(productName) {
+        currentProductName = productName;
+        document.getElementById('detailBreadcrumbCat').textContent = currentCategoryName || 'Products';
+        document.getElementById('detailBreadcrumbProduct').textContent = productName;
+
+        const container = document.getElementById('productDetailContent');
+        container.innerHTML = '<div class="loading">Loading product details...</div>';
+        navigateTo('detail');
+
+        try {
+            const safeName = productName.replace(/[^a-zA-Z0-9-_]/g, '_').toLowerCase();
+            const resp = await fetch(`data/products/${safeName}.json`);
+            if (!resp.ok) throw new Error('Not found');
+            const product = await resp.json();
+            renderProductDetail(product);
+        } catch (e) {
+            container.innerHTML =
+                `<div style="text-align:center; padding:2rem; color:red;">Failed to load product. <br><button onclick="goBackToSubcategory()" class="btn" style="margin-top:1rem;">Go Back</button></div>`;
+        }
+    }
+
+    // RENDER PRODUCT DETAIL
+    function renderProductDetail(product) {
+        const container = document.getElementById('productDetailContent');
+        const gallery = product.gallery || [product.image];
+        const mainImg = gallery[0] || product.image;
+        const specItems = Object.entries(product.keySpecifications || {});
+        const fullSpecs = Object.entries(product.specifications || {});
+        const variations = product.variations || {};
+
+        const topSpecs = specItems.slice(0, 3);
+        const summaryHtml = topSpecs.length > 0 ? topSpecs.map(([key, value]) => `${value}`).join('  |  ') : '';
+
+        let descriptionHtml = product.description || 'No description available.';
+        if (product.description) {
+            const lines = product.description.split('\n').filter(line => line.trim());
+            if (lines.length > 1) {
+                descriptionHtml = `<ul>${lines.map(line => `<li>${line.trim()}</li>`).join('')}</ul>`;
+            } else {
+                descriptionHtml = `<p>${product.description}</p>`;
+            }
+        } else {
+            descriptionHtml = '<p>No description available.</p>';
+        }
+
+        let featuresHtml = '';
+        if (variations.addons && variations.addons.length > 0) {
+            featuresHtml = `
+                <div style="margin: 1rem 0;">
+                    <h4 style="font-size:0.95rem; margin-bottom:0.3rem;">★ Key Features</h4>
+                    <div class="features-list">
+                        ${variations.addons.map(addon => `<span class="feature-tag">${addon}</span>`).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        container.innerHTML = `
+            <div class="detail-container">
+                <div class="detail-gallery">
+                    <img src="${mainImg}" alt="${product.name}" class="main-img" id="detailMainImg"
+                         onerror="this.src='https://via.placeholder.com/400/cccccc/000000?text=${product.name}'">
+                    <div class="thumbnails">
+                        ${gallery.slice(1, 6).map(img => `
+                            <img src="${img}" alt="${product.name}" 
+                                 onclick="document.getElementById('detailMainImg').src='${img}'"
+                                 onerror="this.style.display='none'">
+                        `).join('')}
+                    </div>
+                </div>
+                <div class="detail-info">
+                    <h2>${product.name}</h2>
+                    <div class="category-path">${product.categoryPath || product.category || 'Uncategorized'}</div>
+                    ${summaryHtml ? `<div class="quick-summary">⭐ ${summaryHtml}</div>` : ''}
+
+                    <a href="tel:+919552230380" class="call-btn" style="margin: 0.5rem 0 1rem;">
+                        <i class="fas fa-phone"></i> Call +91 95522 30380
+                    </a>
+
+                    <div class="description">${descriptionHtml}</div>
+
+                    ${featuresHtml}
+
+                    ${fullSpecs.length > 0 ? `
+                    <div class="full-specs">
+                        <h4>Full Specifications</h4>
+                        <table>
+                            ${fullSpecs.map(([key, value]) => `
+                                <tr><td>${key}</td><td>${value}</td></tr>
+                            `).join('')}
+                        </table>
+                    </div>
+                    ` : ''}
+
+                    <a href="tel:+919552230380" class="call-btn"><i class="fas fa-phone"></i> Call +91 95522 30380</a>
+                </div>
+            </div>
+        `;
+    }
+
+    // INIT
+    document.addEventListener('DOMContentLoaded', loadCategories);
+</script>
+</body>
+</html>

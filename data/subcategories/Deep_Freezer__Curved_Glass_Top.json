@@ -1,0 +1,26 @@
+{
+  "name": "Curved Glass Top",
+  "category": "Deep Freezer",
+  "products": [
+    {
+      "name": "F325GC24",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/F325GC24-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "< – 17.0°C",
+        "No. of Baskets": "2",
+        "Energy Star Rating": "4 Star",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "F425GC24",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/F425GC-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "< – 17.0°C",
+        "No. of Baskets": "3",
+        "Energy Star Rating": "4 Star",
+        "Temperature Range": ""
+      }
+    }
+  ]
+}

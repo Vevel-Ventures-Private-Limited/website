@@ -1,0 +1,70 @@
+{
+  "name": "I525H120",
+  "category": "Ice Lined Refrigerator",
+  "categoryPath": "Medical Refrigeration → Ice Lined Refrigerator",
+  "link": "https://westernequipments.com/product/medical-refrigerator/ice-lined-refrigerator/i525h120/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/10/ILR-SIDE-525-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/10/ILR-SIDE-525-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/10/ILR-SIDE-525-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/10/ILR-525-Front-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/10/Ice-Line-All-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/10/Ice-Line-All-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nGross Volume: 266 L\nVaccine Capacity: 216 L\nDimensions: 1410mm (W) X 805mm (D) X 970mm (H)\nTemperature Range: +2°C to +8°C\nOperating Condition: +10°C to +43°C\nRefrigerant: R-290",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "266 L",
+    "Vaccine Capacity": "216 L",
+    "Dimensions": "1410mm (W) X 805mm (D) X 970mm (H)",
+    "Temperature Range": "+2°C to +8°C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "I325H120",
+      "I425H120"
+    ],
+    "addons": [
+      "Temperature Data Logger",
+      "Battery Backup",
+      "Lock",
+      "Audible Alarm"
+    ],
+    "familyProducts": [
+      {
+        "name": "I325H120",
+        "keySpecs": {
+          "Gross Volume": "154 L",
+          "Vaccine Capacity": "120 L",
+          "External Dimensions": "1020mm (W) X 805mm (D) X 970mm (H)",
+          "Temperature Range": "+2°C to +8°C"
+        }
+      },
+      {
+        "name": "I425H120",
+        "keySpecs": {
+          "Gross Volume": "253 L",
+          "Vaccine Capacity": "192 L",
+          "Dimensions (mm)": "1320(W) X 805(D) X 970(H)",
+          "Temperature Range": "+2°C to +8°C"
+        }
+      },
+      {
+        "name": "I525H120",
+        "keySpecs": {
+          "Gross Volume": "266 L",
+          "Vaccine Capacity": "216 L",
+          "Dimensions": "1410mm (W) X 805mm (D) X 970mm (H)",
+          "Temperature Range": "+2°C to +8°C"
+        }
+      }
+    ]
+  }
+}

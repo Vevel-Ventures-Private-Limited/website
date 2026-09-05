@@ -1,0 +1,240 @@
+{
+  "name": "SRC30HC-GL",
+  "category": "Counter Top",
+  "categoryPath": "Visi Cooler → Counter Top",
+  "link": "https://westernequipments.com/product/visi-cooler/counter-top/src30hc-gl-2/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC30HC-GL-With-Stock-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/SRC30HC-GL-With-Stock-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SRC30HC-GL-With-Stock-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SRC30HC-GL-Without-Stock-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SRC30HC-GL-Open-Door-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SRC30HC-GL-With-Left-View-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/09/SRC-202530-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 350 (W) x 460 (D) x 630 (H)\nGross Volume: 37 Liters\nTemperature Range: 0°C to 10°C\nNo. of Shelves: 2",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "37 Liters",
+    "Temperature Range": "0°C to 10°C",
+    "No. of Shelves": "2"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "SRC60",
+      "SRC20HC-GL",
+      "SRC25HC-GL",
+      "SRC60HC-GL",
+      "SRC200HC-GL",
+      "SRC201HC-GL",
+      "SRC250HC1-GL",
+      "SRC280HC-GL",
+      "SRC281HC-GL",
+      "SRC360HCF-GL",
+      "SRC380HC-GL",
+      "SRC381HC-GL",
+      "SRC501HCF-GL",
+      "SRC502HC-GLGY",
+      "SRC505HC-GL",
+      "SRC572HC-GL",
+      "SRC752HC-GL",
+      "SRC810HC-GL",
+      "SRC950HC-GL",
+      "SRC1050HC-GL",
+      "SRC1800-GL"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Castors (Wheels)",
+      "Lock",
+      "Auto-Defrost",
+      "Adjustable Shelves"
+    ],
+    "familyProducts": [
+      {
+        "name": "SRC60",
+        "keySpecs": {
+          "Gross Volume": "59 L",
+          "Temperature Range": "<22°C @ (35°C ambient & 65% RH)",
+          "No. of Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC20HC-GL",
+        "keySpecs": {
+          "Gross Volume": "27 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC25HC-GL",
+        "keySpecs": {
+          "Gross Volume": "29.5 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC30HC-GL",
+        "keySpecs": {
+          "Gross Volume": "37 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC60HC-GL",
+        "keySpecs": {
+          "Gross Volume": "59 litres",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "02"
+        }
+      },
+      {
+        "name": "SRC200HC-GL",
+        "keySpecs": {
+          "Gross Volume": "167 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "03"
+        }
+      },
+      {
+        "name": "SRC201HC-GL",
+        "keySpecs": {
+          "Gross Volume": "167 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "03"
+        }
+      },
+      {
+        "name": "SRC250HC1-GL",
+        "keySpecs": {
+          "Gross Volume": "216 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "SRC280HC-GL",
+        "keySpecs": {
+          "Gross Volume": "216 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "SRC281HC-GL",
+        "keySpecs": {
+          "Gross Volume": "216 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "SRC360HCF-GL",
+        "keySpecs": {
+          "Gross Volume": "302 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "05"
+        }
+      },
+      {
+        "name": "SRC380HC-GL",
+        "keySpecs": {
+          "Gross Volume": "340 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "05"
+        }
+      },
+      {
+        "name": "SRC381HC-GL",
+        "keySpecs": {
+          "Gross Volume": "340 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "05"
+        }
+      },
+      {
+        "name": "SRC501HCF-GL",
+        "keySpecs": {
+          "Gross Volume": "405 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "06"
+        }
+      },
+      {
+        "name": "SRC502HC-GLGY",
+        "keySpecs": {
+          "Gross Volume": "460 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "06"
+        }
+      },
+      {
+        "name": "SRC505HC-GL",
+        "keySpecs": {
+          "Gross Volume": "458 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "06"
+        }
+      },
+      {
+        "name": "SRC572HC-GL",
+        "keySpecs": {
+          "Gross Volume": "510 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "06"
+        }
+      },
+      {
+        "name": "SRC752HC-GL",
+        "keySpecs": {
+          "Gross Volume": "585 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "06"
+        }
+      },
+      {
+        "name": "SRC810HC-GL",
+        "keySpecs": {
+          "Gross Volume": "695 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "10"
+        }
+      },
+      {
+        "name": "SRC950HC-GL",
+        "keySpecs": {
+          "Gross Volume": "807 litre",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "10"
+        }
+      },
+      {
+        "name": "SRC1050HC-GL",
+        "keySpecs": {
+          "Gross Volume": "908 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "12"
+        }
+      },
+      {
+        "name": "SRC1800-GL",
+        "keySpecs": {
+          "Gross Volume": "1882 Litres",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "15"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": "RTWH127MS4/LS4-GN",
+  "category": "Under Counter Chiller",
+  "categoryPath": "Stainless Steel Refrigerators → Under Counter Product → Under Counter Chiller",
+  "link": "https://westernequipments.com/product/stainless-steel/under-counter-product/under-counter-chiller/rtwh127ms4-gn/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-Closed-Door.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-Closed-Door.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-Closed-Door-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/New-Project-30-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-1-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/For-Chiller-Undercounter-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Undercounter-Door-3-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions : 1200 (W) x 700 (D) x 850 (H)\nGross Volume: 282 Liters\nPower Supply: 230V AC/50 Hz\nTemperature Range: -2° to 12° C\nNo. of Shelves: 4\nProduct Variations:\n\t\t\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 25%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tWith Splash Back Top 150 mm\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tPrep. Table Single Row\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tPrep. Table Single Row with Splash Back",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "282 Liters",
+    "Temperature Range": "-2° to 12° C",
+    "No. of Shelves": "4"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "RTWH70MS4/LS4",
+      "RTWH120MS4/LS4",
+      "RTWH126MS4/LS4",
+      "RTWH150MS4",
+      "RTWH156MS4/LS4",
+      "RTWH177MS4/LS4-GN",
+      "RTWH180MS4/LS4",
+      "RTWH186MS4"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "RTWH70MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "171 Liters",
+          "Temperature Range": "-2°C to 12°C",
+          "No. of Shelves": "02"
+        }
+      },
+      {
+        "name": "RTWH120MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "306 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "RTWH126MS4/LS4",
+        "keySpecs": {
+          "Volume": "233 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "RTWH150MS4",
+        "keySpecs": {
+          "Gross Volume": "418 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "RTWH156MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "318 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "4"
+        }
+      },
+      {
+        "name": "RTWH127MS4/LS4-GN",
+        "keySpecs": {
+          "Gross Volume": "282 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "4"
+        }
+      },
+      {
+        "name": "RTWH177MS4/LS4-GN",
+        "keySpecs": {
+          "Gross Volume": "282 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "6"
+        }
+      },
+      {
+        "name": "RTWH180MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "526 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "6"
+        }
+      },
+      {
+        "name": "RTWH186MS4",
+        "keySpecs": {
+          "Gross Volume": "400 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "No. of Shelves": "6"
+        }
+      }
+    ]
+  }
+}

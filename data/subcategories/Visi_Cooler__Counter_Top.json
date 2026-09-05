@@ -1,0 +1,60 @@
+{
+  "name": "Counter Top",
+  "category": "Visi Cooler",
+  "products": [
+    {
+      "name": "SRC60",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/08/SRC-60-Right-Side-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "59 L",
+        "Temperature Range": "<22°C @ (35°C ambient & 65% RH)",
+        "No. of Shelves": "2"
+      }
+    },
+    {
+      "name": "CPS30HC-GLGY",
+      "image": "https://westernequipments.com/wp-content/uploads/2025/11/CPS30HC-GLGY-Ultra-Compact-Counter-Top-Model-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "34.5 L",
+        "Temperature Range": "0° to 10° C",
+        "No. of Shelves": "3"
+      }
+    },
+    {
+      "name": "SRC20HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC20HC-GL-Right-Facing-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "27 Liters",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "2"
+      }
+    },
+    {
+      "name": "SRC25HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC25HC-GL-Right-Angle-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "29.5 Liters",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "2"
+      }
+    },
+    {
+      "name": "SRC30HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC30HC-GL-With-Stock-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "37 Liters",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "2"
+      }
+    },
+    {
+      "name": "SRC60HC-GL",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/08/SRC-60-Right-Side-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "59 litres",
+        "Temperature Range": "0°C to 10°C",
+        "No. of Shelves": "02"
+      }
+    }
+  ]
+}

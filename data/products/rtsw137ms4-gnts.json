@@ -1,0 +1,78 @@
+{
+  "name": "RTSW137MS4-GNTS",
+  "category": "Preparation Table",
+  "categoryPath": "Stainless Steel Refrigerators → Static Cooling → Preparation Table",
+  "link": "https://westernequipments.com/product/stainless-steel/static-cooling/preparation-table/rtsw137ms4-gnts/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-Open-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-Open-2-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-Right-View-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137-1117133_Left-Angle-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-Front-View-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 1350 (W) X 745 (D) X 939\nGross volume: 394 Liters\nTemperature Control (°C): -2°C to 8°C\nShelf: 6 shelves\nRefrigerant: R-134a",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Temperature Control (°C)": "-2°C to 8°C",
+    "Temperature Range": "-2°C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "RTSW97MS4-GNTE",
+      "RTSW137MS4-GNTE",
+      "RTSW97MS4-GNTS"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top",
+      "Cutting Board",
+      "Pan Stand"
+    ],
+    "familyProducts": [
+      {
+        "name": "RTSW97MS4-GNTE",
+        "keySpecs": {
+          "Gross Volume": "270 Liters",
+          "No. of Shelves": "4 shelves (Coated)",
+          "Temperature Control": "-2°C to 8°C",
+          "Temperature Range": "-2°C"
+        }
+      },
+      {
+        "name": "RTSW137MS4-GNTE",
+        "keySpecs": {
+          "Temperature Control (°C)": "-2°C to 8°C",
+          "Temperature Range": "-2°C"
+        }
+      },
+      {
+        "name": "RTSW137MS4-GNTS",
+        "keySpecs": {
+          "Temperature Control (°C)": "-2°C to 8°C",
+          "Temperature Range": "-2°C"
+        }
+      },
+      {
+        "name": "RTSW97MS4-GNTS",
+        "keySpecs": {
+          "Temperature Control (°C)": "-2°C to 8°C",
+          "No of Shelves": "4 shelves",
+          "Temperature Range": "-2°C"
+        }
+      }
+    ]
+  }
+}

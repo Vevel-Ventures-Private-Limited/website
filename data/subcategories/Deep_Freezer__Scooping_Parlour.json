@@ -1,0 +1,16 @@
+{
+  "name": "Scooping Parlour",
+  "category": "Deep Freezer",
+  "products": [
+    {
+      "name": "F450GL23 (Scooping)",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/06/F450GL23-Scooping-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "< – 17.0°C",
+        "No. of Baskets": "3",
+        "Energy Star Rating": "3 Star",
+        "Temperature Range": ""
+      }
+    }
+  ]
+}

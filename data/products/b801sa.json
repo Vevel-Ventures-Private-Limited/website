@@ -1,0 +1,85 @@
+{
+  "name": "B801SA",
+  "category": "Storage Bins",
+  "categoryPath": "Ice Machine → Hoshizaki Ice Machine → Storage Bins",
+  "link": "https://westernequipments.com/product/ice-machine/hoshizaki-ice-machine/storage-bins/b801/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/06/3-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/06/3-800x1000.png"
+  ],
+  "description": "Product Specification:\n\nDimensions (mm): 820 (D) x 1016 (H)\nCapacity: 348 Kgs",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Dimensions (mm)": "820 (D) x 1016 (H)",
+    "Capacity": "348 Kgs"
+  },
+  "differentiatingSpecs": [
+    "Storage Capacity"
+  ],
+  "variations": {
+    "capacity": [
+      "B301SA",
+      "B501SA",
+      "B325H220",
+      "B425H220",
+      "B525H220"
+    ],
+    "addons": [
+      "Bubble Top",
+      "Storage Bin",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "B301SA",
+        "keySpecs": {
+          "Dimensions (mm)": "820 (D) x 1016 (H)",
+          "Capacity": "144 Kgs"
+        }
+      },
+      {
+        "name": "B501SA",
+        "keySpecs": {
+          "Dimensions (mm)": "820 (D) x 1016 (H)",
+          "Capacity": "217 Kgs"
+        }
+      },
+      {
+        "name": "B801SA",
+        "keySpecs": {
+          "Dimensions (mm)": "820 (D) x 1016 (H)",
+          "Capacity": "348 Kgs"
+        }
+      },
+      {
+        "name": "B325H220",
+        "keySpecs": {
+          "Gross Volume": "",
+          "Temperature range (°C)": "",
+          "No. of  Baskets": "1",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "B425H220",
+        "keySpecs": {
+          "Gross Volume": "",
+          "Temperature range (°C)": "",
+          "No. of  Baskets": "1 in Freezer Cabinet",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "B525H220",
+        "keySpecs": {
+          "Gross Volume": "",
+          "Temperature range (°C)": "",
+          "No. of  Baskets": "1 in Freezer Cabinet",
+          "Temperature Range": ""
+        }
+      }
+    ]
+  }
+}

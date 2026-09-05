@@ -1,0 +1,53 @@
+{
+  "name": "FTWP177LS3-GN",
+  "category": "Under Counter Freezer",
+  "categoryPath": "Stainless Steel Refrigerators → Under Counter Product → Under Counter Freezer",
+  "link": "https://westernequipments.com/product/stainless-steel/under-counter-product/under-counter-freezer/ftwp177ls3-gn/",
+  "image": "https://westernequipments.com/wp-content/uploads/2025/07/Undercounter-SUS-Units-RTWP177LS3-GN.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2025/07/Undercounter-SUS-Units-RTWP177LS3-GN.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions : 1660 (W) x 700 (D) x 850 (H)\nGross Volume: 436 Liters\nPower Supply: 230V AC/50 Hz\nTemperature Range: -7°C to -23°C\nNo. of Shelves: 6",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "436 Liters",
+    "Temperature Range": "-7°C to -23°C",
+    "No. of Shelves": "6"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "FTWP127LS3-GN"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "FTWP127LS3-GN",
+        "keySpecs": {
+          "Gross Volume": "282 Liters",
+          "Temperature Range": "-7°C to -23°C",
+          "No. of Shelves": "4 nos. of GN rail (with shelves)"
+        }
+      },
+      {
+        "name": "FTWP177LS3-GN",
+        "keySpecs": {
+          "Gross Volume": "436 Liters",
+          "Temperature Range": "-7°C to -23°C",
+          "No. of Shelves": "6"
+        }
+      }
+    ]
+  }
+}

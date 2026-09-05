@@ -1,0 +1,62 @@
+{
+  "name": "Under Counter Drawer",
+  "category": "Stainless Steel Refrigerators",
+  "products": [
+    {
+      "name": "RTDWL97MS3-2",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTDWL97MS3-2_01-1-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "97 L",
+        "Temperature Range": "-2°C to 12°C"
+      }
+    },
+    {
+      "name": "RTDWP137MS3-33",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTDWP137MS3-33-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "305 L",
+        "Temperature Range": "-2°C to 12°C"
+      }
+    },
+    {
+      "name": "RTDWP187MS3-333",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTDWP187MS3-333-Left-Facing-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "461 L",
+        "Temperature Range": "-2°C to 12°C"
+      }
+    },
+    {
+      "name": "RTDWL137MS3-22",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTDWL137MS3-22_01-1-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "195 L",
+        "Temperature Range": "-2°C to 12°C"
+      }
+    },
+    {
+      "name": "RTDWL187MS3-222",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTDWL187MS3-222_01-3-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "290 L",
+        "Temperature Range": "-2°C to 12°C"
+      }
+    },
+    {
+      "name": "RTDW137MS4-33",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/RTDW137-33_Left-Angle-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "305 Liters",
+        "Temperature Range": "-2° to 12° C"
+      }
+    },
+    {
+      "name": "RTDW187MS4-333",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/RTDW187-333-RTDW187MS4-333_Left-Angle_-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "461 Liters",
+        "Temperature Range": "-2° to 12° C"
+      }
+    }
+  ]
+}

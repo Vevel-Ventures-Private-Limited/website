@@ -1,0 +1,57 @@
+{
+  "name": "SMR18-GL",
+  "category": "Chiller",
+  "categoryPath": "Supermarket Range → Chiller",
+  "link": "https://westernequipments.com/product/super-market-freezer-smf/super-market-chiller/smr18-gl/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/SMR18-Left-Angle-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMR18-Left-Angle-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMR18-Left-Angle-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMR18-Front-Angle-With-Stock-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMR18-Front-Angle-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMR18-Front-Angle-With-Open-Door-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/SMR-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm): 1800 (W) x 757 (D) x 2022 (H)\nGross Volume: 1454 litres\nTemperature Range: 0°C to 10°C\nNo. of Shelves: 15",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "1454 litres",
+    "Temperature Range": "0°C to 10°C",
+    "No. of Shelves": "15"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "SMR12-GL"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "SMR12-GL",
+        "keySpecs": {
+          "Gross Volume": "935 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "10"
+        }
+      },
+      {
+        "name": "SMR18-GL",
+        "keySpecs": {
+          "Gross Volume": "1454 litres",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "15"
+        }
+      }
+    ]
+  }
+}

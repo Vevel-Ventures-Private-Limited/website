@@ -1,0 +1,105 @@
+{
+  "name": "Under Counter Chiller",
+  "category": "Stainless Steel Refrigerators",
+  "products": [
+    {
+      "name": "RTWP127LS3-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2025/07/Western-SUS-Undercounter-Unit-RTWP127LS3-GN.png",
+      "keySpecs": {
+        "Gross Volume": "282 Liters",
+        "Temperature Range": "-2°C to 12°C",
+        "No. of Shelves": "4 nos. of GN rail (with shelves)"
+      }
+    },
+    {
+      "name": "RTWP177LS3-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2025/07/Undercounter-SUS-Units-RTWP177LS3-GN.png",
+      "keySpecs": {
+        "Gross Volume": "436 Liters",
+        "Temperature Range": "-2°C to 12°C",
+        "No. of Shelves": "6"
+      }
+    },
+    {
+      "name": "RTWH70MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/RTw-Ftw-70-5.png",
+      "keySpecs": {
+        "Gross Volume": "171 Liters",
+        "Temperature Range": "-2°C to 12°C",
+        "No. of Shelves": "02"
+      }
+    },
+    {
+      "name": "RTWH120MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-1.png",
+      "keySpecs": {
+        "Gross Volume": "306 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "RTWH126MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-1.png",
+      "keySpecs": {
+        "Volume": "233 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "RTWH150MS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw150-156-closed-door.png",
+      "keySpecs": {
+        "Gross Volume": "418 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "RTWH156MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw150-156-closed-door.png",
+      "keySpecs": {
+        "Gross Volume": "318 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "4"
+      }
+    },
+    {
+      "name": "RTWH127MS4/LS4-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw-120-126-127-Closed-Door.png",
+      "keySpecs": {
+        "Gross Volume": "282 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "4"
+      }
+    },
+    {
+      "name": "RTWH177MS4/LS4-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw177-180-186-closesd-door.png",
+      "keySpecs": {
+        "Gross Volume": "282 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "6"
+      }
+    },
+    {
+      "name": "RTWH180MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw177-180-186-closesd-door.png",
+      "keySpecs": {
+        "Gross Volume": "526 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "6"
+      }
+    },
+    {
+      "name": "RTWH186MS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/rtw177-180-186-closesd-door.png",
+      "keySpecs": {
+        "Gross Volume": "400 Liters",
+        "Temperature Range": "-2° to 12° C",
+        "No. of Shelves": "6"
+      }
+    }
+  ]
+}

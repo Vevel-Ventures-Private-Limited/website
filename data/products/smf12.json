@@ -1,0 +1,55 @@
+{
+  "name": "SMF12",
+  "category": "Freezer",
+  "categoryPath": "Supermarket Range → Freezer",
+  "link": "https://westernequipments.com/product/super-market-freezer-smf/super-market-freezer/smf12/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Left-Angle-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Left-Angle-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Left-Angle-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Close-Door-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Open-Door-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Front-Facing-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/04/SMF-140x140.png"
+  ],
+  "description": "Product Specification:\n\nGross volume: 935 Liters\nExternal Dimension (mm): 1200 (W) x 757 (D) x 2022 (H)\nNo. of Shelves: 10\nTemperature Range: <-18°C",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "No. of Shelves": "10",
+    "Temperature Range": "<-18°C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "SMF18-GL"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "SMF18-GL",
+        "keySpecs": {
+          "Gross Volume": "1454 litres",
+          "Temperature Range": "0°C to 10°C",
+          "No. of Shelves": "15"
+        }
+      },
+      {
+        "name": "SMF12",
+        "keySpecs": {
+          "No. of Shelves": "10",
+          "Temperature Range": "<-18°C"
+        }
+      }
+    ]
+  }
+}

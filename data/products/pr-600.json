@@ -1,0 +1,49 @@
+{
+  "name": "PR-600",
+  "category": "Pharmaceutical Refrigerator",
+  "categoryPath": "Medical Refrigeration → Pharmaceutical Refrigerator",
+  "link": "https://westernequipments.com/product/medical-refrigerator/pharmaceutical-refrigerator/pharmaceutical-refrigerator-pr-600/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/PR600-1-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/PR600-1-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/PR600-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Pharma-600-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Pharma-600-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nGross Volume: 507 L\nVaccine Capacity: 453 L\nDimensions: 660(W) X 830(D) X 1817(H)\nTemperature Range: +2°C to +8°C\nOperating Condition: +5°C to +43°C\nNo. of Shelves: 4 Nos.\nRefrigerant: R-290",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "507 L",
+    "Vaccine Capacity": "453 L",
+    "Dimensions": "660(W) X 830(D) X 1817(H)",
+    "Temperature Range": "+2°C to +8°C",
+    "No. of Shelves": "4 Nos."
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [],
+    "addons": [
+      "Temperature Data Logger",
+      "Battery Backup",
+      "Lock",
+      "Audible Alarm"
+    ],
+    "familyProducts": [
+      {
+        "name": "PR-600",
+        "keySpecs": {
+          "Gross Volume": "507 L",
+          "Vaccine Capacity": "453 L",
+          "Dimensions": "660(W) X 830(D) X 1817(H)",
+          "Temperature Range": "+2°C to +8°C",
+          "No. of Shelves": "4 Nos."
+        }
+      }
+    ]
+  }
+}

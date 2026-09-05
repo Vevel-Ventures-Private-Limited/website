@@ -1,0 +1,32 @@
+{
+  "name": "Freezer on Wheels",
+  "category": "Deep Freezer",
+  "products": [
+    {
+      "name": "G200H120",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/G200H120-1-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "< – 17.0°C",
+        "No. of Baskets": "N/A",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "G250H120",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/G250H120-800x1000.png",
+      "keySpecs": {
+        "Temperature range (°C)": "< – 17.0°C",
+        "No. of Baskets": "N/A",
+        "Temperature Range": ""
+      }
+    },
+    {
+      "name": "G300H220",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/G300H220-Freezer-On-Wheel-Deep-Freezer-800x1000.png",
+      "keySpecs": {
+        "Temperature Range": "< – 17.0°C",
+        "No. of Baskets": "N/A"
+      }
+    }
+  ]
+}

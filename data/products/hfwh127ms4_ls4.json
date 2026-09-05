@@ -1,0 +1,69 @@
+{
+  "name": "HFWH127MS4/LS4",
+  "category": "Upright Freezer",
+  "categoryPath": "Stainless Steel Refrigerators → Upright Product → Upright Freezer",
+  "link": "https://westernequipments.com/product/stainless-steel/upright-product/upright-freezer/hfw127ms4/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFWH-127HRWH127MS4_Left-Angle-2-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFWH-127HRWH127MS4_Left-Angle-2-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFWH-127HRWH127MS4_Left-Angle-2-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Upright-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Upright-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimensions (90mm Leg) : 1200 (W) x 818 (D) x 1990 (H)\nGross Volume: 1119 Liters\nPower Supply: 230V AC / 50Hz\nTemperature Range: -7°C to -25°C\nNo. of Shelves: 08\nProduct Variations:\n\t\t\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 25%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tBasic Long Door",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "External Dimensions (90mm Leg)": "1200 (W) x 818 (D) x 1990 (H)",
+    "Gross Volume": "1119 Liters",
+    "Temperature Range": "-7°C to -25°C",
+    "No. of Shelves": "08"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "HFWH77MS4/LS4",
+      "HFWH147MS4/LS4"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "HFWH77MS4/LS4",
+        "keySpecs": {
+          "External Dimensions (90mm Leg)": "700 (W) x 818 (D) x 1990 (H)",
+          "Gross Volume": "638 Litres",
+          "Temperature Range": "-7° to -25° C",
+          "No. of Shelves": "04"
+        }
+      },
+      {
+        "name": "HFWH127MS4/LS4",
+        "keySpecs": {
+          "External Dimensions (90mm Leg)": "1200 (W) x 818 (D) x 1990 (H)",
+          "Gross Volume": "1119 Liters",
+          "Temperature Range": "-7°C to -25°C",
+          "No. of Shelves": "08"
+        }
+      },
+      {
+        "name": "HFWH147MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "1365 Liters",
+          "No. of Shelves": "08",
+          "Temperature Range": "-7° to -25° C"
+        }
+      }
+    ]
+  }
+}

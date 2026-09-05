@@ -1,0 +1,87 @@
+{
+  "name": "E425GT20",
+  "category": "Glass Top Eutectic",
+  "categoryPath": "Deep Freezer → Glass Top Eutectic",
+  "link": "https://westernequipments.com/product/deep-freezer/glass-top-eutectic/e425gt20/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/10/E425GT20-3-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/10/E425GT20-3-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/10/E425GT20-3-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/10/E425GT20-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/10/E425GT20-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions (mm): 1360 (W) x 695 (D) x 795 (H)\nGross volume: 354 Liters\nTemperature range (°C):< – 17.0°C\nNo. of Baskets: 2",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Temperature range (°C)": "< – 17.0°C",
+    "No. of Baskets": "2",
+    "Temperature Range": ""
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "E325H220",
+      "E425H220",
+      "E425D220",
+      "E525D320"
+    ],
+    "addons": [
+      "Castors (Wheels)",
+      "LED Lighting",
+      "Digital Display",
+      "Lock",
+      "Convertible Technology",
+      "Glass Top",
+      "Baskets"
+    ],
+    "familyProducts": [
+      {
+        "name": "E325H220",
+        "keySpecs": {
+          "Temperature range (°C)": "< – 17.0°C",
+          "No. of Baskets": "1",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "E425H220",
+        "keySpecs": {
+          "Temperature range (°C)": "< – 17.0°C",
+          "No. of Baskets": "2",
+          "Temperature Range": ""
+        }
+      },
+      {
+        "name": "E425D220",
+        "keySpecs": {
+          "Gross Volume": "351L",
+          "Net Volume": "329L",
+          "No. Of Baskets": "2",
+          "Temperature Range": "<- 17.0°C"
+        }
+      },
+      {
+        "name": "E525D320",
+        "keySpecs": {
+          "Gross Volume": "440L",
+          "Net Volume": "406L",
+          "No. Of Baskets": "NA",
+          "Temperature Range": "<- 17.0°C"
+        }
+      },
+      {
+        "name": "E425GT20",
+        "keySpecs": {
+          "Temperature range (°C)": "< – 17.0°C",
+          "No. of Baskets": "2",
+          "Temperature Range": ""
+        }
+      }
+    ]
+  }
+}

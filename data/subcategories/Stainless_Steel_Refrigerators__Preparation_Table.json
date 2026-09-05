@@ -1,0 +1,41 @@
+{
+  "name": "Preparation Table",
+  "category": "Stainless Steel Refrigerators",
+  "products": [
+    {
+      "name": "RTSW97MS4-GNTE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/03/RTSW97-1117132_Left-Angle-1-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "270 Liters",
+        "No. of Shelves": "4 shelves (Coated)",
+        "Temperature Control": "-2°C to 8°C",
+        "Temperature Range": "-2°C"
+      }
+    },
+    {
+      "name": "RTSW137MS4-GNTE",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/08/RTSW137-1117133_Left-Angle-1-800x1000.png",
+      "keySpecs": {
+        "Temperature Control (°C)": "-2°C to 8°C",
+        "Temperature Range": "-2°C"
+      }
+    },
+    {
+      "name": "RTSW137MS4-GNTS",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTSW137MS4-GNTS-800x1000.png",
+      "keySpecs": {
+        "Temperature Control (°C)": "-2°C to 8°C",
+        "Temperature Range": "-2°C"
+      }
+    },
+    {
+      "name": "RTSW97MS4-GNTS",
+      "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTSW97MS4-GNTS-800x1000.png",
+      "keySpecs": {
+        "Temperature Control (°C)": "-2°C to 8°C",
+        "No of Shelves": "4 shelves",
+        "Temperature Range": "-2°C"
+      }
+    }
+  ]
+}

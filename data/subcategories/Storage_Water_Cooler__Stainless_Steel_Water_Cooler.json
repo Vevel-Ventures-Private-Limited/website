@@ -1,0 +1,38 @@
+{
+  "name": "Stainless Steel Water Cooler",
+  "category": "Storage Water Cooler",
+  "products": [
+    {
+      "name": "SWC4080HC",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/SWC-4080-6080-1-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "80 litre",
+        "Cooling Capacity Rating": "40 litre per hour"
+      }
+    },
+    {
+      "name": "SWC6080",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/SWC-4080-6080-1-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "80 litre",
+        "Cooling Capacity Rating": "60 litre per Hour"
+      }
+    },
+    {
+      "name": "SWC80120",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/SWC-80120-1-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "120 litre",
+        "Cooling Capacity Rating": "80 litre per Hour"
+      }
+    },
+    {
+      "name": "SWC150150",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/10/SWC-150150-800x1000.png",
+      "keySpecs": {
+        "Water Storage Capacity": "150 litre",
+        "Cooling Capacity Rating": "120 litre per Hour"
+      }
+    }
+  ]
+}

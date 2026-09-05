@@ -1,0 +1,66 @@
+{
+  "name": "SWC150150",
+  "category": "Stainless Steel Water Cooler",
+  "categoryPath": "Storage Water Cooler → Stainless Steel Water Cooler",
+  "link": "https://westernequipments.com/product/water-cooler/stainless-steel-water-cooler/swc150150/",
+  "image": "https://westernequipments.com/wp-content/uploads/2024/10/SWC-150150-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2024/10/SWC-150150-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20556%20556'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2024/10/SWC-150150-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Water-Cooler-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2024/05/Water-Cooler-2-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal dimensions: 800 (W) x 821 (D) x 1241 (H)\nEquipment Type : Storage Type Water Cooler\nWater Storage Capacity: 150 litre\nCooling Capacity Rating: 120 litre per Hour\nFaucet type / Qty.: Push Cock / 3 No’s.\nCold Faucet (Qty) / Normal Faucet (Qty): 3 Nos / 0 Nos",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Water Storage Capacity": "150 litre",
+    "Cooling Capacity Rating": "120 litre per Hour"
+  },
+  "differentiatingSpecs": [
+    "Storage Capacity",
+    "Cooling Rate"
+  ],
+  "variations": {
+    "capacity": [
+      "SWC4080HC",
+      "SWC6080",
+      "SWC80120"
+    ],
+    "addons": [
+      "Digital Display",
+      "Castors"
+    ],
+    "familyProducts": [
+      {
+        "name": "SWC4080HC",
+        "keySpecs": {
+          "Water Storage Capacity": "80 litre",
+          "Cooling Capacity Rating": "40 litre per hour"
+        }
+      },
+      {
+        "name": "SWC6080",
+        "keySpecs": {
+          "Water Storage Capacity": "80 litre",
+          "Cooling Capacity Rating": "60 litre per Hour"
+        }
+      },
+      {
+        "name": "SWC80120",
+        "keySpecs": {
+          "Water Storage Capacity": "120 litre",
+          "Cooling Capacity Rating": "80 litre per Hour"
+        }
+      },
+      {
+        "name": "SWC150150",
+        "keySpecs": {
+          "Water Storage Capacity": "150 litre",
+          "Cooling Capacity Rating": "120 litre per Hour"
+        }
+      }
+    ]
+  }
+}

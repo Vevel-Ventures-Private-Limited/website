@@ -1,0 +1,54 @@
+{
+  "name": "RTDWP187MS3-333",
+  "category": "Under Counter Drawer",
+  "categoryPath": "Stainless Steel Refrigerators → Under Counter Product → Under Counter Drawer",
+  "link": "https://westernequipments.com/product/stainless-steel/under-counter-product/drawers/rtdwp187ms3-333/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/RTDWP187MS3-333-Left-Facing-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTDWP187MS3-333-Left-Facing-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTDWP187MS3-333-Left-Facing-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTDWP187MS3-333-Left-Facing-1-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/RTDWP187MS3-333-Front-Facing-140x140.png"
+  ],
+  "description": "Product Specification:\n\nGross Volume: 461 L\nExternal Dimension (mm) WxDxH: 1765 x 700 x 850\nTemperature Range: -2°C to 12°C\nFootprint (m2): 1.24\nRefrigerant: R-290",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "461 L",
+    "Temperature Range": "-2°C to 12°C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [
+      "RTDWP137MS3-33"
+    ],
+    "addons": [
+      "GN Rail System",
+      "Drawers",
+      "Glass Door",
+      "Digital Display",
+      "Lock",
+      "Splash Back Top"
+    ],
+    "familyProducts": [
+      {
+        "name": "RTDWP137MS3-33",
+        "keySpecs": {
+          "Gross Volume": "305 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDWP187MS3-333",
+        "keySpecs": {
+          "Gross Volume": "461 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      }
+    ]
+  }
+}

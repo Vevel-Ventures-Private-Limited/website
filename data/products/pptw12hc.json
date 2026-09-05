@@ -1,0 +1,57 @@
+{
+  "name": "PPTW12HC",
+  "category": "Pastry Cabinet",
+  "categoryPath": "Pastry Cabinet",
+  "link": "https://westernequipments.com/product/pastry-cabinet/pptw12hc/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/Pastry-Cabinet-PPTW12HC-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/Pastry-Cabinet-PPTW12HC-800x1000.png",
+    "https:data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%2F%3E",
+    "https://westernequipments.com/wp-content/uploads/2026/07/Pastry-Cabinet-PPTW12HC-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/PPTW12HC-Left-Angle-140x140.png",
+    "https://westernequipments.com/wp-content/uploads/2026/07/Pastry-Cabinet-PPTW12HC-1-140x140.png"
+  ],
+  "description": "Product Specification:\n\nExternal Dimension (mm) : 1158 (W) X 676 (D) X 1244 (H)\nGross Volume: 526L\nNo. of Shelves: Base + 3\nTemperature Range: 2°C to 10°C",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "526L",
+    "No. of Shelves": "Base + 3",
+    "Temperature Range": "2°C to 10°C"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range",
+    "No. of Shelves"
+  ],
+  "variations": {
+    "capacity": [
+      "PPTW15HC"
+    ],
+    "addons": [
+      "LED Lighting",
+      "Digital Display",
+      "Castors",
+      "Lock",
+      "Adjustable Shelves"
+    ],
+    "familyProducts": [
+      {
+        "name": "PPTW12HC",
+        "keySpecs": {
+          "Gross Volume": "526L",
+          "No. of Shelves": "Base + 3",
+          "Temperature Range": "2°C to 10°C"
+        }
+      },
+      {
+        "name": "PPTW15HC",
+        "keySpecs": {
+          "Gross Volume": "671L",
+          "No. of Shelves": "Base + 3",
+          "Temperature Range": "2°C to 10°C"
+        }
+      }
+    ]
+  }
+}

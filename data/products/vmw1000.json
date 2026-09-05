@@ -1,0 +1,38 @@
+{
+  "name": "VMW1000",
+  "category": "Vending Machine",
+  "categoryPath": "Vending Machine",
+  "link": "https://westernequipments.com/product/vending-machine/vmw1000/",
+  "image": "https://westernequipments.com/wp-content/uploads/2026/07/VMW1000-Vending-Machine-800x1000.png",
+  "gallery": [
+    "https://westernequipments.com/wp-content/uploads/2026/07/VMW1000-Vending-Machine-800x1000.png"
+  ],
+  "description": "Product Specification:\n\nGross Volume: 1150 L\nNet Volume: 1110 L\nExternal Dimension (mm) WxDxH: 1000 x 1000 x 1980\nProduct Display Area (m2): 0.97\nFootprint (m2): 1.0\nTemperature Range: 0°C to 10°C.\nNo. of Shelves: 6\nNo. of Selection/Wide: 5/10\nRefrigerant: R-134a",
+  "features": [],
+  "specifications": {},
+  "keySpecifications": {
+    "Gross Volume": "1150 L",
+    "Net Volume": "1110 L",
+    "Temperature Range": "0°C to 10°C.",
+    "No. of Shelves": "6"
+  },
+  "differentiatingSpecs": [
+    "Gross Volume",
+    "Temperature Range"
+  ],
+  "variations": {
+    "capacity": [],
+    "addons": [],
+    "familyProducts": [
+      {
+        "name": "VMW1000",
+        "keySpecs": {
+          "Gross Volume": "1150 L",
+          "Net Volume": "1110 L",
+          "Temperature Range": "0°C to 10°C.",
+          "No. of Shelves": "6"
+        }
+      }
+    ]
+  }
+}

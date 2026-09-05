@@ -1,0 +1,62 @@
+{
+  "name": "Upright Freezer",
+  "category": "Stainless Steel Refrigerators",
+  "products": [
+    {
+      "name": "HFWP147LS3-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2025/07/HRWP_HFWP147_Left-View-08-2025-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "1350 Liter",
+        "No. of Shelves": "8 nos. of GN rail (with shelves)",
+        "Temperature Range": "-7°C to -25°C"
+      }
+    },
+    {
+      "name": "HFWP77LS3-GN",
+      "image": "https://westernequipments.com/wp-content/uploads/2025/07/Western-SUS-Upright-HRWP77LS3-GN-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "620 Liter",
+        "No. of Shelves": "4 nos. of GN rail (with shelves)",
+        "Temperature Range": "-7°C to -25°C"
+      }
+    },
+    {
+      "name": "HFWH77MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/New-Project-60-800x1000.png",
+      "keySpecs": {
+        "External Dimensions (90mm Leg)": "700 (W) x 818 (D) x 1990 (H)",
+        "Gross Volume": "638 Litres",
+        "Temperature Range": "-7° to -25° C",
+        "No. of Shelves": "04"
+      }
+    },
+    {
+      "name": "HFWH127MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFWH-127HRWH127MS4_Left-Angle-2-800x1000.png",
+      "keySpecs": {
+        "External Dimensions (90mm Leg)": "1200 (W) x 818 (D) x 1990 (H)",
+        "Gross Volume": "1119 Liters",
+        "Temperature Range": "-7°C to -25°C",
+        "No. of Shelves": "08"
+      }
+    },
+    {
+      "name": "HFWH147MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFWH-147-HRWH147MS4_Left-Angle-3-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "1365 Liters",
+        "No. of Shelves": "08",
+        "Temperature Range": "-7° to -25° C"
+      }
+    },
+    {
+      "name": "HFW-187MS4/LS4",
+      "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFW-187-HRW-187MS4_left-Angle-1-800x1000.png",
+      "keySpecs": {
+        "Gross Volume": "1720 Liters",
+        "No. of Shelves": "12",
+        "Temperature Range": "-7° to -25° C"
+      }
+    }
+  ]
+}
