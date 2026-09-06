@@ -16,73 +16,33 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm) : 1060 (W) x 695 (D) x 840 (H)\nGross volume: 253 Liters\nTemperature range (°C): < – 17.0°C\nNo. of Baskets: 1",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "1060 (W) x 695 (D) x 840 (H)",
+    "Gross Volume": "253 Liters",
+    "Temperature Range": "< – 17.0°C",
+    "No. of Baskets": "1"
+  },
   "keySpecifications": {
-    "Temperature range (°C)": "< – 17.0°C",
-    "No. of Baskets": "1",
-    "Temperature Range": ""
+    "Gross Volume": "253 Liters",
+    "Temperature Range": "< – 17.0°C"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
-      "E425H220",
-      "E425D220",
-      "E525D320",
-      "E425GT20"
+      "E425H220"
     ],
     "addons": [
-      "Castors (Wheels)",
-      "LED Lighting",
-      "Digital Display",
-      "Lock",
-      "Convertible Technology",
-      "Glass Top",
       "Baskets"
     ],
     "familyProducts": [
       {
-        "name": "E325H220",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "1",
-          "Temperature Range": ""
-        }
-      },
-      {
         "name": "E425H220",
         "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "2",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "E425D220",
-        "keySpecs": {
-          "Gross Volume": "351L",
-          "Net Volume": "329L",
-          "No. Of Baskets": "2",
-          "Temperature Range": "<- 17.0°C"
-        }
-      },
-      {
-        "name": "E525D320",
-        "keySpecs": {
-          "Gross Volume": "440L",
-          "Net Volume": "406L",
-          "No. Of Baskets": "NA",
-          "Temperature Range": "<- 17.0°C"
-        }
-      },
-      {
-        "name": "E425GT20",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "2",
-          "Temperature Range": ""
+          "Gross Volume": "351 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       }
     ]

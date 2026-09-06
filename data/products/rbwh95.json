@@ -16,40 +16,30 @@
   ],
   "description": "Gross Volume: 226 Litres\nExternal dimensions: 900(W)X561(D)X900(H)\nTemperature Range: 0° to 10° C\nNo. Of Shelves: 4",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
     "Gross Volume": "226 Litres",
+    "External dimensions": "900(W)X561(D)X900(H)",
     "Temperature Range": "0° to 10° C",
     "No. Of Shelves": "4"
   },
+  "keySpecifications": {
+    "Gross Volume": "226 Litres",
+    "Temperature Range": "0° to 10° C"
+  },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
       "RBWH135"
     ],
-    "addons": [
-      "LED Lighting",
-      "Digital Display",
-      "Lock"
-    ],
+    "addons": [],
     "familyProducts": [
-      {
-        "name": "RBWH95",
-        "keySpecs": {
-          "Gross Volume": "226 Litres",
-          "Temperature Range": "0° to 10° C",
-          "No. Of Shelves": "4"
-        }
-      },
       {
         "name": "RBWH135",
         "keySpecs": {
           "Gross Volume": "349 Litres",
-          "Temperature Range": "0° to 10° C",
-          "No. Of Shelves": "6"
+          "Temperature Range": "0° to 10° C"
         }
       }
     ]

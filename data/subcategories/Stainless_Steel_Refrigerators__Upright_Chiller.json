@@ -7,8 +7,8 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW-126-LD-HRW-126MS4_Left-Angle-800x1000.png",
       "keySpecs": {
         "Gross Volume": "988 Liter",
-        "No. of Shelves": "08",
-        "Temperature Range": "-2° to 12° C"
+        "Temperature Range": "-2° to 12° C",
+        "Shelves": "08"
       }
     },
     {
@@ -16,8 +16,8 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW-76-HRW-76MS4_left-Angle-800x1000.png",
       "keySpecs": {
         "Gross Volume": "507 Litres",
-        "No. of Shelves": "04",
-        "Temperature Range": "-2° to 12° C"
+        "Temperature Range": "-2° to 12° C",
+        "Shelves": "04"
       }
     },
     {
@@ -25,8 +25,8 @@
       "image": "https://westernequipments.com/wp-content/uploads/2025/07/HRWP_HFWP147_Left-View-2025-800x1000.png",
       "keySpecs": {
         "Gross Volume": "1350 Liter",
-        "No. of Shelves": "8 nos. of GN rail (with shelves)",
-        "Temperature Range": "-2° to 12° C"
+        "Temperature Range": "-2° to 12° C",
+        "Shelves": "8 nos. of GN rail (with shelves)"
       }
     },
     {
@@ -34,18 +34,17 @@
       "image": "https://westernequipments.com/wp-content/uploads/2025/07/Western-SUS-Upright-HRWP77LS3-GN-800x1000.png",
       "keySpecs": {
         "Gross Volume": "620 Liter",
-        "No. of Shelves": "4 nos. of GN rail (with shelves)",
-        "Temperature Range": "-2° to 12° C"
+        "Temperature Range": "-2° to 12° C",
+        "Shelves": "4 nos. of GN rail (with shelves)"
       }
     },
     {
       "name": "HRWH77MS4/LS4",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/New-Project-60-800x1000.png",
       "keySpecs": {
-        "External Dimensions (with 90mm Leg)": "700 (W) x 818 (D) x 1990 (H)",
         "Gross Volume": "628 Litres",
         "Temperature Range": "-2° to 12° C",
-        "No. of Shelves": "04"
+        "Shelves": "04"
       }
     },
     {
@@ -54,7 +53,7 @@
       "keySpecs": {
         "Gross Volume": "1119 Liters",
         "Temperature Range": "-2° to 12° C",
-        "No. of Shelves": "08"
+        "Shelves": "08"
       }
     },
     {
@@ -62,8 +61,8 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFWH-147-HRWH147MS4_Left-Angle-3-800x1000.png",
       "keySpecs": {
         "Gross Volume": "1365 Liters",
-        "No. of Shelves": "08",
-        "Temperature Range": "-2° to 12° C"
+        "Temperature Range": "-2° to 12° C",
+        "Shelves": "08"
       }
     },
     {
@@ -71,8 +70,8 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/HRW_HFW-187-HRW-187MS4_left-Angle-1-800x1000.png",
       "keySpecs": {
         "Gross Volume": "1720 Litres",
-        "No. of Shelves": "12",
-        "Temperature Range": "-2° to 12° C"
+        "Temperature Range": "-2° to 12° C",
+        "Shelves": "12"
       }
     }
   ]

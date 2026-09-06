@@ -13,7 +13,14 @@
   ],
   "description": "Product Specification:\n\nGross Volume: 305 L\nExternal Dimension (mm) WxDxH: 1300 x 700 x 850\nTemperature Range: -2°C to 12°C\nFootprint (m2): 0.91\nRefrigerant: R-290",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "Gross Volume": "305 L",
+    "External Dimension (mm) WxDxH": "1300 x 700 x 850",
+    "Temperature Range": "-2°C to 12°C",
+    "Footprint (m2)": "0.91",
+    "Refrigerant": "R-290"
+  },
   "keySpecifications": {
     "Gross Volume": "305 L",
     "Temperature Range": "-2°C to 12°C"
@@ -24,21 +31,19 @@
   ],
   "variations": {
     "capacity": [
-      "RTDWP187MS3-333"
+      "RTDWL97MS3-2",
+      "RTDWP187MS3-333",
+      "RTDWL137MS3-22",
+      "RTDWL187MS3-222",
+      "RTDW137MS4-33",
+      "RTDW187MS4-333"
     ],
-    "addons": [
-      "GN Rail System",
-      "Drawers",
-      "Glass Door",
-      "Digital Display",
-      "Lock",
-      "Splash Back Top"
-    ],
+    "addons": [],
     "familyProducts": [
       {
-        "name": "RTDWP137MS3-33",
+        "name": "RTDWL97MS3-2",
         "keySpecs": {
-          "Gross Volume": "305 L",
+          "Gross Volume": "97 L",
           "Temperature Range": "-2°C to 12°C"
         }
       },
@@ -47,6 +52,34 @@
         "keySpecs": {
           "Gross Volume": "461 L",
           "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDWL137MS3-22",
+        "keySpecs": {
+          "Gross Volume": "195 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDWL187MS3-222",
+        "keySpecs": {
+          "Gross Volume": "290 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDW137MS4-33",
+        "keySpecs": {
+          "Gross Volume": "305 Liters",
+          "Temperature Range": "-2° to 12° C"
+        }
+      },
+      {
+        "name": "RTDW187MS4-333",
+        "keySpecs": {
+          "Gross Volume": "461 Liters",
+          "Temperature Range": "-2° to 12° C"
         }
       }
     ]

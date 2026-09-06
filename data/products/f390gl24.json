@@ -13,168 +13,99 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm): 1225 (W) x 723 (D) x 913 (H)\nGross volume: 375 Liters\nTemperature range (°C): Freezer application : < – 17.0°C\nNo. of Baskets: 2\nEnergy Star Rating : 4 Star",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
-    "Temperature range (°C)": "Freezer application:< – 17.0°C",
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "1225 (W) x 723 (D) x 913 (H)",
+    "Gross Volume": "375 Liters",
+    "Temperature Range": "Freezer application : < – 17.0°C",
     "No. of Baskets": "2",
-    "Energy Star Rating": "4 Star",
-    "Temperature Range": ""
+    "Energy Star Rating": "4 Star"
+  },
+  "keySpecifications": {
+    "Gross Volume": "375 Liters",
+    "Temperature Range": "Freezer application : < – 17.0°C"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Energy Star Ratings",
     "Temperature Range"
   ],
   "variations": {
     "capacity": [
-      "F325GC24",
-      "F325H223",
       "F250GL23",
       "F350GL23",
       "F390GL25E",
       "F450GL25E",
       "F490GL25",
       "F490GL25E",
-      "F425GC24",
       "F450GL23",
-      "F450GL23 (Scooping)",
       "F550GL23",
       "F550GL23 (Scooping)"
     ],
     "addons": [
-      "Castors (Wheels)",
-      "LED Lighting",
-      "Digital Display",
-      "Lock",
-      "Convertible Technology",
-      "Glass Top",
       "Baskets"
     ],
     "familyProducts": [
       {
-        "name": "F325GC24",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "2",
-          "Energy Star Rating": "4 Star",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "F325H223",
-        "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1 (Freezer Only)",
-          "Energy Star Ratings": "3 Star",
-          "Temperature Range": ""
-        }
-      },
-      {
         "name": "F250GL23",
         "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "1",
-          "Energy Star Rating": "3 Star",
-          "Temperature Range": ""
+          "Gross Volume": "192 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       },
       {
         "name": "F350GL23",
         "keySpecs": {
-          "Temperature range (°C)": "Freezer application:< – 17.0°C",
-          "No. of Baskets": "2",
-          "Energy Star Rating": "3 Star",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "F390GL24",
-        "keySpecs": {
-          "Temperature range (°C)": "Freezer application:< – 17.0°C",
-          "No. of Baskets": "2",
-          "Energy Star Rating": "4 Star",
-          "Temperature Range": ""
+          "Gross Volume": "311 Liters",
+          "Temperature Range": "Freezer application : < – 17.0°C"
         }
       },
       {
         "name": "F390GL25E",
         "keySpecs": {
-          "Temperature range (°C)": "Freezer application:< – 18.0°C",
-          "No. of Baskets": "2",
-          "Energy Star Rating": "5 Star",
-          "Temperature Range": ""
+          "Gross Volume": "375 Liters",
+          "Temperature Range": "Freezer application : < – 18.0°C"
         }
       },
       {
         "name": "F450GL25E",
         "keySpecs": {
-          "Temperature range (°C)": "Freezer application:< – 17.0°C",
-          "No. of Baskets": "3",
-          "Energy Star Rating": "5 Star",
-          "Temperature Range": ""
+          "Gross Volume": "422 Liters",
+          "Temperature Range": "Freezer application : < – 17.0°C"
         }
       },
       {
         "name": "F490GL25",
         "keySpecs": {
-          "Temperature range (°C)": "Freezer application:< – 17.0°C",
-          "No. of Baskets": "3",
-          "Energy Star Rating": "5 Star",
-          "Temperature Range": ""
+          "Gross Volume": "504 Liters",
+          "Temperature Range": "Freezer application : < – 17.0°C"
         }
       },
       {
         "name": "F490GL25E",
         "keySpecs": {
-          "Temperature range (°C)": "Freezer application:< – 18.0°C",
-          "No. of Baskets": "3",
-          "Energy Star Rating": "5 Star",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "F425GC24",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "3",
-          "Energy Star Rating": "4 Star",
-          "Temperature Range": ""
+          "Gross Volume": "504 Liters",
+          "Temperature Range": "Freezer application : < – 18.0°C"
         }
       },
       {
         "name": "F450GL23",
         "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "3",
-          "Energy Star Rating": "3 Star",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "F450GL23 (Scooping)",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "3",
-          "Energy Star Rating": "3 Star",
-          "Temperature Range": ""
+          "Gross Volume": "422 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       },
       {
         "name": "F550GL23",
         "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "4",
-          "Energy Star Rating": "3 Star",
-          "Temperature Range": ""
+          "Gross Volume": "536 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       },
       {
         "name": "F550GL23 (Scooping)",
         "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "4",
-          "Energy Star Rating": "3 Star",
-          "Temperature Range": ""
+          "Gross Volume": "536 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       }
     ]

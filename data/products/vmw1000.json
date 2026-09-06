@@ -9,12 +9,22 @@
   ],
   "description": "Product Specification:\n\nGross Volume: 1150 L\nNet Volume: 1110 L\nExternal Dimension (mm) WxDxH: 1000 x 1000 x 1980\nProduct Display Area (m2): 0.97\nFootprint (m2): 1.0\nTemperature Range: 0°C to 10°C.\nNo. of Shelves: 6\nNo. of Selection/Wide: 5/10\nRefrigerant: R-134a",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Gross Volume": "1150 L",
     "Net Volume": "1110 L",
+    "External Dimension (mm) WxDxH": "1000 x 1000 x 1980",
+    "Product Display Area (m2)": "0.97",
+    "Footprint (m2)": "1.0",
     "Temperature Range": "0°C to 10°C.",
-    "No. of Shelves": "6"
+    "Shelves": "6",
+    "No. of Selection/Wide": "5/10",
+    "Refrigerant": "R-134a"
+  },
+  "keySpecifications": {
+    "Gross Volume": "1150 L",
+    "Temperature Range": "0°C to 10°C.",
+    "Shelves": "6"
   },
   "differentiatingSpecs": [
     "Gross Volume",
@@ -23,16 +33,6 @@
   "variations": {
     "capacity": [],
     "addons": [],
-    "familyProducts": [
-      {
-        "name": "VMW1000",
-        "keySpecs": {
-          "Gross Volume": "1150 L",
-          "Net Volume": "1110 L",
-          "Temperature Range": "0°C to 10°C.",
-          "No. of Shelves": "6"
-        }
-      }
-    ]
+    "familyProducts": []
   }
 }

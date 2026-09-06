@@ -6,18 +6,16 @@
       "name": "E325H220",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/E325H220-5-800x1000.png",
       "keySpecs": {
-        "Temperature range (°C)": "< – 17.0°C",
-        "No. of Baskets": "1",
-        "Temperature Range": ""
+        "Gross Volume": "253 Liters",
+        "Temperature Range": "< – 17.0°C"
       }
     },
     {
       "name": "E425H220",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/E425H220-800x1000.png",
       "keySpecs": {
-        "Temperature range (°C)": "< – 17.0°C",
-        "No. of Baskets": "2",
-        "Temperature Range": ""
+        "Gross Volume": "351 Liters",
+        "Temperature Range": "< – 17.0°C"
       }
     }
   ]

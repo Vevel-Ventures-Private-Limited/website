@@ -14,7 +14,14 @@
   ],
   "description": "Product Specification:\n\nGross Volume: 461 Liters\nExternal dimensions : 1765 (W) x 700 (D) x 850 (H)\nPower Supply: 230V AC/50 Hz\nTemperature Range: -2° to 12° C\nNo. of Drawers: 9",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "Gross Volume": "461 Liters",
+    "External dimensions": "1765 (W) x 700 (D) x 850 (H)",
+    "Power Supply": "230V AC/50 Hz",
+    "Temperature Range": "-2° to 12° C",
+    "No. of Drawers": "9"
+  },
   "keySpecifications": {
     "Gross Volume": "461 Liters",
     "Temperature Range": "-2° to 12° C"
@@ -25,28 +32,56 @@
   ],
   "variations": {
     "capacity": [
+      "RTDWL97MS3-2",
+      "RTDWP137MS3-33",
+      "RTDWP187MS3-333",
+      "RTDWL137MS3-22",
+      "RTDWL187MS3-222",
       "RTDW137MS4-33"
     ],
     "addons": [
-      "GN Rail System",
-      "Drawers",
-      "Glass Door",
-      "Digital Display",
-      "Lock",
-      "Splash Back Top"
+      "Drawers"
     ],
     "familyProducts": [
+      {
+        "name": "RTDWL97MS3-2",
+        "keySpecs": {
+          "Gross Volume": "97 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDWP137MS3-33",
+        "keySpecs": {
+          "Gross Volume": "305 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDWP187MS3-333",
+        "keySpecs": {
+          "Gross Volume": "461 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDWL137MS3-22",
+        "keySpecs": {
+          "Gross Volume": "195 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
+      {
+        "name": "RTDWL187MS3-222",
+        "keySpecs": {
+          "Gross Volume": "290 L",
+          "Temperature Range": "-2°C to 12°C"
+        }
+      },
       {
         "name": "RTDW137MS4-33",
         "keySpecs": {
           "Gross Volume": "305 Liters",
-          "Temperature Range": "-2° to 12° C"
-        }
-      },
-      {
-        "name": "RTDW187MS4-333",
-        "keySpecs": {
-          "Gross Volume": "461 Liters",
           "Temperature Range": "-2° to 12° C"
         }
       }

@@ -6,20 +6,16 @@
       "name": "F325GC24",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/F325GC24-800x1000.png",
       "keySpecs": {
-        "Temperature range (°C)": "< – 17.0°C",
-        "No. of Baskets": "2",
-        "Energy Star Rating": "4 Star",
-        "Temperature Range": ""
+        "Gross Volume": "284 Liters",
+        "Temperature Range": "< – 17.0°C"
       }
     },
     {
       "name": "F425GC24",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/F425GC-800x1000.png",
       "keySpecs": {
-        "Temperature range (°C)": "< – 17.0°C",
-        "No. of Baskets": "3",
-        "Energy Star Rating": "4 Star",
-        "Temperature Range": ""
+        "Gross Volume": "350 Liters",
+        "Temperature Range": "< – 17.0°C"
       }
     }
   ]

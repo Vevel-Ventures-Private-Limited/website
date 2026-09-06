@@ -13,43 +13,73 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm) : 1158 (W) X 676 (D) X 1244 (H)\nGross Volume: 526L\nNo. of Shelves: Base + 3\nTemperature Range: 2°C to 10°C",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "1158 (W) X 676 (D) X 1244 (H)",
+    "Gross Volume": "526L",
+    "Shelves": "Base + 3",
+    "Temperature Range": "2°C to 10°C"
+  },
   "keySpecifications": {
     "Gross Volume": "526L",
-    "No. of Shelves": "Base + 3",
-    "Temperature Range": "2°C to 10°C"
+    "Temperature Range": "2°C to 10°C",
+    "Shelves": "Base + 3"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range",
-    "No. of Shelves"
+    "Temperature Range"
   ],
   "variations": {
     "capacity": [
-      "PPTW15HC"
+      "PTW06HC",
+      "PTW09HC",
+      "PTW12HC",
+      "PTW15HC",
+      "PPTW15HC",
+      "PTW15PHC-SBX"
     ],
-    "addons": [
-      "LED Lighting",
-      "Digital Display",
-      "Castors",
-      "Lock",
-      "Adjustable Shelves"
-    ],
+    "addons": [],
     "familyProducts": [
       {
-        "name": "PPTW12HC",
+        "name": "PTW06HC",
         "keySpecs": {
-          "Gross Volume": "526L",
-          "No. of Shelves": "Base + 3",
-          "Temperature Range": "2°C to 10°C"
+          "Gross Volume": "232",
+          "Temperature Range": "2° to 10° C"
+        }
+      },
+      {
+        "name": "PTW09HC",
+        "keySpecs": {
+          "Gross Volume": "360 Liters",
+          "Temperature Range": "2° to 10° C"
+        }
+      },
+      {
+        "name": "PTW12HC",
+        "keySpecs": {
+          "Gross Volume": "500 Liters",
+          "Temperature Range": "2° to 10° C"
+        }
+      },
+      {
+        "name": "PTW15HC",
+        "keySpecs": {
+          "Gross Volume": "660",
+          "Temperature Range": "2° to 10° C"
         }
       },
       {
         "name": "PPTW15HC",
         "keySpecs": {
           "Gross Volume": "671L",
-          "No. of Shelves": "Base + 3",
-          "Temperature Range": "2°C to 10°C"
+          "Temperature Range": "2°C to 10°C",
+          "Shelves": "Base + 3"
+        }
+      },
+      {
+        "name": "PTW15PHC-SBX",
+        "keySpecs": {
+          "Temperature Range": "2°C to 5°C"
         }
       }
     ]

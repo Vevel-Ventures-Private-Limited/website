@@ -13,48 +13,154 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm): 1720 (W) x 760 (D) x 885 (H)\nGross volume: 520 Liters\nTemperature range (°C): < – 17.0°C\nNo. of Baskets: 2\nEnergy Star Rating : 5 Star",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
-    "Temperature range (°C)": "< – 17.0°C",
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "1720 (W) x 760 (D) x 885 (H)",
+    "Gross Volume": "520 Liters",
+    "Temperature Range": "< – 17.0°C",
     "No. of Baskets": "2",
-    "Energy Star Rating": "5 Star",
-    "Temperature Range": ""
+    "Energy Star Rating": "5 Star"
+  },
+  "keySpecifications": {
+    "Gross Volume": "520 Liters",
+    "Temperature Range": "< – 17.0°C"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Energy Star Ratings",
-    "Temperature Range"
+    "Star Rating"
   ],
   "variations": {
     "capacity": [
+      "D70H161",
+      "D150H163",
+      "D225H121",
+      "D300H223",
+      "D340H222",
+      "D350H224",
+      "D475H223",
+      "D525H223",
+      "D550H224",
+      "D300H123",
+      "D300H222",
+      "D375H265",
+      "D625H225",
+      "D875H324",
+      "F325H223",
       "P1250H325"
     ],
     "addons": [
-      "Castors (Wheels)",
-      "LED Lighting",
-      "Digital Display",
-      "Lock",
-      "Convertible Technology",
-      "Glass Top",
       "Baskets"
     ],
     "familyProducts": [
       {
-        "name": "P1250H325",
+        "name": "D70H161",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "2",
-          "Energy Star Rating": "5 Star",
-          "Temperature Range": ""
+          "Gross Volume": "72 Liters",
+          "Star Rating": "1 Star"
         }
       },
       {
-        "name": "P650H325",
+        "name": "D150H163",
         "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "2",
-          "Energy Star Rating": "5 Star",
-          "Temperature Range": ""
+          "Gross Volume": "106 Liters",
+          "Star Rating": "3 Star"
+        }
+      },
+      {
+        "name": "D225H121",
+        "keySpecs": {
+          "Gross Volume": "190 Liters",
+          "Star Rating": "2 Star"
+        }
+      },
+      {
+        "name": "D300H223",
+        "keySpecs": {
+          "Gross Volume": "224 Liters",
+          "Star Rating": "3 Star"
+        }
+      },
+      {
+        "name": "D340H222",
+        "keySpecs": {
+          "Gross Volume": "320 Liters",
+          "Star Rating": "2 Star"
+        }
+      },
+      {
+        "name": "D350H224",
+        "keySpecs": {
+          "Gross Volume": "282 Liters",
+          "Star Rating": "4 Star"
+        }
+      },
+      {
+        "name": "D475H223",
+        "keySpecs": {
+          "Gross Volume": "444 Liters",
+          "Star Rating": "3 Star"
+        }
+      },
+      {
+        "name": "D525H223",
+        "keySpecs": {
+          "Gross Volume": "282 Liters",
+          "Star Rating": "4 Star"
+        }
+      },
+      {
+        "name": "D550H224",
+        "keySpecs": {
+          "Gross Volume": "527 Liters",
+          "Star Rating": "4 Star"
+        }
+      },
+      {
+        "name": "D300H123",
+        "keySpecs": {
+          "Gross Volume": "220 Liters",
+          "Star Rating": "3"
+        }
+      },
+      {
+        "name": "D300H222",
+        "keySpecs": {
+          "Gross Volume": "224 Litres",
+          "Star Rating": "2"
+        }
+      },
+      {
+        "name": "D375H265",
+        "keySpecs": {
+          "Gross Volume": "306 Litres",
+          "Star Rating": "5 Star"
+        }
+      },
+      {
+        "name": "D625H225",
+        "keySpecs": {
+          "Gross Volume": "568 Liters",
+          "Star Rating": "5 Star"
+        }
+      },
+      {
+        "name": "D875H324",
+        "keySpecs": {
+          "Gross Volume": "722 Liters",
+          "Star Rating": "4 Star"
+        }
+      },
+      {
+        "name": "F325H223",
+        "keySpecs": {
+          "Gross Volume": "301 Liters",
+          "Star Rating": "3 Star"
+        }
+      },
+      {
+        "name": "P1250H325",
+        "keySpecs": {
+          "Gross Volume": "988 Liters"
         }
       }
     ]

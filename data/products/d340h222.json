@@ -13,17 +13,23 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm): 1060 (W) x 695 (D) x 890 (H)\nGross volume: 320 Liters\nTemperature range (°C):\nFreezer Application:                                    < – 17.0°C\nCooler Application :                                     < 10.0°C\nNo. of Baskets: 1\nEnergy Star Ratings : 2 Star\nFreezer Cum Cooler Convertible Technology",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
-    "Temperature range (°C)": "",
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "1060 (W) x 695 (D) x 890 (H)",
+    "Gross Volume": "320 Liters",
+    "Temperature Range": "",
+    "Freezer Application": "< – 17.0°C",
+    "Cooler Application": "< 10.0°C",
     "No. of Baskets": "1",
-    "Energy Star Ratings": "2 Star",
-    "Temperature Range": ""
+    "Star Rating": "2 Star"
+  },
+  "keySpecifications": {
+    "Gross Volume": "320 Liters",
+    "Star Rating": "2 Star"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Energy Star Ratings",
-    "Temperature Range"
+    "Star Rating"
   ],
   "variations": {
     "capacity": [
@@ -39,142 +45,125 @@
       "D300H222",
       "D375H265",
       "D625H225",
-      "D875H324"
+      "D875H324",
+      "F325H223",
+      "P1250H325",
+      "P650H325"
     ],
     "addons": [
-      "Castors (Wheels)",
-      "LED Lighting",
-      "Digital Display",
-      "Lock",
       "Convertible Technology",
-      "Glass Top",
       "Baskets"
     ],
     "familyProducts": [
       {
         "name": "D70H161",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "1 Star",
-          "Temperature Range": ""
+          "Gross Volume": "72 Liters",
+          "Star Rating": "1 Star"
         }
       },
       {
         "name": "D150H163",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "3 Star",
-          "Temperature Range": ""
+          "Gross Volume": "106 Liters",
+          "Star Rating": "3 Star"
         }
       },
       {
         "name": "D225H121",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "2 Star",
-          "Temperature Range": ""
+          "Gross Volume": "190 Liters",
+          "Star Rating": "2 Star"
         }
       },
       {
         "name": "D300H223",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "3 Star",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "D340H222",
-        "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "2 Star",
-          "Temperature Range": ""
+          "Gross Volume": "224 Liters",
+          "Star Rating": "3 Star"
         }
       },
       {
         "name": "D350H224",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "4 Star",
-          "Temperature Range": ""
+          "Gross Volume": "282 Liters",
+          "Star Rating": "4 Star"
         }
       },
       {
         "name": "D475H223",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "2",
-          "Energy Star Ratings": "3 Star",
-          "Temperature Range": ""
+          "Gross Volume": "444 Liters",
+          "Star Rating": "3 Star"
         }
       },
       {
         "name": "D525H223",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "4 Star",
-          "Temperature Range": ""
+          "Gross Volume": "282 Liters",
+          "Star Rating": "4 Star"
         }
       },
       {
         "name": "D550H224",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "2",
-          "Energy Star Ratings": "4 Star",
-          "Temperature Range": ""
+          "Gross Volume": "527 Liters",
+          "Star Rating": "4 Star"
         }
       },
       {
         "name": "D300H123",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "3",
-          "Temperature Range": ""
+          "Gross Volume": "220 Liters",
+          "Star Rating": "3"
         }
       },
       {
         "name": "D300H222",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "2",
-          "Temperature Range": ""
+          "Gross Volume": "224 Litres",
+          "Star Rating": "2"
         }
       },
       {
         "name": "D375H265",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "5 Star",
-          "Temperature Range": ""
+          "Gross Volume": "306 Litres",
+          "Star Rating": "5 Star"
         }
       },
       {
         "name": "D625H225",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "2",
-          "Energy Star Ratings": "5 Star",
-          "Temperature Range": ""
+          "Gross Volume": "568 Liters",
+          "Star Rating": "5 Star"
         }
       },
       {
         "name": "D875H324",
         "keySpecs": {
-          "Temperature range (°C)": "",
-          "No. of Baskets": "1",
-          "Energy Star Ratings": "4 Star",
-          "Temperature Range": ""
+          "Gross Volume": "722 Liters",
+          "Star Rating": "4 Star"
+        }
+      },
+      {
+        "name": "F325H223",
+        "keySpecs": {
+          "Gross Volume": "301 Liters",
+          "Star Rating": "3 Star"
+        }
+      },
+      {
+        "name": "P1250H325",
+        "keySpecs": {
+          "Gross Volume": "988 Liters"
+        }
+      },
+      {
+        "name": "P650H325",
+        "keySpecs": {
+          "Gross Volume": "520 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       }
     ]

@@ -16,38 +16,35 @@
   ],
   "description": "Product Specification:\n\nGross volume: 935 Liters\nExternal Dimension (mm): 1200 (W) x 757 (D) x 2022 (H)\nNo. of Shelves: 10\nTemperature Range: <-18°C",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
-    "No. of Shelves": "10",
+  "specifications": {
+    "Product Specification": "",
+    "Gross Volume": "935 Liters",
+    "External Dimension (mm)": "1200 (W) x 757 (D) x 2022 (H)",
+    "Shelves": "10",
     "Temperature Range": "<-18°C"
+  },
+  "keySpecifications": {
+    "Gross Volume": "935 Liters",
+    "Temperature Range": "<-18°C",
+    "Shelves": "10"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range"
+    "Temperature Range",
+    "Shelves"
   ],
   "variations": {
     "capacity": [
       "SMF18-GL"
     ],
-    "addons": [
-      "LED Lighting",
-      "Digital Display",
-      "Castors"
-    ],
+    "addons": [],
     "familyProducts": [
       {
         "name": "SMF18-GL",
         "keySpecs": {
           "Gross Volume": "1454 litres",
           "Temperature Range": "0°C to 10°C",
-          "No. of Shelves": "15"
-        }
-      },
-      {
-        "name": "SMF12",
-        "keySpecs": {
-          "No. of Shelves": "10",
-          "Temperature Range": "<-18°C"
+          "Shelves": "15"
         }
       }
     ]

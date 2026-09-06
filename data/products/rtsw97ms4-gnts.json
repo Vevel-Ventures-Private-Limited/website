@@ -16,15 +16,19 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm): 900 (W) X 745 (D) X 939\nGross volume: 255 Liters\nTemperature Control (°C): -2°C to 8°C\nNo of Shelves: 4 shelves\nRefrigerant: R-134a",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "900 (W) X 745 (D) X 939",
+    "Gross Volume": "255 Liters",
     "Temperature Control (°C)": "-2°C to 8°C",
     "No of Shelves": "4 shelves",
-    "Temperature Range": "-2°C"
+    "Refrigerant": "R-134a"
+  },
+  "keySpecifications": {
+    "Gross Volume": "255 Liters"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
@@ -32,46 +36,25 @@
       "RTSW137MS4-GNTE",
       "RTSW137MS4-GNTS"
     ],
-    "addons": [
-      "GN Rail System",
-      "Drawers",
-      "Glass Door",
-      "Digital Display",
-      "Lock",
-      "Splash Back Top",
-      "Cutting Board",
-      "Pan Stand"
-    ],
+    "addons": [],
     "familyProducts": [
       {
         "name": "RTSW97MS4-GNTE",
         "keySpecs": {
           "Gross Volume": "270 Liters",
-          "No. of Shelves": "4 shelves (Coated)",
-          "Temperature Control": "-2°C to 8°C",
-          "Temperature Range": "-2°C"
+          "Shelves": "4 shelves (Coated)"
         }
       },
       {
         "name": "RTSW137MS4-GNTE",
         "keySpecs": {
-          "Temperature Control (°C)": "-2°C to 8°C",
-          "Temperature Range": "-2°C"
+          "Gross Volume": "417 Liters"
         }
       },
       {
         "name": "RTSW137MS4-GNTS",
         "keySpecs": {
-          "Temperature Control (°C)": "-2°C to 8°C",
-          "Temperature Range": "-2°C"
-        }
-      },
-      {
-        "name": "RTSW97MS4-GNTS",
-        "keySpecs": {
-          "Temperature Control (°C)": "-2°C to 8°C",
-          "No of Shelves": "4 shelves",
-          "Temperature Range": "-2°C"
+          "Gross Volume": "394 Liters"
         }
       }
     ]

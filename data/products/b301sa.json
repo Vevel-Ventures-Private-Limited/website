@@ -9,75 +9,38 @@
   ],
   "description": "Product Specification:\n\nDimensions (mm): 820 (D) x 1016 (H)\nCapacity: 144 Kgs",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Dimensions (mm)": "820 (D) x 1016 (H)",
     "Capacity": "144 Kgs"
   },
+  "keySpecifications": {
+    "Capacity": "144 Kgs",
+    "Gross Volume": "144 Kgs"
+  },
   "differentiatingSpecs": [
-    "Storage Capacity"
+    "Capacity",
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
       "B501SA",
-      "B801SA",
-      "B325H220",
-      "B425H220",
-      "B525H220"
+      "B801SA"
     ],
-    "addons": [
-      "Bubble Top",
-      "Storage Bin",
-      "Digital Display",
-      "Castors"
-    ],
+    "addons": [],
     "familyProducts": [
-      {
-        "name": "B301SA",
-        "keySpecs": {
-          "Dimensions (mm)": "820 (D) x 1016 (H)",
-          "Capacity": "144 Kgs"
-        }
-      },
       {
         "name": "B501SA",
         "keySpecs": {
-          "Dimensions (mm)": "820 (D) x 1016 (H)",
-          "Capacity": "217 Kgs"
+          "Capacity": "217 Kgs",
+          "Gross Volume": "217 Kgs"
         }
       },
       {
         "name": "B801SA",
         "keySpecs": {
-          "Dimensions (mm)": "820 (D) x 1016 (H)",
-          "Capacity": "348 Kgs"
-        }
-      },
-      {
-        "name": "B325H220",
-        "keySpecs": {
-          "Gross Volume": "",
-          "Temperature range (°C)": "",
-          "No. of  Baskets": "1",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "B425H220",
-        "keySpecs": {
-          "Gross Volume": "",
-          "Temperature range (°C)": "",
-          "No. of  Baskets": "1 in Freezer Cabinet",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "B525H220",
-        "keySpecs": {
-          "Gross Volume": "",
-          "Temperature range (°C)": "",
-          "No. of  Baskets": "1 in Freezer Cabinet",
-          "Temperature Range": ""
+          "Capacity": "348 Kgs",
+          "Gross Volume": "348 Kgs"
         }
       }
     ]

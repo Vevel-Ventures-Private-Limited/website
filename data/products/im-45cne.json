@@ -9,102 +9,42 @@
   ],
   "description": "Product Specification:\n\nDimensions (mm): 633 (W) x 506 (D) x 690 (H)\nIce Shape: Square\nProduction Capacity: 44 kgs/day\n\nProduct Specification:\n\n\n\nDimension (mm): 633 (W) x 506 (D) x 690 (H)\nIce Shape: Square\nCapacity:36 kgs/day\nA.T. 10°C W.T.10°C: 36 kgs/day\nProduction Capacity:\nA.T. 21°C W.T.15°C:32\nA.T. 32°C W.T. 21°C:29\nBin Capacity:15\nShipping weight (kgs):56",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Dimensions (mm)": "633 (W) x 506 (D) x 690 (H)",
     "Ice Shape": "Square",
-    "Production Capacity": "44 kgs/day",
+    "Production Capacity": "",
+    "Dimension (mm)": "633 (W) x 506 (D) x 690 (H)",
     "Capacity": "36 kgs/day",
-    "Bin Capacity": "15"
+    "A.T. 10°C W.T.10°C": "36 kgs/day",
+    "A.T. 21°C W.T.15°C": "32",
+    "A.T. 32°C W.T. 21°C": "29",
+    "Bin Capacity": "15",
+    "Shipping weight (kgs)": "56"
+  },
+  "keySpecifications": {
+    "Ice Shape": "Square",
+    "Capacity": "36 kgs/day",
+    "Gross Volume": "36 kgs/day"
   },
   "differentiatingSpecs": [
-    "Production Capacity",
-    "Ice Shape"
+    "Ice Shape",
+    "Capacity",
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
-      "IM130NE",
-      "IM240NE",
-      "IM-30CA",
-      "IM 45CA",
-      "IM130A",
-      "IM220AA",
-      "IM-240A-HC1",
       "IM-65NE-Q",
       "IM-65NE-LM"
     ],
-    "addons": [
-      "Bubble Top",
-      "Storage Bin",
-      "Digital Display",
-      "Castors"
-    ],
+    "addons": [],
     "familyProducts": [
-      {
-        "name": "IM130NE",
-        "keySpecs": {
-          "Dimensions (mm)": "704(W) x 506(D) x 1200(H)",
-          "Ice Shape": "Cube",
-          "Production Capacity": "100 kgs/day"
-        }
-      },
-      {
-        "name": "IM240NE",
-        "keySpecs": {
-          "Dimensions (mm)": "704(W) x 665(D) x 1600(H)",
-          "Ice Shape": "Cube",
-          "Production Capacity": "220 kgs/day"
-        }
-      },
-      {
-        "name": "IM-30CA",
-        "keySpecs": {
-          "Ice Shape": "Square",
-          "Capacity": "27 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "12"
-        }
-      },
-      {
-        "name": "IM 45CA",
-        "keySpecs": {
-          "Ice Shape": "Square",
-          "Capacity": "45 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "12"
-        }
-      },
-      {
-        "name": "IM130A",
-        "keySpecs": {
-          "Dimensions (mm)": "60(W) x 570(D) x 1200(H)",
-          "Ice Shape": "Square",
-          "Production Capacity": "126 Kgs/Day"
-        }
-      },
-      {
-        "name": "IM220AA",
-        "keySpecs": {
-          "Dimensions (mm)": "560 (W) x D639 (D) x 775 (H)",
-          "Ice Shape": "Square",
-          "Production Capacity": "175Kg/day"
-        }
-      },
-      {
-        "name": "IM-240A-HC1",
-        "keySpecs": {
-          "Dimensions (mm)": "560(W) x 700(D) x 880(H)",
-          "Ice Shape/Size (mm)": "Cube / 28x28x32",
-          "Production Capacity": "190 kgs/day"
-        }
-      },
       {
         "name": "IM-65NE-Q",
         "keySpecs": {
           "Ice Shape": "Ball",
           "Capacity": "26 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "17"
+          "Gross Volume": "26 kgs/day"
         }
       },
       {
@@ -112,18 +52,7 @@
         "keySpecs": {
           "Ice Shape": "Extra large",
           "Capacity": "40 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "26"
-        }
-      },
-      {
-        "name": "IM-45CNE",
-        "keySpecs": {
-          "Dimensions (mm)": "633 (W) x 506 (D) x 690 (H)",
-          "Ice Shape": "Square",
-          "Production Capacity": "44 kgs/day",
-          "Capacity": "36 kgs/day",
-          "Bin Capacity": "15"
+          "Gross Volume": "40 kgs/day"
         }
       }
     ]

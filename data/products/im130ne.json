@@ -9,11 +9,15 @@
   ],
   "description": "Product Specification:\n\nDimensions (mm): 704(W) x 506(D) x 1200(H)\nIce Shape: Cube\nProduction Capacity: 100 kgs/day",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Dimensions (mm)": "704(W) x 506(D) x 1200(H)",
     "Ice Shape": "Cube",
     "Production Capacity": "100 kgs/day"
+  },
+  "keySpecifications": {
+    "Production Capacity": "100 kgs/day",
+    "Ice Shape": "Cube"
   },
   "differentiatingSpecs": [
     "Production Capacity",
@@ -22,106 +26,54 @@
   "variations": {
     "capacity": [
       "IM240NE",
-      "IM-30CA",
-      "IM 45CA",
-      "IM130A",
-      "IM220AA",
-      "IM-240A-HC1",
-      "IM-65NE-Q",
-      "IM-65NE-LM",
-      "IM-45CNE"
+      "KM 40B",
+      "KM 55B",
+      "KM 80B",
+      "KM-1301SAH E",
+      "KM140B"
     ],
-    "addons": [
-      "Bubble Top",
-      "Storage Bin",
-      "Digital Display",
-      "Castors"
-    ],
+    "addons": [],
     "familyProducts": [
-      {
-        "name": "IM130NE",
-        "keySpecs": {
-          "Dimensions (mm)": "704(W) x 506(D) x 1200(H)",
-          "Ice Shape": "Cube",
-          "Production Capacity": "100 kgs/day"
-        }
-      },
       {
         "name": "IM240NE",
         "keySpecs": {
-          "Dimensions (mm)": "704(W) x 665(D) x 1600(H)",
-          "Ice Shape": "Cube",
-          "Production Capacity": "220 kgs/day"
+          "Production Capacity": "220 kgs/day",
+          "Ice Shape": "Cube"
         }
       },
       {
-        "name": "IM-30CA",
+        "name": "KM 40B",
         "keySpecs": {
-          "Ice Shape": "Square",
-          "Capacity": "27 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "12"
+          "Production Capacity": "43 kgs/day",
+          "Ice Shape": "Crescent Type"
         }
       },
       {
-        "name": "IM 45CA",
+        "name": "KM 55B",
         "keySpecs": {
-          "Ice Shape": "Square",
-          "Capacity": "45 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "12"
+          "Production Capacity": "53 kgs/day",
+          "Ice Shape": "Crescent"
         }
       },
       {
-        "name": "IM130A",
+        "name": "KM 80B",
         "keySpecs": {
-          "Dimensions (mm)": "60(W) x 570(D) x 1200(H)",
-          "Ice Shape": "Square",
-          "Production Capacity": "126 Kgs/Day"
+          "Production Capacity": "79 kgs/day",
+          "Ice Shape": "Crescent"
         }
       },
       {
-        "name": "IM220AA",
+        "name": "KM-1301SAH E",
         "keySpecs": {
-          "Dimensions (mm)": "560 (W) x D639 (D) x 775 (H)",
-          "Ice Shape": "Square",
-          "Production Capacity": "175Kg/day"
+          "Production Capacity": "505 kgs/day",
+          "Ice Shape": "Crescent"
         }
       },
       {
-        "name": "IM-240A-HC1",
+        "name": "KM140B",
         "keySpecs": {
-          "Dimensions (mm)": "560(W) x 700(D) x 880(H)",
-          "Ice Shape/Size (mm)": "Cube / 28x28x32",
-          "Production Capacity": "190 kgs/day"
-        }
-      },
-      {
-        "name": "IM-65NE-Q",
-        "keySpecs": {
-          "Ice Shape": "Ball",
-          "Capacity": "26 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "17"
-        }
-      },
-      {
-        "name": "IM-65NE-LM",
-        "keySpecs": {
-          "Ice Shape": "Extra large",
-          "Capacity": "40 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "26"
-        }
-      },
-      {
-        "name": "IM-45CNE",
-        "keySpecs": {
-          "Dimensions (mm)": "633 (W) x 506 (D) x 690 (H)",
-          "Ice Shape": "Square",
-          "Production Capacity": "44 kgs/day",
-          "Capacity": "36 kgs/day",
-          "Bin Capacity": "15"
+          "Production Capacity": "138 kgs/day",
+          "Ice Shape": "Crescent"
         }
       }
     ]

@@ -7,8 +7,7 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/With-Stock-800x1000.png",
       "keySpecs": {
         "Gross Volume": "232",
-        "Temperature Range": "2° to 10° C",
-        "No. Of Shelves": "Base + 3 Shelves"
+        "Temperature Range": "2° to 10° C"
       }
     },
     {
@@ -16,8 +15,7 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/With-Stock-1-800x1000.png",
       "keySpecs": {
         "Gross Volume": "360 Liters",
-        "Temperature Range": "2° to 10° C",
-        "No. Of Shelves": "Base + 3 Shelves"
+        "Temperature Range": "2° to 10° C"
       }
     },
     {
@@ -25,8 +23,7 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/Right-Angle-With-Stock-800x1000.png",
       "keySpecs": {
         "Gross Volume": "500 Liters",
-        "Temperature Range": "2° to 10° C",
-        "No. Of Shelves": "Base + 3 Shelves"
+        "Temperature Range": "2° to 10° C"
       }
     },
     {
@@ -34,8 +31,7 @@
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/With-Stock-2-800x1000.png",
       "keySpecs": {
         "Gross Volume": "660",
-        "Temperature Range": "2° to 10° C",
-        "No. Of Shelves": "Base + 3 Shelves"
+        "Temperature Range": "2° to 10° C"
       }
     },
     {
@@ -43,8 +39,8 @@
       "image": "https://westernequipments.com/wp-content/uploads/2026/07/Pastry-Cabinet-PPTW12HC-800x1000.png",
       "keySpecs": {
         "Gross Volume": "526L",
-        "No. of Shelves": "Base + 3",
-        "Temperature Range": "2°C to 10°C"
+        "Temperature Range": "2°C to 10°C",
+        "Shelves": "Base + 3"
       }
     },
     {
@@ -52,16 +48,14 @@
       "image": "https://westernequipments.com/wp-content/uploads/2026/07/PPTW15HC-Pastry-Cabinet-Right-Facing-800x1000.png",
       "keySpecs": {
         "Gross Volume": "671L",
-        "No. of Shelves": "Base + 3",
-        "Temperature Range": "2°C to 10°C"
+        "Temperature Range": "2°C to 10°C",
+        "Shelves": "Base + 3"
       }
     },
     {
       "name": "PTW15PHC-SBX",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/Right-Angle-With-Stock-1-800x1000.png",
       "keySpecs": {
-        "Gross Volume": "",
-        "Shelves": "",
         "Temperature Range": "2°C to 5°C"
       }
     }

@@ -13,81 +13,47 @@
   ],
   "description": "Product Specification:\n\nGross Volume :\nFreezer Application:                                            162 L\nCooler Application :                                             205 L\nExternal Dimension (mm): 1360 (W) x 695 (D) x 840 (H)\nInternal Dimension (mm): 562 (W) x 530 (D) x 685 (H)\nTemperature range (°C):\nFreezer Application:                                        <- 17.0°C\nCooler Application :                                         < 10.0°C\nInsulation (Polyurethane): 60mm\nFootprint (m2): 60mm\nNo. of  Baskets: 1 in Freezer Cabinet\nRefrigerant: R-290",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Gross Volume": "",
-    "Temperature range (°C)": "",
+    "Freezer Application": "<- 17.0°C",
+    "Cooler Application": "< 10.0°C",
+    "External Dimension (mm)": "1360 (W) x 695 (D) x 840 (H)",
+    "Internal Dimension (mm)": "562 (W) x 530 (D) x 685 (H)",
+    "Temperature Range": "",
+    "Insulation (Polyurethane)": "60mm",
+    "Footprint (m2)": "60mm",
     "No. of  Baskets": "1 in Freezer Cabinet",
-    "Temperature Range": ""
+    "Refrigerant": "R-290"
+  },
+  "keySpecifications": {
+    "Product Specification": "",
+    "Gross Volume": ""
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "External Dimension (mm)"
   ],
   "variations": {
     "capacity": [
-      "B301SA",
-      "B501SA",
-      "B801SA",
       "B325H220",
       "B525H220"
     ],
     "addons": [
-      "Castors (Wheels)",
-      "LED Lighting",
-      "Digital Display",
-      "Lock",
-      "Convertible Technology",
-      "Glass Top",
       "Baskets"
     ],
     "familyProducts": [
       {
-        "name": "B301SA",
-        "keySpecs": {
-          "Dimensions (mm)": "820 (D) x 1016 (H)",
-          "Capacity": "144 Kgs"
-        }
-      },
-      {
-        "name": "B501SA",
-        "keySpecs": {
-          "Dimensions (mm)": "820 (D) x 1016 (H)",
-          "Capacity": "217 Kgs"
-        }
-      },
-      {
-        "name": "B801SA",
-        "keySpecs": {
-          "Dimensions (mm)": "820 (D) x 1016 (H)",
-          "Capacity": "348 Kgs"
-        }
-      },
-      {
         "name": "B325H220",
         "keySpecs": {
-          "Gross Volume": "",
-          "Temperature range (°C)": "",
-          "No. of  Baskets": "1",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "B425H220",
-        "keySpecs": {
-          "Gross Volume": "",
-          "Temperature range (°C)": "",
-          "No. of  Baskets": "1 in Freezer Cabinet",
-          "Temperature Range": ""
+          "Product Specification": "",
+          "External Dimension (mm)": "1120 (W) x 695 (D) x 840 (H)"
         }
       },
       {
         "name": "B525H220",
         "keySpecs": {
-          "Gross Volume": "",
-          "Temperature range (°C)": "",
-          "No. of  Baskets": "1 in Freezer Cabinet",
-          "Temperature Range": ""
+          "Product Specification": "",
+          "External Dimension (mm)": "1610 (W) x 695 (D) x 840 (H)"
         }
       }
     ]

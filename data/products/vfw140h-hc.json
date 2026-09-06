@@ -15,49 +15,35 @@
   ],
   "description": "Product Specification:\n\nGross Volume: 142 L\nVaccine Capacity: 68 L\nDimensions (mm) WxDxH: 710(W) X 720(D) X 955(H)\nSafe Temperature Range: -15°C to -25°C\nOperating Condition: +5°C to +43°C\nNo. of Baskets: 4 Nos.\nRefrigerant: R-290",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Gross Volume": "142 L",
     "Vaccine Capacity": "68 L",
     "Dimensions (mm) WxDxH": "710(W) X 720(D) X 955(H)",
     "Safe Temperature Range": "-15°C to -25°C",
+    "Operating Condition": "+5°C to +43°C",
     "No. of Baskets": "4 Nos.",
-    "Temperature Range": "-15°C"
+    "Refrigerant": "R-290"
+  },
+  "keySpecifications": {
+    "Gross Volume": "142 L"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
       "VFW310H-HC"
     ],
     "addons": [
-      "Temperature Data Logger",
-      "Battery Backup",
-      "Lock",
-      "Audible Alarm"
+      "Baskets"
     ],
     "familyProducts": [
-      {
-        "name": "VFW140H-HC",
-        "keySpecs": {
-          "Gross Volume": "142 L",
-          "Vaccine Capacity": "68 L",
-          "Dimensions (mm) WxDxH": "710(W) X 720(D) X 955(H)",
-          "Safe Temperature Range": "-15°C to -25°C",
-          "No. of Baskets": "4 Nos.",
-          "Temperature Range": "-15°C"
-        }
-      },
       {
         "name": "VFW310H-HC",
         "keySpecs": {
           "Gross Volume": "317 L",
-          "Vaccine Capacity": "166 L",
-          "Dimensions (mm) WxDxH": "1230(W) X 720(D) X 965(H)",
-          "Temperature Range": "-15°C to -25°C",
-          "No. of Baskets": "8 Nos."
+          "Temperature Range": "-15°C to -25°C"
         }
       }
     ]

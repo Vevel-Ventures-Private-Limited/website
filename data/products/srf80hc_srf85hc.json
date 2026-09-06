@@ -14,16 +14,27 @@
   ],
   "description": "Product Specification:\n\nGross volume: 74 L\nNet Volume: 68 L\nExternal Dimension (mm) WxDxH:  502 x 556 x 729\nInternal Dimension (mm) WxDxH: 404 x 420 x 542\nProduct Display Area (m2): 0.19\nFootprint (m2): 0.28\nTemperature Range: -18°C to -24°C\nNo. of Shelves: 2\nRefrigerant: R-290",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
+    "Gross Volume": "74 L",
     "Net Volume": "68 L",
+    "External Dimension (mm) WxDxH": "502 x 556 x 729",
+    "Internal Dimension (mm) WxDxH": "404 x 420 x 542",
+    "Product Display Area (m2)": "0.19",
+    "Footprint (m2)": "0.28",
     "Temperature Range": "-18°C to -24°C",
-    "No. of Shelves": "2",
-    "Capacity": "68 L"
+    "Shelves": "2",
+    "Refrigerant": "R-290"
+  },
+  "keySpecifications": {
+    "Gross Volume": "74 L",
+    "Temperature Range": "-18°C to -24°C",
+    "Shelves": "2"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range"
+    "Temperature Range",
+    "Shelves"
   ],
   "variations": {
     "capacity": [
@@ -33,64 +44,46 @@
       "SRF555HC",
       "SRF825HC"
     ],
-    "addons": [
-      "LED Lighting",
-      "Digital Display",
-      "Lock"
-    ],
+    "addons": [],
     "familyProducts": [
       {
         "name": "SRF205HC",
         "keySpecs": {
-          "Net Volume": "109 L",
+          "Gross Volume": "138 L",
           "Temperature Range": "-26°C to -18°C",
-          "No. of Shelves": "3",
-          "Capacity": "109 L"
+          "Shelves": "3"
         }
       },
       {
         "name": "SRF295HC",
         "keySpecs": {
-          "Net Volume": "136 L",
+          "Gross Volume": "186 L",
           "Temperature Range": "-26°C to -18°C",
-          "No. of Shelves": "4",
-          "Capacity": "136 L"
+          "Shelves": "4"
         }
       },
       {
         "name": "SRF405HC",
         "keySpecs": {
-          "Net Volume": "295 L",
+          "Gross Volume": "344 L",
           "Temperature Range": "-18°C to -24°C",
-          "No. of Shelves": "5",
-          "Capacity": "295 L"
+          "Shelves": "5"
         }
       },
       {
         "name": "SRF555HC",
         "keySpecs": {
-          "Net Volume": "405 L",
+          "Gross Volume": "467 L",
           "Temperature Range": "-26°C to -18°C",
-          "No. of Shelves": "6",
-          "Capacity": "405 L"
-        }
-      },
-      {
-        "name": "SRF80HC/SRF85HC",
-        "keySpecs": {
-          "Net Volume": "68 L",
-          "Temperature Range": "-18°C to -24°C",
-          "No. of Shelves": "2",
-          "Capacity": "68 L"
+          "Shelves": "6"
         }
       },
       {
         "name": "SRF825HC",
         "keySpecs": {
-          "Net Volume": "623 L",
+          "Gross Volume": "700 L",
           "Temperature Range": "-28°C to -15°C",
-          "No. of Shelves": "5",
-          "Capacity": "623 L"
+          "Shelves": "5"
         }
       }
     ]

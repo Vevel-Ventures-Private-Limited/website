@@ -9,43 +9,91 @@
   ],
   "description": "Product Specification:\n\nExternal dimensions : 1400 (W) x 887 (D) x 1990 (H)\nGross Volume: 1350 Liter\nPower Supply: 230V AC / 50Hz\nNo. of Shelves: 8 nos. of GN rail (with shelves)\nTemperature Range: -2° to 12° C",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External dimensions": "1400 (W) x 887 (D) x 1990 (H)",
+    "Gross Volume": "1350 Liter",
+    "Power Supply": "230V AC / 50Hz",
+    "Shelves": "8 nos. of GN rail (with shelves)",
+    "Temperature Range": "-2° to 12° C"
+  },
   "keySpecifications": {
     "Gross Volume": "1350 Liter",
-    "No. of Shelves": "8 nos. of GN rail (with shelves)",
-    "Temperature Range": "-2° to 12° C"
+    "Temperature Range": "-2° to 12° C",
+    "Shelves": "8 nos. of GN rail (with shelves)"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range"
+    "Shelves"
   ],
   "variations": {
     "capacity": [
-      "HRWP77LS3-GN"
+      "HRW-126MS4",
+      "HRW-76MS4",
+      "HRWP77LS3-GN",
+      "HRWH77MS4/LS4",
+      "HRWH127MS4/LS4",
+      "HRWH147MS4/LS4",
+      "HRW-187MS4/LS4"
     ],
     "addons": [
-      "GN Rail System",
-      "Drawers",
-      "Glass Door",
-      "Digital Display",
-      "Lock",
-      "Splash Back Top"
+      "GN Rail"
     ],
     "familyProducts": [
       {
-        "name": "HRWP147LS3-GN",
+        "name": "HRW-126MS4",
         "keySpecs": {
-          "Gross Volume": "1350 Liter",
-          "No. of Shelves": "8 nos. of GN rail (with shelves)",
-          "Temperature Range": "-2° to 12° C"
+          "Gross Volume": "988 Liter",
+          "Temperature Range": "-2° to 12° C",
+          "Shelves": "08"
+        }
+      },
+      {
+        "name": "HRW-76MS4",
+        "keySpecs": {
+          "Gross Volume": "507 Litres",
+          "Temperature Range": "-2° to 12° C",
+          "Shelves": "04"
         }
       },
       {
         "name": "HRWP77LS3-GN",
         "keySpecs": {
           "Gross Volume": "620 Liter",
-          "No. of Shelves": "4 nos. of GN rail (with shelves)",
-          "Temperature Range": "-2° to 12° C"
+          "Temperature Range": "-2° to 12° C",
+          "Shelves": "4 nos. of GN rail (with shelves)"
+        }
+      },
+      {
+        "name": "HRWH77MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "628 Litres",
+          "Temperature Range": "-2° to 12° C",
+          "Shelves": "04"
+        }
+      },
+      {
+        "name": "HRWH127MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "1119 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "Shelves": "08"
+        }
+      },
+      {
+        "name": "HRWH147MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "1365 Liters",
+          "Temperature Range": "-2° to 12° C",
+          "Shelves": "08"
+        }
+      },
+      {
+        "name": "HRW-187MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "1720 Litres",
+          "Temperature Range": "-2° to 12° C",
+          "Shelves": "12"
         }
       }
     ]

@@ -9,16 +9,27 @@
   ],
   "description": "Product Specification:\n\n\n\nDimension (mm): 762 (W) x 700 (D) x 780 (H)\nIce Shape: Flakes\nCapacity:590 kgs/day\nA.T. 10°C W.T.10°C: 590 kgs/day\nProduction Capacity:\nA.T. 21°C W.T.15°C:500\nA.T. 32°C W.T. 21°C:390\nBin Capacity:Various\nShipping weight (kgs):143",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "Dimension (mm)": "762 (W) x 700 (D) x 780 (H)",
+    "Ice Shape": "Flakes",
+    "Capacity": "590 kgs/day",
+    "A.T. 10°C W.T.10°C": "590 kgs/day",
+    "Production Capacity": "",
+    "A.T. 21°C W.T.15°C": "500",
+    "A.T. 32°C W.T. 21°C": "390",
+    "Bin Capacity": "Various",
+    "Shipping weight (kgs)": "143"
+  },
   "keySpecifications": {
     "Ice Shape": "Flakes",
     "Capacity": "590 kgs/day",
-    "Production Capacity": "",
-    "Bin Capacity": "Various"
+    "Gross Volume": "590 kgs/day"
   },
   "differentiatingSpecs": [
-    "Production Capacity",
-    "Ice Shape"
+    "Ice Shape",
+    "Capacity",
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
@@ -32,20 +43,14 @@
       "FM600AKE",
       "FM1000AKE"
     ],
-    "addons": [
-      "Bubble Top",
-      "Storage Bin",
-      "Digital Display",
-      "Castors"
-    ],
+    "addons": [],
     "familyProducts": [
       {
         "name": "FM-80KE",
         "keySpecs": {
           "Ice Shape": "Flakes",
           "Capacity": "65 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "32"
+          "Gross Volume": "65 kgs/day"
         }
       },
       {
@@ -53,8 +58,7 @@
         "keySpecs": {
           "Ice Shape": "Flakes",
           "Capacity": "65 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "32"
+          "Gross Volume": "65 kgs/day"
         }
       },
       {
@@ -62,8 +66,7 @@
         "keySpecs": {
           "Ice Shape": "Nuggets",
           "Capacity": "270 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "Various"
+          "Gross Volume": "270 kgs/day"
         }
       },
       {
@@ -71,8 +74,7 @@
         "keySpecs": {
           "Ice Shape": "Nuggets",
           "Capacity": "65 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "32"
+          "Gross Volume": "65 kgs/day"
         }
       },
       {
@@ -80,8 +82,7 @@
         "keySpecs": {
           "Ice Shape": "Flakes/Nuggets",
           "Capacity": "65 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "32"
+          "Gross Volume": "65 kgs/day"
         }
       },
       {
@@ -89,8 +90,7 @@
         "keySpecs": {
           "Ice Shape": "Flakes/Nuggets",
           "Capacity": "270 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "Various"
+          "Gross Volume": "270 kgs/day"
         }
       },
       {
@@ -98,8 +98,7 @@
         "keySpecs": {
           "Ice Shape": "Nuggets",
           "Capacity": "500 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "Various"
+          "Gross Volume": "500 kgs/day"
         }
       },
       {
@@ -107,17 +106,7 @@
         "keySpecs": {
           "Ice Shape": "Flakes",
           "Capacity": "600 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "Various"
-        }
-      },
-      {
-        "name": "FM750AKE",
-        "keySpecs": {
-          "Ice Shape": "Flakes",
-          "Capacity": "590 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "Various"
+          "Gross Volume": "600 kgs/day"
         }
       },
       {
@@ -125,8 +114,7 @@
         "keySpecs": {
           "Ice Shape": "Flakes",
           "Capacity": "860 kgs/day",
-          "Production Capacity": "",
-          "Bin Capacity": "Various"
+          "Gross Volume": "860 kgs/day"
         }
       }
     ]

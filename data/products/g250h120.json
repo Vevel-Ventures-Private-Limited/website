@@ -13,15 +13,19 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm): 940 (W) x 640 (D) x 905 (H)\nGross volume: 142 Liters\nTemperature range (°C): < – 17.0°C\nNo. of Baskets: N/A",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "940 (W) x 640 (D) x 905 (H)",
+    "Gross Volume": "142 Liters",
+    "Temperature Range": "< – 17.0°C",
+    "No. of Baskets": "N/A"
+  },
   "keySpecifications": {
-    "Temperature range (°C)": "< – 17.0°C",
-    "No. of Baskets": "N/A",
-    "Temperature Range": ""
+    "Gross Volume": "142 Liters",
+    "Temperature Range": "< – 17.0°C"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
@@ -29,35 +33,21 @@
       "G300H220"
     ],
     "addons": [
-      "Castors (Wheels)",
-      "LED Lighting",
-      "Digital Display",
-      "Lock",
-      "Convertible Technology",
-      "Glass Top"
+      "Baskets"
     ],
     "familyProducts": [
       {
         "name": "G200H120",
         "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "N/A",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "G250H120",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "N/A",
-          "Temperature Range": ""
+          "Gross Volume": "117 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       },
       {
         "name": "G300H220",
         "keySpecs": {
-          "Temperature Range": "< – 17.0°C",
-          "No. of Baskets": "N/A"
+          "Gross Volume": "206 Liters",
+          "Temperature Range": "< – 17.0°C"
         }
       }
     ]

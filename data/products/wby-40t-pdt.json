@@ -13,44 +13,28 @@
   ],
   "description": "Product Specification:\n\nDimensions (mm): 475(W) x 540(D) (558 with handle) x 765(H)\nWeight (kg): 40 (+/- 5)\nWashing Capacity (Basket / Hr): 33/26/18\nWashing Tank Capacity: 18.4 Liters\nBoiler Tank Capacity: 2.8 Liters\nWater consumption: 2.5 ltr. per cycle\nWashing Pump Power: 0.31 kW\nMax Noise: 70 dBA",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Dimensions (mm)": "475(W) x 540(D) (558 with handle) x 765(H)",
+    "Weight (kg)": "40 (+/- 5)",
     "Washing Capacity (Basket / Hr)": "33/26/18",
     "Washing Tank Capacity": "18.4 Liters",
     "Boiler Tank Capacity": "2.8 Liters",
-    "Capacity": "18.4 Liters"
+    "Water consumption": "2.5 ltr. per cycle",
+    "Washing Pump Power": "0.31 kW",
+    "Max Noise": "70 dBA"
+  },
+  "keySpecifications": {
+    "Product Specification": "",
+    "Dimensions (mm)": "475(W) x 540(D) (558 with handle) x 765(H)"
   },
   "differentiatingSpecs": [
     "Gross Volume",
     "Temperature Range"
   ],
   "variations": {
-    "capacity": [
-      "WBY-50T-PDT (Undercounter Dishwasher)"
-    ],
+    "capacity": [],
     "addons": [],
-    "familyProducts": [
-      {
-        "name": "WBY-50T-PDT (Undercounter Dishwasher)",
-        "keySpecs": {
-          "Dimensions (mm)": "595(W) x 645(D) (661 with handle) x 830(H)",
-          "Washing Capacity (Basket/Hr)": "35/27/23/20/18",
-          "Washing Tank Capacity": "27 Liters",
-          "Boiler Tank Capacity": "6 Liters",
-          "Capacity": "27 Liters"
-        }
-      },
-      {
-        "name": "WBY-40T-PDT",
-        "keySpecs": {
-          "Dimensions (mm)": "475(W) x 540(D) (558 with handle) x 765(H)",
-          "Washing Capacity (Basket / Hr)": "33/26/18",
-          "Washing Tank Capacity": "18.4 Liters",
-          "Boiler Tank Capacity": "2.8 Liters",
-          "Capacity": "18.4 Liters"
-        }
-      }
-    ]
+    "familyProducts": []
   }
 }

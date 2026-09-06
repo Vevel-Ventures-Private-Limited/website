@@ -8,8 +8,7 @@
       "keySpecs": {
         "Ice Shape": "Flakes",
         "Capacity": "65 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "32"
+        "Gross Volume": "65 kgs/day"
       }
     },
     {
@@ -18,8 +17,7 @@
       "keySpecs": {
         "Ice Shape": "Flakes",
         "Capacity": "65 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "32"
+        "Gross Volume": "65 kgs/day"
       }
     },
     {
@@ -28,8 +26,7 @@
       "keySpecs": {
         "Ice Shape": "Nuggets",
         "Capacity": "270 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Gross Volume": "270 kgs/day"
       }
     },
     {
@@ -38,8 +35,7 @@
       "keySpecs": {
         "Ice Shape": "Nuggets",
         "Capacity": "65 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "32"
+        "Gross Volume": "65 kgs/day"
       }
     },
     {
@@ -48,8 +44,7 @@
       "keySpecs": {
         "Ice Shape": "Flakes/Nuggets",
         "Capacity": "65 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "32"
+        "Gross Volume": "65 kgs/day"
       }
     },
     {
@@ -58,8 +53,7 @@
       "keySpecs": {
         "Ice Shape": "Flakes/Nuggets",
         "Capacity": "270 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Gross Volume": "270 kgs/day"
       }
     },
     {
@@ -68,8 +62,7 @@
       "keySpecs": {
         "Ice Shape": "Nuggets",
         "Capacity": "500 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Gross Volume": "500 kgs/day"
       }
     },
     {
@@ -78,8 +71,7 @@
       "keySpecs": {
         "Ice Shape": "Flakes",
         "Capacity": "600 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Gross Volume": "600 kgs/day"
       }
     },
     {
@@ -88,8 +80,7 @@
       "keySpecs": {
         "Ice Shape": "Flakes",
         "Capacity": "590 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Gross Volume": "590 kgs/day"
       }
     },
     {
@@ -98,8 +89,7 @@
       "keySpecs": {
         "Ice Shape": "Flakes",
         "Capacity": "860 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Gross Volume": "860 kgs/day"
       }
     }
   ]

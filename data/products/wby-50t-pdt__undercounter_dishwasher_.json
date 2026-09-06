@@ -13,42 +13,35 @@
   ],
   "description": "Dimensions (mm): 595(W) x 645(D) (661 with handle) x 830(H)\nWeight (kg): 70 (+/- 5)\nWashing Capacity (Basket/Hr): 35/27/23/20/18\nWashing Tank Capacity: 27 Liters\nBoiler Tank Capacity: 6 Liters\nWater consumption: 2.8 ltr. per cycle\nWashing Pump Power: 0.66 kW\nRinsing Pump Power: 0.25 kW\nMax Noise: 70dBA",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
     "Dimensions (mm)": "595(W) x 645(D) (661 with handle) x 830(H)",
+    "Weight (kg)": "70 (+/- 5)",
     "Washing Capacity (Basket/Hr)": "35/27/23/20/18",
     "Washing Tank Capacity": "27 Liters",
     "Boiler Tank Capacity": "6 Liters",
-    "Capacity": "27 Liters"
+    "Water consumption": "2.8 ltr. per cycle",
+    "Washing Pump Power": "0.66 kW",
+    "Rinsing Pump Power": "0.25 kW",
+    "Max Noise": "70dBA"
+  },
+  "keySpecifications": {
+    "Dimensions (mm)": "595(W) x 645(D) (661 with handle) x 830(H)",
+    "Weight (kg)": "70 (+/- 5)"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Dimensions (mm)"
   ],
   "variations": {
     "capacity": [
-      "WBY-40T-PDT"
+      "WBM-1080-T           (Hood Type Dishwasher)"
     ],
     "addons": [],
     "familyProducts": [
       {
-        "name": "WBY-50T-PDT (Undercounter Dishwasher)",
+        "name": "WBM-1080-T           (Hood Type Dishwasher)",
         "keySpecs": {
-          "Dimensions (mm)": "595(W) x 645(D) (661 with handle) x 830(H)",
-          "Washing Capacity (Basket/Hr)": "35/27/23/20/18",
-          "Washing Tank Capacity": "27 Liters",
-          "Boiler Tank Capacity": "6 Liters",
-          "Capacity": "27 Liters"
-        }
-      },
-      {
-        "name": "WBY-40T-PDT",
-        "keySpecs": {
-          "Dimensions (mm)": "475(W) x 540(D) (558 with handle) x 765(H)",
-          "Washing Capacity (Basket / Hr)": "33/26/18",
-          "Washing Tank Capacity": "18.4 Liters",
-          "Boiler Tank Capacity": "2.8 Liters",
-          "Capacity": "18.4 Liters"
+          "Dimensions (mm)": "700(W) x 785(D) x 1480(H)",
+          "Electricity Consumption": "9.66 kW 380 V 3NPE 50Hz"
         }
       }
     ]

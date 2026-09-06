@@ -15,33 +15,71 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm): 360 (W) x 360 (D) x 655 (H)\nGross Volume: 34.5 L\nTemperature Range: 0° to 10° C\nNo. of Shelves: 3",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "360 (W) x 360 (D) x 655 (H)",
+    "Gross Volume": "34.5 L",
+    "Temperature Range": "0° to 10° C",
+    "Shelves": "3"
+  },
   "keySpecifications": {
     "Gross Volume": "34.5 L",
     "Temperature Range": "0° to 10° C",
-    "No. of Shelves": "3"
+    "Shelves": "3"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range"
+    "Temperature Range",
+    "Shelves"
   ],
   "variations": {
-    "capacity": [],
-    "addons": [
-      "LED Lighting",
-      "Digital Display",
-      "Castors (Wheels)",
-      "Lock",
-      "Auto-Defrost",
-      "Adjustable Shelves"
+    "capacity": [
+      "SRC60",
+      "SRC20HC-GL",
+      "SRC25HC-GL",
+      "SRC30HC-GL",
+      "SRC60HC-GL"
     ],
+    "addons": [],
     "familyProducts": [
       {
-        "name": "CPS30HC-GLGY",
+        "name": "SRC60",
         "keySpecs": {
-          "Gross Volume": "34.5 L",
-          "Temperature Range": "0° to 10° C",
-          "No. of Shelves": "3"
+          "Gross Volume": "59 L",
+          "Temperature Range": "<22°C @ (35°C ambient & 65% RH)",
+          "Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC20HC-GL",
+        "keySpecs": {
+          "Gross Volume": "27 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC25HC-GL",
+        "keySpecs": {
+          "Gross Volume": "29.5 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC30HC-GL",
+        "keySpecs": {
+          "Gross Volume": "37 Liters",
+          "Temperature Range": "0°C to 10°C",
+          "Shelves": "2"
+        }
+      },
+      {
+        "name": "SRC60HC-GL",
+        "keySpecs": {
+          "Gross Volume": "59 litres",
+          "Temperature Range": "0°C to 10°C",
+          "Shelves": "02"
         }
       }
     ]

@@ -13,30 +13,36 @@
   ],
   "description": "Dimensions (mm): 700(W) x 785(D) x 1480(H)\nElectricity Consumption: 9.66 kW 380 V 3NPE 50Hz\nWashing Capacity (Basket/Hr): 69/35/27/23/18\nWashing Tank Capacity: 22 Liters\nBoiler Tank Capacity: 7 Liters\nWashing Pump Power: 0.66 kW\nRinsing Pump Power: 0.25 kW\nWashing Heat Power: 2 kW\nRinsing Heat Power: 9 kW\nMax Noise: 70dBA",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
     "Dimensions (mm)": "700(W) x 785(D) x 1480(H)",
+    "Electricity Consumption": "9.66 kW 380 V 3NPE 50Hz",
     "Washing Capacity (Basket/Hr)": "69/35/27/23/18",
     "Washing Tank Capacity": "22 Liters",
     "Boiler Tank Capacity": "7 Liters",
-    "Capacity": "22 Liters"
+    "Washing Pump Power": "0.66 kW",
+    "Rinsing Pump Power": "0.25 kW",
+    "Washing Heat Power": "2 kW",
+    "Rinsing Heat Power": "9 kW",
+    "Max Noise": "70dBA"
+  },
+  "keySpecifications": {
+    "Dimensions (mm)": "700(W) x 785(D) x 1480(H)",
+    "Electricity Consumption": "9.66 kW 380 V 3NPE 50Hz"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Dimensions (mm)"
   ],
   "variations": {
-    "capacity": [],
+    "capacity": [
+      "WBY-50T-PDT (Undercounter Dishwasher)"
+    ],
     "addons": [],
     "familyProducts": [
       {
-        "name": "WBM-1080-T           (Hood Type Dishwasher)",
+        "name": "WBY-50T-PDT (Undercounter Dishwasher)",
         "keySpecs": {
-          "Dimensions (mm)": "700(W) x 785(D) x 1480(H)",
-          "Washing Capacity (Basket/Hr)": "69/35/27/23/18",
-          "Washing Tank Capacity": "22 Liters",
-          "Boiler Tank Capacity": "7 Liters",
-          "Capacity": "22 Liters"
+          "Dimensions (mm)": "595(W) x 645(D) (661 with handle) x 830(H)",
+          "Weight (kg)": "70 (+/- 5)"
         }
       }
     ]

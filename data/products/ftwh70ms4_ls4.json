@@ -14,50 +14,63 @@
   ],
   "description": "Product Specification:\n\nExternal dimensions : 700 (W) x 755 (D) x 850 (H)\nGross Volume: 171 Liters\nPower Supply: 230V AC/50 Hz\nTemperature Range: -7° to 23° C\nNo. of Shelves: 2\nProduct Variations:\n\t\t\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 25%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tWith Splash Back Top 150mm",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External dimensions": "700 (W) x 755 (D) x 850 (H)",
+    "Gross Volume": "171 Liters",
+    "Power Supply": "230V AC/50 Hz",
+    "Temperature Range": "-7° to 23° C",
+    "Shelves": "2",
+    "Product Variations": "#gallery-1 {",
+    "margin": "auto;",
+    "float": "left;",
+    "margin-top": "10px;",
+    "text-align": "center;",
+    "width": "25%;",
+    "border": "2px solid #cfcfcf;",
+    "margin-left": "0;"
+  },
   "keySpecifications": {
     "Gross Volume": "171 Liters",
     "Temperature Range": "-7° to 23° C",
-    "No. of Shelves": "2"
+    "Shelves": "2"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range"
+    "Temperature Range",
+    "Shelves"
   ],
   "variations": {
     "capacity": [
       "FTWH120MS4/LS4",
+      "FTWP127LS3-GN",
       "FTWH126MS4/LS4",
       "FTWH150MS4/LS4",
       "FTWH156MS4/LS4",
       "FTWH127MS4-GN/LS4-GN",
       "FTWH177MS4-GN/LS4-GN",
+      "FTWP177LS3-GN",
       "FTWH180MS4/LS4",
       "FTWH186MS4/LS4"
     ],
     "addons": [
-      "GN Rail System",
-      "Drawers",
-      "Glass Door",
-      "Digital Display",
-      "Lock",
-      "Splash Back Top"
+      "Splash Back"
     ],
     "familyProducts": [
-      {
-        "name": "FTWH70MS4/LS4",
-        "keySpecs": {
-          "Gross Volume": "171 Liters",
-          "Temperature Range": "-7° to 23° C",
-          "No. of Shelves": "2"
-        }
-      },
       {
         "name": "FTWH120MS4/LS4",
         "keySpecs": {
           "Gross Volume": "306 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "4"
+          "Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWP127LS3-GN",
+        "keySpecs": {
+          "Gross Volume": "282 Liters",
+          "Temperature Range": "-7°C to -23°C",
+          "Shelves": "4 nos. of GN rail (with shelves)"
         }
       },
       {
@@ -65,7 +78,7 @@
         "keySpecs": {
           "Gross Volume": "233 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "4"
+          "Shelves": "4"
         }
       },
       {
@@ -73,7 +86,7 @@
         "keySpecs": {
           "Gross Volume": "418 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "4"
+          "Shelves": "4"
         }
       },
       {
@@ -81,7 +94,7 @@
         "keySpecs": {
           "Gross Volume": "318 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "4"
+          "Shelves": "4"
         }
       },
       {
@@ -89,7 +102,7 @@
         "keySpecs": {
           "Gross Volume": "282 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "4"
+          "Shelves": "4"
         }
       },
       {
@@ -97,7 +110,15 @@
         "keySpecs": {
           "Gross Volume": "436 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "6"
+          "Shelves": "6"
+        }
+      },
+      {
+        "name": "FTWP177LS3-GN",
+        "keySpecs": {
+          "Gross Volume": "436 Liters",
+          "Temperature Range": "-7°C to -23°C",
+          "Shelves": "6"
         }
       },
       {
@@ -105,7 +126,7 @@
         "keySpecs": {
           "Gross Volume": "526 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "6"
+          "Shelves": "6"
         }
       },
       {
@@ -113,7 +134,7 @@
         "keySpecs": {
           "Gross Volume": "400 Liters",
           "Temperature Range": "-7° to -23° C",
-          "No. of Shelves": "6"
+          "Shelves": "6"
         }
       }
     ]

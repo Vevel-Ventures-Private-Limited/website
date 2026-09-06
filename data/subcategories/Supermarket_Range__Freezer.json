@@ -8,15 +8,16 @@
       "keySpecs": {
         "Gross Volume": "1454 litres",
         "Temperature Range": "0°C to 10°C",
-        "No. of Shelves": "15"
+        "Shelves": "15"
       }
     },
     {
       "name": "SMF12",
       "image": "https://westernequipments.com/wp-content/uploads/2026/07/SMF12-Left-Angle-800x1000.png",
       "keySpecs": {
-        "No. of Shelves": "10",
-        "Temperature Range": "<-18°C"
+        "Gross Volume": "935 Liters",
+        "Temperature Range": "<-18°C",
+        "Shelves": "10"
       }
     }
   ]

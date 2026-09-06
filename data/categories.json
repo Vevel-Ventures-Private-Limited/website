@@ -1,7 +1,7 @@
 [
   {
     "name": "Visi Cooler",
-    "image": "https://westernequipments.com/wp-content/uploads/2024/08/SRC-60-Right-Side-800x1000.png",
+    "image": "https://westernequipments.com/wp-content/uploads/2026/07/SRC200HC-GL.png",
     "subCategories": [
       "Counter Top",
       "Single Door",
@@ -36,15 +36,6 @@
       "Under Counter Drawer"
     ],
     "productCount": 49
-  },
-  {
-    "name": "Supermarket Range",
-    "image": "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-17-800x1000.png",
-    "subCategories": [
-      "Chiller",
-      "Freezer"
-    ],
-    "productCount": 6
   },
   {
     "name": "Deep Freezer",
@@ -85,6 +76,15 @@
       "Golden Confectionery Cabinet"
     ],
     "productCount": 1
+  },
+  {
+    "name": "Storage Water Cooler",
+    "image": "https://westernequipments.com/wp-content/uploads/2024/05/PWC-40806080-1-800x1000.png",
+    "subCategories": [
+      "Precoated Water Cooler",
+      "Stainless Steel Water Cooler"
+    ],
+    "productCount": 8
   },
   {
     "name": "Back Bar",
@@ -137,12 +137,12 @@
     "productCount": 1
   },
   {
-    "name": "Storage Water Cooler",
-    "image": "https://westernequipments.com/wp-content/uploads/2024/05/PWC-40806080-1-800x1000.png",
+    "name": "Supermarket Range",
+    "image": "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-17-800x1000.png",
     "subCategories": [
-      "Precoated Water Cooler",
-      "Stainless Steel Water Cooler"
+      "Chiller",
+      "Freezer"
     ],
-    "productCount": 8
+    "productCount": 6
   }
 ]

@@ -9,35 +9,95 @@
   ],
   "description": "Product Specification:\n\nExternal dimensions : 1200 (W) x 700 (D) x 850 (H)\nGross Volume: 282 Liters\nPower Supply: 230V AC/50 Hz\nTemperature Range: -7°C to -23°C\nNo. of Shelves:  4 nos. of GN rail (with shelves)",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External dimensions": "1200 (W) x 700 (D) x 850 (H)",
+    "Gross Volume": "282 Liters",
+    "Power Supply": "230V AC/50 Hz",
+    "Temperature Range": "-7°C to -23°C",
+    "Shelves": "4 nos. of GN rail (with shelves)"
+  },
   "keySpecifications": {
     "Gross Volume": "282 Liters",
     "Temperature Range": "-7°C to -23°C",
-    "No. of Shelves": "4 nos. of GN rail (with shelves)"
+    "Shelves": "4 nos. of GN rail (with shelves)"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range"
+    "Temperature Range",
+    "Shelves"
   ],
   "variations": {
     "capacity": [
-      "FTWP177LS3-GN"
+      "FTWH70MS4/LS4",
+      "FTWH120MS4/LS4",
+      "FTWH126MS4/LS4",
+      "FTWH150MS4/LS4",
+      "FTWH156MS4/LS4",
+      "FTWH127MS4-GN/LS4-GN",
+      "FTWH177MS4-GN/LS4-GN",
+      "FTWP177LS3-GN",
+      "FTWH180MS4/LS4",
+      "FTWH186MS4/LS4"
     ],
     "addons": [
-      "GN Rail System",
-      "Drawers",
-      "Glass Door",
-      "Digital Display",
-      "Lock",
-      "Splash Back Top"
+      "GN Rail"
     ],
     "familyProducts": [
       {
-        "name": "FTWP127LS3-GN",
+        "name": "FTWH70MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "171 Liters",
+          "Temperature Range": "-7° to 23° C",
+          "Shelves": "2"
+        }
+      },
+      {
+        "name": "FTWH120MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "306 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH126MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "233 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH150MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "418 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH156MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "318 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH127MS4-GN/LS4-GN",
         "keySpecs": {
           "Gross Volume": "282 Liters",
-          "Temperature Range": "-7°C to -23°C",
-          "No. of Shelves": "4 nos. of GN rail (with shelves)"
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "4"
+        }
+      },
+      {
+        "name": "FTWH177MS4-GN/LS4-GN",
+        "keySpecs": {
+          "Gross Volume": "436 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "6"
         }
       },
       {
@@ -45,7 +105,23 @@
         "keySpecs": {
           "Gross Volume": "436 Liters",
           "Temperature Range": "-7°C to -23°C",
-          "No. of Shelves": "6"
+          "Shelves": "6"
+        }
+      },
+      {
+        "name": "FTWH180MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "526 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "6"
+        }
+      },
+      {
+        "name": "FTWH186MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "400 Liters",
+          "Temperature Range": "-7° to -23° C",
+          "Shelves": "6"
         }
       }
     ]

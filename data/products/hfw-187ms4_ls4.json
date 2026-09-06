@@ -13,33 +13,72 @@
   ],
   "description": "Product Specification:\n\nExternal dimensions : 1800 (W) x 818 (D) x 1990 (H)\nGross Volume: 1720 Liters\nPower Supply: 230V AC / 50Hz\nNo. of Shelves: 12\nTemperature Range: -7° to -25° C",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External dimensions": "1800 (W) x 818 (D) x 1990 (H)",
+    "Gross Volume": "1720 Liters",
+    "Power Supply": "230V AC / 50Hz",
+    "Shelves": "12",
+    "Temperature Range": "-7° to -25° C"
+  },
   "keySpecifications": {
     "Gross Volume": "1720 Liters",
-    "No. of Shelves": "12",
-    "Temperature Range": "-7° to -25° C"
+    "Temperature Range": "-7° to -25° C",
+    "Shelves": "12"
   },
   "differentiatingSpecs": [
     "Gross Volume",
-    "Temperature Range"
+    "Temperature Range",
+    "Shelves"
   ],
   "variations": {
-    "capacity": [],
-    "addons": [
-      "GN Rail System",
-      "Drawers",
-      "Glass Door",
-      "Digital Display",
-      "Lock",
-      "Splash Back Top"
+    "capacity": [
+      "HFWP147LS3-GN",
+      "HFWP77LS3-GN",
+      "HFWH77MS4/LS4",
+      "HFWH127MS4/LS4",
+      "HFWH147MS4/LS4"
     ],
+    "addons": [],
     "familyProducts": [
       {
-        "name": "HFW-187MS4/LS4",
+        "name": "HFWP147LS3-GN",
         "keySpecs": {
-          "Gross Volume": "1720 Liters",
-          "No. of Shelves": "12",
-          "Temperature Range": "-7° to -25° C"
+          "Gross Volume": "1350 Liter",
+          "Temperature Range": "-7°C to -25°C",
+          "Shelves": "8 nos. of GN rail (with shelves)"
+        }
+      },
+      {
+        "name": "HFWP77LS3-GN",
+        "keySpecs": {
+          "Gross Volume": "620 Liter",
+          "Temperature Range": "-7°C to -25°C",
+          "Shelves": "4 nos. of GN rail (with shelves)"
+        }
+      },
+      {
+        "name": "HFWH77MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "638 Litres",
+          "Temperature Range": "-7° to -25° C",
+          "Shelves": "04"
+        }
+      },
+      {
+        "name": "HFWH127MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "1119 Liters",
+          "Temperature Range": "-7°C to -25°C",
+          "Shelves": "08"
+        }
+      },
+      {
+        "name": "HFWH147MS4/LS4",
+        "keySpecs": {
+          "Gross Volume": "1365 Liters",
+          "Temperature Range": "-7° to -25° C",
+          "Shelves": "08"
         }
       }
     ]

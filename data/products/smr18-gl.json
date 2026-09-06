@@ -16,40 +16,51 @@
   ],
   "description": "Product Specification:\n\nExternal Dimension (mm): 1800 (W) x 757 (D) x 2022 (H)\nGross Volume: 1454 litres\nTemperature Range: 0°C to 10°C\nNo. of Shelves: 15",
   "features": [],
-  "specifications": {},
+  "specifications": {
+    "Product Specification": "",
+    "External Dimension (mm)": "1800 (W) x 757 (D) x 2022 (H)",
+    "Gross Volume": "1454 litres",
+    "Temperature Range": "0°C to 10°C",
+    "Shelves": "15"
+  },
   "keySpecifications": {
     "Gross Volume": "1454 litres",
     "Temperature Range": "0°C to 10°C",
-    "No. of Shelves": "15"
+    "Shelves": "15"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Temperature Range",
+    "Shelves",
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
+      "WOSC04WH",
+      "WOSC06WH",
       "SMR12-GL"
     ],
-    "addons": [
-      "LED Lighting",
-      "Digital Display",
-      "Castors"
-    ],
+    "addons": [],
     "familyProducts": [
+      {
+        "name": "WOSC04WH",
+        "keySpecs": {
+          "Temperature Range": "1°C to 10°C",
+          "Shelves": "04"
+        }
+      },
+      {
+        "name": "WOSC06WH",
+        "keySpecs": {
+          "Temperature Range": "1°C to 10°C",
+          "Shelves": "04"
+        }
+      },
       {
         "name": "SMR12-GL",
         "keySpecs": {
           "Gross Volume": "935 Liters",
           "Temperature Range": "0°C to 10°C",
-          "No. of Shelves": "10"
-        }
-      },
-      {
-        "name": "SMR18-GL",
-        "keySpecs": {
-          "Gross Volume": "1454 litres",
-          "Temperature Range": "0°C to 10°C",
-          "No. of Shelves": "15"
+          "Shelves": "10"
         }
       }
     ]

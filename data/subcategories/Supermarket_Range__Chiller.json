@@ -6,20 +6,16 @@
       "name": "WOSC04WH",
       "image": "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-17-800x1000.png",
       "keySpecs": {
-        "Net Volume": "610 Liters",
         "Temperature Range": "1°C to 10°C",
-        "No. of Shelves": "04",
-        "Capacity": "610 Liters"
+        "Shelves": "04"
       }
     },
     {
       "name": "WOSC06WH",
       "image": "https://westernequipments.com/wp-content/uploads/2024/09/Untitled-design-18-800x1000.png",
       "keySpecs": {
-        "Net Volume": "920 Liters",
         "Temperature Range": "1°C to 10°C",
-        "No. of Shelves": "04",
-        "Capacity": "920 Liters"
+        "Shelves": "04"
       }
     },
     {
@@ -28,7 +24,7 @@
       "keySpecs": {
         "Gross Volume": "935 Liters",
         "Temperature Range": "0°C to 10°C",
-        "No. of Shelves": "10"
+        "Shelves": "10"
       }
     },
     {
@@ -37,7 +33,7 @@
       "keySpecs": {
         "Gross Volume": "1454 litres",
         "Temperature Range": "0°C to 10°C",
-        "No. of Shelves": "15"
+        "Shelves": "15"
       }
     }
   ]

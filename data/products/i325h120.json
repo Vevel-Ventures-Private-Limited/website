@@ -15,44 +15,33 @@
   ],
   "description": "Product Specification:\n\nGross Volume: 154 L\nVaccine Capacity: 120 L\nExternal Dimensions: 1020mm (W) X 805mm (D) X 970mm (H)\nTemperature Range: +2°C to +8°C\nOperating Condition: +10°C to +43°C\nRefrigerant: R-290",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Gross Volume": "154 L",
     "Vaccine Capacity": "120 L",
     "External Dimensions": "1020mm (W) X 805mm (D) X 970mm (H)",
+    "Temperature Range": "+2°C to +8°C",
+    "Operating Condition": "+10°C to +43°C",
+    "Refrigerant": "R-290"
+  },
+  "keySpecifications": {
+    "Gross Volume": "154 L",
     "Temperature Range": "+2°C to +8°C"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
       "I425H120",
       "I525H120"
     ],
-    "addons": [
-      "Temperature Data Logger",
-      "Battery Backup",
-      "Lock",
-      "Audible Alarm"
-    ],
+    "addons": [],
     "familyProducts": [
-      {
-        "name": "I325H120",
-        "keySpecs": {
-          "Gross Volume": "154 L",
-          "Vaccine Capacity": "120 L",
-          "External Dimensions": "1020mm (W) X 805mm (D) X 970mm (H)",
-          "Temperature Range": "+2°C to +8°C"
-        }
-      },
       {
         "name": "I425H120",
         "keySpecs": {
           "Gross Volume": "253 L",
-          "Vaccine Capacity": "192 L",
-          "Dimensions (mm)": "1320(W) X 805(D) X 970(H)",
           "Temperature Range": "+2°C to +8°C"
         }
       },
@@ -60,9 +49,8 @@
         "name": "I525H120",
         "keySpecs": {
           "Gross Volume": "266 L",
-          "Vaccine Capacity": "216 L",
-          "Dimensions": "1410mm (W) X 805mm (D) X 970mm (H)",
-          "Temperature Range": "+2°C to +8°C"
+          "Temperature Range": "+2°C to +8°C",
+          "Dimensions": "1410mm (W) X 805mm (D) X 970mm (H)"
         }
       }
     ]

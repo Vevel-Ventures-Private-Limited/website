@@ -12,74 +12,38 @@
   ],
   "description": "Product Specification:\n\nGross Volume: 440L\nNet Volume: 406L\nExternal Dimension (mm):1600 (W) x 695 (D) x 920 (H)\nInternal Dimension (mm):1440 (W) x 490 (D) x 680 (H)\nInsulations (Polyurethane): 80mm\nFootprint(m2): 1.11\nNo. Of Baskets: NA\nRefrigerant: R-290\nTemperature Range:<- 17.0°C",
   "features": [],
-  "specifications": {},
-  "keySpecifications": {
+  "specifications": {
+    "Product Specification": "",
     "Gross Volume": "440L",
     "Net Volume": "406L",
+    "External Dimension (mm)": "1600 (W) x 695 (D) x 920 (H)",
+    "Internal Dimension (mm)": "1440 (W) x 490 (D) x 680 (H)",
+    "Insulations (Polyurethane)": "80mm",
+    "Footprint(m2)": "1.11",
     "No. Of Baskets": "NA",
+    "Refrigerant": "R-290",
+    "Temperature Range": "<- 17.0°C"
+  },
+  "keySpecifications": {
+    "Gross Volume": "440L",
     "Temperature Range": "<- 17.0°C"
   },
   "differentiatingSpecs": [
-    "Gross Volume",
-    "Temperature Range"
+    "Gross Volume"
   ],
   "variations": {
     "capacity": [
-      "E325H220",
-      "E425H220",
-      "E425D220",
-      "E425GT20"
+      "E425D220"
     ],
     "addons": [
-      "Castors (Wheels)",
-      "LED Lighting",
-      "Digital Display",
-      "Lock",
-      "Convertible Technology",
-      "Glass Top",
       "Baskets"
     ],
     "familyProducts": [
       {
-        "name": "E325H220",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "1",
-          "Temperature Range": ""
-        }
-      },
-      {
-        "name": "E425H220",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "2",
-          "Temperature Range": ""
-        }
-      },
-      {
         "name": "E425D220",
         "keySpecs": {
           "Gross Volume": "351L",
-          "Net Volume": "329L",
-          "No. Of Baskets": "2",
           "Temperature Range": "<- 17.0°C"
-        }
-      },
-      {
-        "name": "E525D320",
-        "keySpecs": {
-          "Gross Volume": "440L",
-          "Net Volume": "406L",
-          "No. Of Baskets": "NA",
-          "Temperature Range": "<- 17.0°C"
-        }
-      },
-      {
-        "name": "E425GT20",
-        "keySpecs": {
-          "Temperature range (°C)": "< – 17.0°C",
-          "No. of Baskets": "2",
-          "Temperature Range": ""
         }
       }
     ]

@@ -8,8 +8,7 @@
       "keySpecs": {
         "Ice Shape": "Square",
         "Capacity": "27 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "12"
+        "Gross Volume": "27 kgs/day"
       }
     },
     {
@@ -18,17 +17,15 @@
       "keySpecs": {
         "Ice Shape": "Square",
         "Capacity": "45 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "12"
+        "Gross Volume": "45 kgs/day"
       }
     },
     {
       "name": "IM130A",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/Design-4-800x1000.png",
       "keySpecs": {
-        "Dimensions (mm)": "60(W) x 570(D) x 1200(H)",
-        "Ice Shape": "Square",
-        "Production Capacity": "126 Kgs/Day"
+        "Production Capacity": "126 Kgs/Day",
+        "Ice Shape": "Square"
       }
     },
     {
@@ -37,8 +34,7 @@
       "keySpecs": {
         "Ice Shape": "Crescent",
         "Capacity": "27 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "16Kg"
+        "Gross Volume": "27 kgs/day"
       }
     },
     {
@@ -47,7 +43,7 @@
       "keySpecs": {
         "Ice Shape": "Crescent",
         "Capacity": "60 kgs/day",
-        "Bin Capacity": "26Kg"
+        "Gross Volume": "60 kgs/day"
       }
     },
     {
@@ -55,7 +51,6 @@
       "image": "https://westernequipments.com/wp-content/uploads/2026/07/ICE-Machine-KM-100S-HC1-800x1000.png",
       "keySpecs": {
         "Ice Shape": "Crescent Cube",
-        "Production Capacity (A.T. 21°C W.T.15°C)": "90 kgs/day",
         "Storage Capacity": "34"
       }
     },
@@ -63,37 +58,31 @@
       "name": "KM-80C",
       "image": "https://westernequipments.com/wp-content/uploads/2024/05/KM-80C-800x1000.png",
       "keySpecs": {
-        "Ice Shape": "Crescent",
         "Production Capacity": "75 kgs/day",
-        "Bin Capacity": "34"
+        "Ice Shape": "Crescent"
       }
     },
     {
       "name": "KM-130C",
       "image": "https://westernequipments.com/wp-content/uploads/2024/06/Design-41-800x1000.png",
       "keySpecs": {
-        "Ice Shape": "Crescent",
         "Production Capacity": "130 kgs/day",
-        "Bin Capacity": "55"
+        "Ice Shape": "Crescent"
       }
     },
     {
       "name": "KMD201AA",
       "image": "https://westernequipments.com/wp-content/uploads/2024/06/KMD201AA-800x1000.png",
       "keySpecs": {
-        "Ice Shape": "Crescent",
-        "Capacity": "",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Ice Shape": "Crescent"
       }
     },
     {
       "name": "IM220AA",
       "image": "https://westernequipments.com/wp-content/uploads/2023/10/IM-220AA.png",
       "keySpecs": {
-        "Dimensions (mm)": "560 (W) x D639 (D) x 775 (H)",
-        "Ice Shape": "Square",
-        "Production Capacity": "175Kg/day"
+        "Production Capacity": "175Kg/day",
+        "Ice Shape": "Square"
       }
     },
     {
@@ -102,16 +91,13 @@
       "keySpecs": {
         "Ice Shape": "Square",
         "Capacity": "265 kgs/day",
-        "Production Capacity": "",
-        "Bin Capacity": "Various"
+        "Gross Volume": "265 kgs/day"
       }
     },
     {
       "name": "IM-240A-HC1",
       "image": "https://westernequipments.com/wp-content/uploads/2026/08/IM-240A-HC1-Right-Angle-800x1000.png",
       "keySpecs": {
-        "Dimensions (mm)": "560(W) x 700(D) x 880(H)",
-        "Ice Shape/Size (mm)": "Cube / 28x28x32",
         "Production Capacity": "190 kgs/day"
       }
     },
@@ -119,9 +105,8 @@
       "name": "KM-470AJ-S",
       "image": "https://westernequipments.com/wp-content/uploads/2024/06/KM-470-800x1000.png",
       "keySpecs": {
-        "Dimensions (mm)": "762(W) x 695(D) x 825(H)",
-        "Ice Shape": "Crescent",
-        "Production Capacity": "495 kgs/day"
+        "Production Capacity": "495 kgs/day",
+        "Ice Shape": "Crescent"
       }
     }
   ]
